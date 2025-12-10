@@ -1,0 +1,24 @@
+.starting {
+  margin: 3rem auto;
+  text-align: center;
+}
+
+.starting h1 {
+  font-size: 5rem;
+}
+
+.homeDesc{
+  margin: 0px 24px 0px 24px;
+  color: rebeccapurple;
+}
+.homeDescKannada{
+  margin: 0px 24px 0px 24px;
+  color: black;
+}
+.avatarImg{
+	width: 100px;
+	height: 100px;
+  border-radius: 50px; /* половина ширины и высоты */
+  margin: 10px 10px 0px 0px;
+}
+

@@ -1,0 +1,56 @@
+/* Div using the width and float value left */
+/* .divContainer {
+  width: 100%;
+}
+.divContainer .div1 {
+  border: 1px solid black;
+  width: 20%;
+  float: left;
+  background-color: orange;
+}
+
+.divContainer .div3 {
+  border: 1px solid black;
+  width: 20%;
+  float: left;
+  background-color: green;
+}
+
+.divContainer .div2 {
+  border: 1px solid black;
+  width: 59.5%;
+  float: left;
+  background-color: white;
+} */
+
+/* // flex
+.divContainer {
+  width: 100%;
+  display: flex;
+}
+.div1 {
+  width: 20%;
+  background-color: orange;
+  border: 1px solid black;
+}
+.div2 {
+  width: 58%;
+  background-color: white;
+  border: 1px solid black;
+}
+.div3 {
+  width: 20%;
+  background-color: green;
+  border: 1px solid black;
+} */
+
+/* Inline-block
+.divContainer div {
+  display: inline-block;
+  width: 32%;
+} */
+
+.divContainer{
+  display: grid;
+  grid-template-columns: 20% 58% 20%;
+}

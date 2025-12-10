@@ -1,0 +1,17 @@
+
+$font-color: red;
+$border: 10px 10px 10px 10px;
+$background-color: blue;
+
+.header{
+    color: $font-color;
+    padding: 10%;
+    margin: $border;
+    background-color: $background-color;
+}
+.subHeader{
+    color: $font-color;
+    padding: 0px;
+    margin: $border;
+    background-color: $background-color;
+}

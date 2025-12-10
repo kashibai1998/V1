@@ -1,0 +1,29 @@
+.my-card{
+    background-color: red;
+    color:white;
+    font-size: 20px;
+}
+.hello{
+    color: blueviolet;
+}
+
+.main-content-center{
+    text-align: center;
+    .buttons-center{
+        text-align:center;
+        padding-bottom: 20px;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+}
+.content-data{
+    border: 1px solid gray;
+    width: 500px;
+    text-align: center;
+    padding:10px 100px 10px 100px;
+    margin:10px 500px 10px 500px;
+}
+.table-style, table, th, td{
+    border: 1px solid black;
+    text-align: center;
+}
