@@ -1,0 +1,32 @@
+[
+    {
+        "product_code": "1100",
+        "product_name": "Salt",
+        "product_type": "Food",
+        "unit_measurement": "1kg pack",
+        "price_per_unit": "$10.00",
+        "vat": "2%",
+        "actual_price": "$10.50",
+        "effective_date": "06 Sept 2021"
+    },
+    {
+        "product_code": "1201",
+        "product_name": "Milk",
+        "product_type": "Drink",
+        "unit_measurement": "2 Liter Bottels",
+        "price_per_unit": "$20.00",
+        "vat": "5%",
+        "actual_price": "$20.60",
+        "effective_date": "09 Sept 2021"
+    },
+    {
+        "product_code": "1250",
+        "product_name": "Napkins",
+        "product_type": "Non-Food & Drink",
+        "unit_measurement": "pack of 50",
+        "price_per_unit": "$100.00",
+        "vat": "9%",
+        "actual_price": "$105.85",
+        "effective_date": "05 Sept 2021"
+    }
+]

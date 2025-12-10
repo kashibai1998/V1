@@ -1,0 +1,1 @@
+export const getAllProduct = `http://localhost:8093/inventory/supplier/allProducts/adafd012-d8b8-4f30-9649-fea446921f15`;
