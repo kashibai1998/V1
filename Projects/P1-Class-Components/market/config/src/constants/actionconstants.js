@@ -1,0 +1,3 @@
+export const GET_ADD_ONS_DATA = 'GET_ADD_ONS_DATA';
+
+export const GET_PRODUCTS_DATA = 'GET_PRODUCTS_DATA';
