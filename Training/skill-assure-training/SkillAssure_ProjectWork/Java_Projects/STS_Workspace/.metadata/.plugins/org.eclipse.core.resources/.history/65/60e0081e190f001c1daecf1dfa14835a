@@ -1,0 +1,33 @@
+package com.ros.inventory.mapper;
+
+import com.ros.inventory.controller.dto.InvoicePDto;
+import com.ros.inventory.controller.dto.InvoicePDto.InvoicePDtoBuilder;
+import com.ros.inventory.entities.Product;
+import javax.annotation.processing.Generated;
+
+@Generated(
+    value = "org.mapstruct.ap.MappingProcessor",
+    date = "2021-09-06T18:35:25+0530",
+    comments = "version: 1.4.1.Final, compiler: Eclipse JDT (IDE) 1.3.1200.v20200916-0645, environment: Java 15.0.2 (Oracle Corporation)"
+)
+public class InvoicePMapperImpl implements InvoicePMapper {
+
+    @Override
+    public InvoicePDto convertToInvoicePDto(Product product) {
+        if ( product == null ) {
+            return null;
+        }
+
+        InvoicePDtoBuilder invoicePDto = InvoicePDto.builder();
+
+        invoicePDto.productCode( product.getProductCode() );
+        invoicePDto.productName( product.getProductName() );
+        invoicePDto.pricePerUnit( product.getPricePerUnit() );
+        invoicePDto.unitMeasurement( product.getUnitMeasurement() );
+        invoicePDto.qty( product.getQty() );
+        invoicePDto.vat( product.getProductVatTax() );
+        invoicePDto.netPrice( product.getProductNetPrice() );
+
+        return invoicePDto.build();
+    }
+}

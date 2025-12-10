@@ -1,0 +1,167 @@
+// print ODD numbers from 0 to 100
+// i=0; i/2!=0 
+let n=100;
+for(let i=0;i<=n;i++){
+	if(i%2!=0){
+  	console.log('ODD No is', i);
+  }
+  else if(i%2==0){
+  	console.log("Even no is",i);
+  }
+}
+
+
+// print the multiplication table with 7
+let n1=10;
+for(let i=0; i<=n1; i++){
+	console.log('multiplication table with 7', i*7);
+}
+
+
+// Calculate sum of numbers from 1 to 10.
+let n2 = 10;
+let sum = 0;
+for (let i = 1; i < n2; i++){
+    sum = sum + i;
+}
+console.log('sum of no', sum);
+
+
+// Calculate factorial no, n=10, 10*9*8*7*6*5*4*3*2*1
+let no = prompt('enter the no:');
+
+if(no < 0){
+	console.log(`number is negatve ${no}`);
+}
+else if( no == 0){
+	console.log('number is zero for that factorial value is 1');
+}
+else{
+let fact = 1;
+	for(let i=1; i<=no; i++){
+  	fact = fact * i;
+  }
+  console.log(fact);
+}
+
+
+//Calculate ODD numbers sum values greater than 10 and less than 30
+
+let oddNoSum = 0;
+for(let i = 1; i < no; i++){
+  if( i > 10 && i < 30){
+    if(i%2!=0){
+      oddNoSum = oddNoSum + i;
+    }
+  }
+}
+console.log('Odd No Sum', oddNoSum);
+
+
+// convert Celisus to Fahrenheit 
+// Fahrenheit = (Celsius * 9/5) + 32;
+
+function convertToFahrenheit(Celsius){
+	return (Celsius*9/5) + 32;
+}
+
+let Celsius = prompt('Celsius degree : ');
+let result = convertToFahrenheit(Celsius);
+
+console.log('converted Fahrenheit', result);
+
+
+// convert Fahrenheit to Celisus
+// Celisus = (Fahrenheit - 32) * 9/5 ;
+
+function convertFarToCel(Fahrenheit){
+	return (Fahrenheit - 32 ) * 5/9 ;
+}
+
+let Fahrenheit = prompt('Fahrenheit : ');
+let result1 = convertFarToCel(Fahrenheit);
+ 
+console.log('converted Celsius', result1); 
+
+
+// Coding challenge #10: Calculate the sum of numbers in an array of numbers
+// arr = [1,2,3,4,5], sum of array no's = 15;
+
+let arr = [1,2,3,4,5];
+let length = arr.length;
+let sumOfArray = 0;
+
+for(let i = 0; i < length; i++){
+  sumOfArray = sumOfArray + arr[i];
+}
+console.log('sum of array', sumOfArray);
+
+
+// Coding challenge #11: Calculate the average of the numbers in an array of numbers
+// arr = [1,2,3,4,5], sum of array no's = 15;
+
+let ar = [1, 3, 9, 15, 90];
+let res = sumOfAvgArray(ar);
+
+function sumOfAvgArray(arr){
+	let length = arr.length;
+    let sumOfArray = 0;
+	for(let i = 0; i < length; i++){
+        sumOfArray = sumOfArray + arr[i];
+	}
+    return sumOfArray/length;
+}
+
+console.log('sum of array', res);
+
+
+//Create a function that receives an array of numbers and returns an array containing only the positive numbers
+
+
+let arr1 = [1,3,-2,5,-6,7,8]; // [1,3,5,7]
+let res3 = positiveNoArr(arr1);
+console.log(res3);
+
+function positiveNoArr(newArr){
+let positiveArr = [];
+  for(let i=0;i<newArr.length;i++){
+  	if(newArr[i]>0){
+          positiveArr.push(newArr[i]);
+     } 
+  }
+  return positiveArr;
+}
+
+
+
+// Find the maximum number in an array of numbers
+
+let arr4 = [1, 3, 8, 7, 5,9,10];
+let res4 = findMaxNo(arr4);
+console.log(res4);
+
+function findMaxNo(res){
+	let Maxno = 0;
+	for(let i=0;i<res.length;i++){
+  	if(res[i]>Maxno){
+    	Maxno = res[i];
+    }
+  }
+  return Maxno;
+}
+
+
+
+// Print the fibonacies no's from 1 to 10
+// 0,1,1,2,3,5,8
+
+let input = prompt('enter fibonacies no');
+  let f1 = 0;
+  let f2 = 1;
+  for(let i = 2; i<input; i++){
+    let res;
+  	res = f2 + f1;
+    console.log(res);
+    f1 = f2;
+    f2 = res; 
+  }

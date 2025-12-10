@@ -1,0 +1,64 @@
+package com.ros.inventory.mapper;
+
+import org.mapstruct.Mapper;
+import org.mapstruct.Mapping;
+import org.mapstruct.factory.Mappers;
+import org.springframework.stereotype.Component;
+
+import com.ros.inventory.controller.dto.InternalSupplierDto;
+import com.ros.inventory.controller.dto.ProductDto;
+import com.ros.inventory.controller.dto.SupplierDto;
+import com.ros.inventory.entities.Product;
+import com.ros.inventory.entities.Supplier;
+
+@Mapper
+@Component
+public interface SupplierMapper {
+
+	SupplierMapper mapper = Mappers.getMapper(SupplierMapper.class);
+
+	@Mapping(source = "supplierBasic.supplierBusinessName", target = "supplierBusinessName")
+	@Mapping(source = "supplierBasic.supplierTradeName", target = "supplierTradeName")
+	@Mapping(source = "supplierBasic.image", target = "image")
+	@Mapping(source = "primaryContact.mobile", target = "mobileNumber")
+	@Mapping(source = "primaryContact.telephone", target = "telephoneNumber")
+	@Mapping(source = "primaryContact.email", target = "email")
+	@Mapping(source = "primaryContact.fax", target = "faxNumber")
+	SupplierDto convertToSupplierDto(Supplier supplier);
+
+	@Mapping(target = "supplierBasic.supplierBusinessName", source = "supplierBusinessName")
+	@Mapping(target = "supplierBasic.supplierTradeName", source = "supplierTradeName")
+	@Mapping(target = "supplierBasic.image", source = "image")
+	@Mapping(target = "primaryContact.mobile", source = "mobileNumber")
+	@Mapping(target = "primaryContact.telephone", source = "telephoneNumber")
+	@Mapping(target = "primaryContact.email", source = "email")
+	@Mapping(target = "primaryContact.fax", source = "faxNumber")
+	Supplier convertToSupplierEntity(SupplierDto supplierDto);
+
+	// Internal supplier
+	@Mapping(source = "supplierBasic.supplierBusinessName", target = "supplierBusinessName")
+	@Mapping(source = "supplierBasic.supplierTradeName", target = "supplierTradeName")
+	@Mapping(source = "restaurantName", target = "resturantName")
+	InternalSupplierDto convertToInternalSupplierDto(Supplier supplier);
+
+	@Mapping(target = "supplierBasic.supplierBusinessName", source = "supplierBusinessName")
+	@Mapping(target = "supplierBasic.supplierTradeName", source = "supplierTradeName")
+	@Mapping(target = "restaurantName", source = "resturantName")
+	Supplier convertToInternalSupplierEntity(InternalSupplierDto internalSupplierDto);
+
+	//Product supplier
+	@Mapping(source = "p.productId", target = "productId")
+	@Mapping(source = "p.productCode", target = "productCode")
+	@Mapping(source = "p.productName", target = "productName")
+	@Mapping(source = "p.productType", target = "productType")
+	@Mapping(source = "p.pricePerUnit", target = "pricePerUnit")
+	@Mapping(source = "p.unitMeasurement", target = "unitMeasurement")
+//	@Mapping(source = "p.qty", target = "qty")
+	@Mapping(source = "p.productEffectiveDate", target = "productEffectiveDate")
+	@Mapping(source = "p.productVatTax", target = "productVatTax")
+
+	ProductDto convertToproductSupplierDto(Product p);
+
+	Product convertToproductEntity(ProductDto addp);
+	
+}

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>String Operations</title>
+</head>
+<body>
+    <h1>String Methods</h1>
+    CharAt method : <p id="charAt"></p>
+    CharCodeAt method : <p id="charCodeAt"></p>
+    Concat method : <p id="concat"></p>
+    Endswith method : <p id="endsWith"></p>
+    FromCharCode : <p id="fromCharCode"></p>
+    includes : <p id="includes"></p>
+    indexof : <p id="indexof"></p>
+    lastindexof : <p id="lastindexof"></p>
+    localecompare : <p id="localecompare"></p>
+    match : <p id="match"></p>
+    repeat : <p id="repeat"></p>
+    
+
+    <script>
+        let str ="Lucky", str1=" Appu", str2=" Apdi";
+        let s = "Hello Hi H h"
+        let c ="I love car car cra car car love"
+        document.getElementById("charAt").innerHTML = str.charAt(0);
+        document.getElementById("charCodeAt").innerHTML = str.charCodeAt(4);
+        document.getElementById("concat").innerHTML= str.concat(str1,str2);
+        document.getElementById("endsWith").innerHTML= str.endsWith('y');
+        document.getElementById("fromCharCode").innerHTML= String.fromCharCode(65);
+        document.getElementById("includes").innerHTML= s.includes('o H');
+        document.getElementById("indexof").innerHTML= s.indexOf('H');
+        document.getElementById("lastindexof").innerHTML= s.lastIndexOf('H');
+        document.getElementById("localecompare").innerHTML= str1.localeCompare(str2);
+        document.getElementById("match").innerHTML= c.match('c');
+        document.getElementById("repeat").innerHTML= c.repeat('car');
+    </script>
+</body>
+</html>

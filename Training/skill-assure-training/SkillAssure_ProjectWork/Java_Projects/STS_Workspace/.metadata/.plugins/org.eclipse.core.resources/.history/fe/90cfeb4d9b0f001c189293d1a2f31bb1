@@ -1,0 +1,39 @@
+package com.ros.inventory.controller.dto;
+
+import java.util.UUID;
+
+import com.ros.inventory.entities.SupplierType;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@Builder
+@AllArgsConstructor
+@NoArgsConstructor
+public class SupplierDto {
+	private UUID supplierId;
+
+	private SupplierType supplierType;
+
+	private String image;
+
+	private String supplierBusinessName;
+
+	private String supplierTradeName;
+	
+	private String email;
+
+	private long mobileNumber;
+
+	private long telephoneNumber;
+
+	private long faxNumber;
+
+	private AddressDto supplierAddress;
+
+	private BankInfoDto supplierBank;
+
+}
