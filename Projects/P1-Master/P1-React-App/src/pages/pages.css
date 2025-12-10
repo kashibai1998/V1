@@ -1,0 +1,17 @@
+
+.ul{
+    text-decoration: none;
+    
+}
+/* a{
+    text-decoration: none;
+} */
+.list a{
+    text-decoration: none;
+}
+
+.list a:hover,
+.list a.active{
+    color: green;
+    text-decoration: underline;
+}
