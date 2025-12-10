@@ -1,0 +1,25 @@
+[
+    {
+        "id":1001,
+        "name":"ramu",
+        "mobno":"9686134760",
+        "gender":"Male",
+        "age":25
+    },
+    {
+        "id":1002,
+        "name":"raju",
+        "mobno":"9972235873",
+        "gender":"Male",
+        "age":30
+
+    },
+    {
+        "id":1003,
+        "name":"lakkappa",
+        "mobno":"9972235373",
+        "gender":"Male",
+        "age":22
+
+    }
+]
