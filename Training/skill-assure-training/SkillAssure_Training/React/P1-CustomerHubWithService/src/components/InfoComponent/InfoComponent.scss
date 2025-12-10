@@ -1,0 +1,12 @@
+.info-border {
+    padding-left: 24px !important;
+    padding-top: 20px !important;
+    padding-bottom: 20px !important;
+    border: 2px dashed rgba(28,164,42,0.48);
+    border-radius: 2px;
+    border-spacing: 10px;
+    line-height: 1.3em;
+    .info-desc {
+        color: black;
+    }
+}

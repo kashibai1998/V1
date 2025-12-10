@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "customerData": {
+      "adds":"Auto firmware upgrade of your modem is scheduled for 23.30 hrs tonight",
+      "graph": [
+        {
+          "timeline": "past Week",
+          "bandwidthData": [110, 120, 100, 140, 110, 115, 100, 115, 140],
+          "outageData": [0, 0, 140]
+        },
+        {
+          "timeline": "past Month",
+          "bandwidthData": [150, 120, 130, 110, 140, 115, 140, 135, 125],
+          "outageData": [0, 0, 140, 0, 140]
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "customerData": {
+      "adds":"Auto firmware upgrade of your modem is scheduled for 21.00 hrs tonight",
+      "graph": [
+        {
+          "timeline": "past Week",
+          "bandwidthData": [100, 138, 120, 148, 127, 130, 128, 138, 140],
+          "outageData": [0, 140, 0]
+        },
+        {
+          "timeline": "past Month",
+          "bandwidthData": [147, 130, 100, 140, 110, 125, 140, 100, 135],
+          "outageData": [0, 140, 0, 140]
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "customerData": {
+      "adds":"Auto firmware upgrade of your modem is scheduled for 07.00 hrs morning",
+      "graph": [
+        {
+          "timeline": "past Week",
+          "bandwidthData": [132, 102, 140, 118, 137, 110, 142, 138, 105],
+          "outageData": [0, 0, 0, 140]
+        },
+        {
+          "timeline": "past Month",
+          "bandwidthData": [117, 102, 124, 100, 120, 145, 148, 125, 140],
+          "outageData": [0, 0, 0, 140]
+        }
+      ]
+    }
+  },
+  {
+    "id": 4,
+    "customerData": {
+      "adds":"Auto firmware upgrade of your modem is scheduled for 10.30 hrs morning",
+      "graph": [
+        {
+          "timeline": "past Week",
+          "bandwidthData": [112, 128, 145, 138, 132, 140, 112, 128, 125],
+          "outageData": [0, 0, 0, 0, 140]
+        },
+        {
+          "timeline": "past Month",
+          "bandwidthData": [125, 128, 144, 112, 132, 141, 121, 135, 110],
+          "outageData": [0, 0, 0, 0, 140, 140]
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "customerData": {
+      "adds":"Auto firmware upgrade of your modem is scheduled for 3.30 hrs afternoon",
+      "graph": [
+        {
+          "timeline": "past Week",
+          "bandwidthData": [102, 108, 125, 118, 142, 110, 132, 118, 105],
+          "outageData": [140]
+        },
+        {
+          "timeline": "past Month",
+          "bandwidthData": [115, 108, 134, 129, 104, 121, 142, 125, 147],
+          "outageData": [140]
+        }
+      ]
+    }
+  }
+]

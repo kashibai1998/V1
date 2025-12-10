@@ -1,0 +1,997 @@
+[
+    {
+        "id": 1,
+        "customerData": [
+            {
+                "timeline": "pastmonth",
+                "areaOfInterest": [
+                    {
+                        "name": "Foodie",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "Gymnast",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Sporty",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "CouchPotato",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "IPL",
+                        "percent": "50",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "Wimbledon",
+                        "percent": "20",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "FIFA",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Comedy",
+                        "percent": "30",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "ipl.png",
+                        "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+                    },
+                    {
+                        "image": "Comedy.jpg",
+                        "text": "The Comedy streamed live on channel 230-Watch tonight show starting at 20:00 hours"
+                    }
+                ]
+            },
+            {
+                "timeline": "pastweek",
+                "areaOfInterest": [
+                    {
+                        "name": "Foodie",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "Gymnast",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Sporty",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "CouchPotato",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "IPL",
+                        "percent": "60",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "FIFA",
+                        "percent": "5",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Comedy",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "5",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Crime",
+                        "percent": "20",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "ipl.png",
+                        "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+                    },
+                    {
+                        "image": "Comedy.jpg",
+                        "text": "The Comedy streamed live on channel 230-Watch tonight show starting at 20:00 hours"
+                    }
+                ]
+            },
+            {
+                "timeline": "pastyear",
+                "areaOfInterest": [
+                    {
+                        "name": "Foodie",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "Gymnast",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Sporty",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "CouchPotato",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "IPL",
+                        "percent": "40",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "Wimbledon",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "FIFA",
+                        "percent": "5",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Comedy",
+                        "percent": "15",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "30",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "ipl.png",
+                        "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+                    },
+                    {
+                        "image": "Comedy.jpg",
+                        "text": "The Comedy streamed live on channel 230-Watch tonight show starting at 20:00 hours"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "customerData": [
+            {
+                "timeline": "pastmonth",
+                "areaOfInterest": [
+                    {
+                        "name": "Cooking",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "HealthFreak",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Cricket",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "BingeWatcher",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "IPL",
+                        "percent": "45",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "15",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Crime",
+                        "percent": "50",
+                        "color": "green"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "Crime.jpg",
+                        "text": "Crime streamed live on channel 300-Watch today at 22:00 hours"
+                    },
+                    {
+                        "image": "ipl.png",
+                        "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+                    }
+                ]
+            },
+            {
+                "timeline": "pastweek",
+                "areaOfInterest": [
+                    {
+                        "name": "Cooking",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "HealthFreak",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Cricket",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "BingeWatcher",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "IPL",
+                        "percent": "40",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "Wimbledon",
+                        "percent": "25",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "FIFA",
+                        "percent": "15",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Comedy",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "5",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Crime",
+                        "percent": "5",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "Crime.jpg",
+                        "text": "Crime streamed live on channel 300-Watch today at 22:00 hours"
+                    },
+                    {
+                        "image": "ipl.png",
+                        "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+                    }
+                ]
+            },
+            {
+                "timeline": "pastyear",
+                "areaOfInterest": [
+                    {
+                        "name": "Cooking",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "HealthFreak",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Cricket",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "BingeWatcher",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "IPL",
+                        "percent": "40",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "Wimbledon",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "FIFA",
+                        "percent": "15",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Comedy",
+                        "percent": "15",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "20",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "Crime.jpg",
+                        "text": "Crime streamed live on channel 300-Watch today at 22:00 hours"
+                    },
+                    {
+                        "image": "ipl.png",
+                        "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "customerData": [
+            {
+                "timeline": "pastmonth",
+                "areaOfInterest": [
+                    {
+                        "name": "KetoDiet",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "GoodHealth",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Volleyball",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "MarathonWatch",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "FIFA",
+                        "percent": "30",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Comedy",
+                        "percent": "15",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "45",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "Crime",
+                        "percent": "20",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "Education.jpg",
+                        "text": "Education streamed live on channel 200-Watch today at 20:00 hours"
+                    },
+                    {
+                        "image": "Fifa.jpg",
+                        "text": "Fifa streamed live on channel 250-Watch Muller Reus vs The Fashion Puli today at 16:00 hours"
+                    }
+                ]
+            },
+            {
+                "timeline": "pastweek",
+                "areaOfInterest": [
+                    {
+                        "name": "KetoDiet",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "GoodHealth",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Volleyball",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "MarathonWatch",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "Wimbledon",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "FIFA",
+                        "percent": "40",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Comedy",
+                        "percent": "60",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Crime",
+                        "percent": "10",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "Education.jpg",
+                        "text": "Education streamed live on channel 200-Watch today at 20:00 hours"
+                    },
+                    {
+                        "image": "Fifa.jpg",
+                        "text": "Fifa streamed live on channel 250-Watch Muller Reus vs The Fashion Puli today at 16:00 hours"
+                    }
+                ]
+            },
+            {
+                "timeline": "pastyear",
+                "areaOfInterest": [
+                    {
+                        "name": "KetoDiet",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "GoodHealth",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Volleyball",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "MarathonWatch",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "IPL",
+                        "percent": "20",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Wimbledon",
+                        "percent": "20",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "FIFA",
+                        "percent": "25",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Comedy",
+                        "percent": "30",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "10",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "Education.jpg",
+                        "text": "Education streamed live on channel 200-Watch today at 20:00 hours"
+                    },
+                    {
+                        "image": "Fifa.jpg",
+                        "text": "Fifa streamed live on channel 250-Watch Muller Reus vs The Fashion Puli today at 16:00 hours"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "customerData": [
+            {
+                "timeline": "pastmonth",
+                "areaOfInterest": [
+                    {
+                        "name": "CookFood",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "GymLover",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Basketball",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "Netflix",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "IPL",
+                        "percent": "50",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "Wimbledon",
+                        "percent": "30",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "FIFA",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Crime",
+                        "percent": "10",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "ipl.png",
+                        "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+                    },
+                    {
+                        "image": "wimbledon.jpeg",
+                        "text": "Wimbledon streamed live on channel 400-Watch today at 10:00 hours"
+                    }
+                ]
+            },
+            {
+                "timeline": "pastweek",
+                "areaOfInterest": [
+                    {
+                        "name": "CookFood",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "GymLover",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Basketball",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "Netflix",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "IPL",
+                        "percent": "50",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "Wimbledon",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Crime",
+                        "percent": "30",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "ipl.png",
+                        "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+                    },
+                    {
+                        "image": "wimbledon.jpeg",
+                        "text": "Wimbledon streamed live on channel 400-Watch today at 10:00 hours"
+                    }
+                ]
+            },
+            {
+                "timeline": "pastyear",
+                "areaOfInterest": [
+                    {
+                        "name": "CookFood",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "GymLover",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Basketball",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "Netflix",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "IPL",
+                        "percent": "40",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "Wimbledon",
+                        "percent": "20",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "FIFA",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Comedy",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "10",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "ipl.png",
+                        "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+                    },
+                    {
+                        "image": "wimbledon.jpeg",
+                        "text": "Wimbledon streamed live on channel 400-Watch today at 10:00 hours"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "customerData": [
+            {
+                "timeline": "pastmonth",
+                "areaOfInterest": [
+                    {
+                        "name": "Diet",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "FitnessManiac",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Futsal",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "TvnNonStop",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "IPL",
+                        "percent": "60",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "Wimbledon",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "FIFA",
+                        "percent": "20",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Crime",
+                        "percent": "40",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "ipl.png",
+                        "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+                    },
+                    {
+                        "image": "Crime.jpg",
+                        "text": "Crime streamed live on channel 300-Watch today at 22:00 hours"
+                    }
+                ]
+            },
+            {
+                "timeline": "pastweek",
+                "areaOfInterest": [
+                    {
+                        "name": "Diet",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "FitnessManiac",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Futsal",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "TvnNonStop",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "IPL",
+                        "percent": "30",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Wimbledon",
+                        "percent": "20",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "FIFA",
+                        "percent": "50",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "Comedy",
+                        "percent": "10",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "40",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Crime",
+                        "percent": "10",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "ipl.png",
+                        "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+                    },
+                    {
+                        "image": "Crime.jpg",
+                        "text": "Crime streamed live on channel 300-Watch today at 22:00 hours"
+                    }
+                ]
+            },
+            {
+                "timeline": "pastyear",
+                "areaOfInterest": [
+                    {
+                        "name": "Diet",
+                        "Img": "foodie.svg"
+                    },
+                    {
+                        "name": "FitnessManiac",
+                        "Img": "gym.svg"
+                    },
+                    {
+                        "name": "Shopaholic",
+                        "Img": "retail.svg"
+                    },
+                    {
+                        "name": "Futsal",
+                        "Img": "football.svg"
+                    },
+                    {
+                        "name": "TvNonStop",
+                        "Img": "tv.svg"
+                    },
+                    {
+                        "name": "Traveler",
+                        "Img": "travel.svg"
+                    }
+                ],
+                "entertinment": [
+                    {
+                        "entertainName": "Wimbledon",
+                        "percent": "20",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "FIFA",
+                        "percent": "20",
+                        "color": "blue"
+                    },
+                    {
+                        "entertainName": "Comedy",
+                        "percent": "40",
+                        "color": "green"
+                    },
+                    {
+                        "entertainName": "Education",
+                        "percent": "30",
+                        "color": "blue"
+                    }
+                ],
+                "adsDetails": [
+                    {
+                        "image": "ipl.png",
+                        "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+                    },
+                    {
+                        "image": "Crime.jpg",
+                        "text": "Crime streamed live on channel 300-Watch today at 22:00 hours"
+                    }
+                ]
+            }
+        ]
+    }
+]

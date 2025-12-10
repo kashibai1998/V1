@@ -1,0 +1,14 @@
+.plan-component{
+    border-radius: 20px;
+    .segment{
+        min-height: 240px;
+        background: #1E434A !important;
+        color: #fff;
+        .hr{
+            width: 100%;
+        }
+    }
+    .package-text{
+        font-size: smaller;
+    }
+}

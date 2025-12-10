@@ -1,0 +1,267 @@
+[
+  {
+    "id": 100001,
+    "customerData": {
+      "channelText": "Content Analytics",
+      "adds": "Activate sports+package at just £10 per month ",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "channel": {
+            "Data": [
+              {
+                "Value": "9 hours",
+                "text": "Sports"
+              },
+              {
+                "Value": "1 Hours",
+                "text": "Education"
+              },
+              {
+                "Value": "3 Hours",
+                "text": "Entertainment"
+              }
+            ],
+            "data": [3, 4, 2, 3, 5, 4, 1.5],
+            "data1": [2, 1.7, 3, 4, 1.2, 1.8, 2],
+            "data2": [1.5, 1.8, 2.3, 3, 1.4, 1.3, 2]
+          }
+        },
+        {
+          "timeline": "Past Month",
+          "channel": {
+            "Data": [
+              {
+                "Value": "38 hours",
+                "text": "Sports"
+              },
+              {
+                "Value": "4 Hours",
+                "text": "Education"
+              },
+              {
+                "Value": "14 Hours",
+                "text": "Entertainment"
+              }
+            ],
+            "data": [5, 4, 2, 3.7, 5.5, 4.9, 1.9],
+            "data1": [2, 1.4, 2.3, 3.4, 1.5, 1.6, 2.9],
+            "data2": [1.8, 1.7, 2.6, 3.6, 2.4, 1.7, 2]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 100002,
+    "customerData": {
+      "channelText": "Content Analytics",
+      "adds": "Activate Discovery+package at just £10 per month ",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "channel": {
+            "Data": [
+              {
+                "Value": "3 hours",
+                "text": "Sports"
+              },
+              {
+                "Value": "9 Hours",
+                "text": "Education"
+              },
+              {
+                "Value": "3 Hours",
+                "text": "Entertainment"
+              }
+            ],
+            "data": [2, 4, 2.5, 3.3, 5.1, 4.2, 1.4],
+            "data1": [2, 1.5, 3, 4.3, 1.2, 1.8, 2],
+            "data2": [1.5, 1.8, 2.3, 3, 1.5, 1.3, 2]
+          }
+        },
+        {
+          "timeline": "Past Month",
+          "channel": {
+            "Data": [
+              {
+                "Value": "12 hours",
+                "text": "Sports"
+              },
+              {
+                "Value": "34 Hours",
+                "text": "Education"
+              },
+              {
+                "Value": "11 Hours",
+                "text": "Entertainment"
+              }
+            ],
+            "data": [5, 4, 2, 3.7, 5.5, 4.9, 1.9],
+            "data1": [2, 1.9, 2.3, 3.4, 1.5, 2.6, 2.9],
+            "data2": [2.8, 1.7, 3.6, 3.6, 2.4, 3.7, 2]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 100003,
+    "customerData": {
+      "channelText": "Content Analytics",
+      "adds": "Activate Entertainment+package at just £10 per month ",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "channel": {
+            "Data": [
+              {
+                "Value": "3 hours",
+                "text": "Sports"
+              },
+              {
+                "Value": "3 Hours",
+                "text": "Education"
+              },
+              {
+                "Value": "6 Hours",
+                "text": "Entertainment"
+              }
+            ],
+            "data": [3, 4, 2, 3, 5, 4, 1.5],
+            "data1": [2, 1.7, 3.2, 4, 1.2, 1.8, 2],
+            "data2": [1.5, 1.8, 2.7, 3, 1.6, 1.3, 2]
+          }
+        },
+        {
+          "timeline": "Past Month",
+          "channel": {
+            "Data": [
+              {
+                "Value": "12 hours",
+                "text": "Sports"
+              },
+              {
+                "Value": "12 Hours",
+                "text": "Education"
+              },
+              {
+                "Value": "25 Hours",
+                "text": "Entertainment"
+              }
+            ],
+            "data": [5, 4, 2, 3.7, 5.4, 4.9, 1.9],
+            "data1": [2, 2.4, 2.2, 3.4, 1.5, 1.7, 2.9],
+            "data2": [3.8, 3.3, 2.6, 3.6, 3.4, 3.7, 2]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 100004,
+    "customerData": {
+      "channelText": "Content Analytics",
+      "adds": "Activate sports+package at just £10 per month ",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "channel": {
+            "Data": [
+              {
+                "Value": "7 hours",
+                "text": "Sports"
+              },
+              {
+                "Value": "2 Hours",
+                "text": "Education"
+              },
+              {
+                "Value": "3 Hours",
+                "text": "Entertainment"
+              }
+            ],
+            "data": [2, 4, 2, 1, 3.2, 2.6, 1.5],
+            "data1": [1.2, 1.7, 2.2, 1, 1.2, 1.8, 2],
+            "data2": [1.2, 1.6, 2.3, 2.5, 1.2, 1.4, 2]
+          }
+        },
+        {
+          "timeline": "Past Month",
+          "channel": {
+            "Data": [
+              {
+                "Value": "30 hours",
+                "text": "Sports"
+              },
+              {
+                "Value": "8 Hours",
+                "text": "Education"
+              },
+              {
+                "Value": "11 Hours",
+                "text": "Entertainment"
+              }
+            ],
+            "data": [3, 3.5, 2, 3.7, 4.2, 4.9, 1.9],
+            "data1": [2, 1.5, 2.3, 3.2, 1.5, 1.6, 2.9],
+            "data2": [1.6, 1.7, 2.6, 3.6, 2.5, 1.7, 2]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 100005,
+    "customerData": {
+      "channelText": "Content Analytics",
+      "adds": "Activate News+package at just £10 per month ",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "channel": {
+            "Data": [
+              {
+                "Value": "2 hours",
+                "text": "Sports"
+              },
+              {
+                "Value": "8 Hours",
+                "text": "News"
+              },
+              {
+                "Value": "3 Hours",
+                "text": "Entertainment"
+              }
+            ],
+            "data": [3, 2, 2, 3, 5, 4, 1.5],
+            "data1": [2, 1.7, 3, 4, 1.2, 1.8, 2],
+            "data2": [1.5, 1.8, 2.3, 3, 1.4, 1.3, 2]
+          }
+        },
+        {
+          "timeline": "Past Month",
+          "channel": {
+            "Data": [
+              {
+                "Value": "8 hours",
+                "text": "Sports"
+              },
+              {
+                "Value": "31 Hours",
+                "text": "Education"
+              },
+              {
+                "Value": "11 Hours",
+                "text": "Entertainment"
+              }
+            ],
+            "data": [4.5, 4.3, 3.2, 3.7, 5.5, 4.9, 3.9],
+            "data1": [4, 2.4, 2.7, 3.8, 2.9, 3.6, 4.2],
+            "data2": [2.6, 3.8, 2.4, 3.9, 3.4, 4.7, 4]
+          }
+        }
+      ]
+    }
+  }
+]

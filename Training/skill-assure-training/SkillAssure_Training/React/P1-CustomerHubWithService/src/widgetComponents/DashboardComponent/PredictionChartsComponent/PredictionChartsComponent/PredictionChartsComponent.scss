@@ -1,0 +1,20 @@
+.graph-tabs {
+    // text-align: center;
+    .nav-tabs .nav-link {
+        text-align: center;
+        border: 1px solid black;
+        border-radius: 0;
+        margin: 0;
+    }
+    .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+        border-radius: 0rem;
+        border-bottom: none;
+    }
+    .nav-tabs .nav-link:hover {
+        border-color:  black;
+        border-radius: 0rem;
+    }
+    .tab-content {
+        padding-top: 20px;
+    }
+}

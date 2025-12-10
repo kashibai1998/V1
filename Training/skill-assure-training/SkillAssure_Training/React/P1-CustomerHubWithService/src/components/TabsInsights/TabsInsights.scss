@@ -1,0 +1,11 @@
+.line {
+    border-left: 2px solid blue;
+    height: 50px;
+    position: absolute;
+    margin-left: -3px;
+    padding-right: 3px;
+    top: 0;
+    .value {
+        margin-left: 10px;
+    }
+}

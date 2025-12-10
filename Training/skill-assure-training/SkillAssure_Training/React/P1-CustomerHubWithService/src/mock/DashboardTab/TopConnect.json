@@ -1,0 +1,1097 @@
+[
+    {
+        "id": 1,
+        "offer": "25% of your connects are using iPhone 11 Pro Max",
+        "callData": [
+            {
+                "topConnect": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0165",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0147",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0193",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0829",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0121",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0165",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0147",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0193",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0829",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0121",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "sameNetwork": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0165",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0147"
+                                ],
+                                "firstImage":["usa.png","usa.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":["usa.png","usa.png", "britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["usa.png","usa.png","usa.png", "britain.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx72",
+                                    "xxxxxxx076",
+                                    "xxxxxxx742",
+                                    "xxxxxxx92",
+                                    "xxxxxxx543",
+                                    "xxxxxxx999"
+                                ],
+                                "firstImage":["usa.png","usa.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0923",
+                                    "xxxxxxx9984",
+                                    "xxxxxx4343",
+                                    "xxxxxxx012",
+                                    "xxxxxxx632",
+                                    "xxxxxxx321"
+                                ],
+                                "secondImage":["usa.png","usa.png", "britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx74",
+                                    "xxxxxxx87",
+                                    "xxxxxxx010",
+                                    "xxxxxxx099",
+                                    "xxxxxxx074",
+                                    "xxxxxxx704"
+                                ],
+                                "thirdImage":["usa.png","usa.png","usa.png", "britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "otherNetwork": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["usa.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0829"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0121"
+                                ],
+                                "thirdImage":["usa.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx72",
+                                    "xxxxxxx076",
+                                    "xxxxxxx742",
+                                    "xxxxxxx92",
+                                    "xxxxxxx543",
+                                    "xxxxxxx999"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0923",
+                                    "xxxxxxx9984",
+                                    "xxxxxx4343",
+                                    "xxxxxxx012",
+                                    "xxxxxxx632",
+                                    "xxxxxxx321"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx74",
+                                    "xxxxxxx87",
+                                    "xxxxxxx010",
+                                    "xxxxxxx099",
+                                    "xxxxxxx074",
+                                    "xxxxxxx704"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "offer": "33% of your connects are using Apple iPhone XR",
+        "callData": [
+            {
+                "topConnect": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0195",
+                                    "xxxxxxx0155",
+                                    "xxxxxxx0226",
+                                    "xxxxxxx0547",
+                                    "xxxxxxx0112"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0140",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0825",
+                                    "xxxxxxx0429",
+                                    "xxxxxxx0115"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0113",
+                                    "xxxxxxx0112",
+                                    "xxxxxxx0121",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["aus.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0165",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0147",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0193",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0829",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0121",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "sameNetwork": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0175",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0147"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx72",
+                                    "xxxxxxx076",
+                                    "xxxxxxx742",
+                                    "xxxxxxx92",
+                                    "xxxxxxx543",
+                                    "xxxxxxx999"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0923",
+                                    "xxxxxxx9984",
+                                    "xxxxxx4343",
+                                    "xxxxxxx012",
+                                    "xxxxxxx632",
+                                    "xxxxxxx321"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx74",
+                                    "xxxxxxx87",
+                                    "xxxxxxx010",
+                                    "xxxxxxx099",
+                                    "xxxxxxx074",
+                                    "xxxxxxx704"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "otherNetwork": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0829"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0121"
+                                ],
+                                "thirdImage":["usa.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx72",
+                                    "xxxxxxx076",
+                                    "xxxxxxx742",
+                                    "xxxxxxx92",
+                                    "xxxxxxx543",
+                                    "xxxxxxx999"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0923",
+                                    "xxxxxxx9984",
+                                    "xxxxxx4343",
+                                    "xxxxxxx012",
+                                    "xxxxxxx632",
+                                    "xxxxxxx321"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx74",
+                                    "xxxxxxx87",
+                                    "xxxxxxx010",
+                                    "xxxxxxx099",
+                                    "xxxxxxx074",
+                                    "xxxxxxx704"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "offer": "22% of your connects are using Samsung Galaxy Note20",
+        "callData": [
+            {
+                "topConnect": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0165",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0147",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0193",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0829",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0121",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0165",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0147",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0193",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0829",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0121",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "sameNetwork": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx165",
+                                    "xxxxxxx116",
+                                    "xxxxxxx147"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx72",
+                                    "xxxxxxx076",
+                                    "xxxxxxx742",
+                                    "xxxxxxx92",
+                                    "xxxxxxx543",
+                                    "xxxxxxx999"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0923",
+                                    "xxxxxxx9984",
+                                    "xxxxxx4343",
+                                    "xxxxxxx012",
+                                    "xxxxxxx632",
+                                    "xxxxxxx321"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx74",
+                                    "xxxxxxx87",
+                                    "xxxxxxx010",
+                                    "xxxxxxx099",
+                                    "xxxxxxx074",
+                                    "xxxxxxx704"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "otherNetwork": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["usa.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0829"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0121"
+                                ],
+                                "thirdImage":["usa.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx72",
+                                    "xxxxxxx076",
+                                    "xxxxxxx742",
+                                    "xxxxxxx92",
+                                    "xxxxxxx543",
+                                    "xxxxxxx999"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0923",
+                                    "xxxxxxx9984",
+                                    "xxxxxx4343",
+                                    "xxxxxxx012",
+                                    "xxxxxxx632",
+                                    "xxxxxxx321"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx74",
+                                    "xxxxxxx87",
+                                    "xxxxxxx010",
+                                    "xxxxxxx099",
+                                    "xxxxxxx074",
+                                    "xxxxxxx704"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "offer": "41% of your connects are using Samsung Galaxy S10",
+        "callData": [
+            {
+                "topConnect": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0165",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0147",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0193",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0829",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0121",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0165",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0147",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0193",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0829",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0121",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "sameNetwork": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx165",
+                                    "xxxxxxx116",
+                                    "xxxxxxx147"
+                                ],
+                                "firstImage":["britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":[ "britain.png","britain.png","usa.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["britain.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx72",
+                                    "xxxxxxx076",
+                                    "xxxxxxx742",
+                                    "xxxxxxx92",
+                                    "xxxxxxx543",
+                                    "xxxxxxx999"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0923",
+                                    "xxxxxxx9984",
+                                    "xxxxxx4343",
+                                    "xxxxxxx012",
+                                    "xxxxxxx632",
+                                    "xxxxxxx321"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx74",
+                                    "xxxxxxx87",
+                                    "xxxxxxx010",
+                                    "xxxxxxx099",
+                                    "xxxxxxx074",
+                                    "xxxxxxx704"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "otherNetwork": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["usa.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0829"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0121"
+                                ],
+                                "thirdImage":["usa.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx72",
+                                    "xxxxxxx076",
+                                    "xxxxxxx742",
+                                    "xxxxxxx92",
+                                    "xxxxxxx543",
+                                    "xxxxxxx999"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0923",
+                                    "xxxxxxx9984",
+                                    "xxxxxx4343",
+                                    "xxxxxxx012",
+                                    "xxxxxxx632",
+                                    "xxxxxxx321"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx74",
+                                    "xxxxxxx87",
+                                    "xxxxxxx010",
+                                    "xxxxxxx099",
+                                    "xxxxxxx074",
+                                    "xxxxxxx704"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "offer": "36% of your connects are using Huawei Mate 20Pro",
+        "callData": [
+            {
+                "topConnect": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0165",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0147",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0193",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0829",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0121",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0165",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0147",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0193",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0829",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0121",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "sameNetwork": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx165",
+                                    "xxxxxxx116",
+                                    "xxxxxxx147"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0865",
+                                    "xxxxxxx0111"
+                                ],
+                                "secondImage":[ "usa.png","britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0104",
+                                    "xxxxxxx0199",
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0110",
+                                    "xxxxxxx0116"
+                                ],
+                                "thirdImage":["singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx72",
+                                    "xxxxxxx076",
+                                    "xxxxxxx742",
+                                    "xxxxxxx92",
+                                    "xxxxxxx543",
+                                    "xxxxxxx999"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0923",
+                                    "xxxxxxx9984",
+                                    "xxxxxx4343",
+                                    "xxxxxxx012",
+                                    "xxxxxxx632",
+                                    "xxxxxxx321"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx74",
+                                    "xxxxxxx87",
+                                    "xxxxxxx010",
+                                    "xxxxxxx099",
+                                    "xxxxxxx074",
+                                    "xxxxxxx704"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            },
+            {
+                "otherNetwork": {
+                    "timelineData": [
+                        {
+                            "timeline": "pastmonth",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx0190",
+                                    "xxxxxxx0116"
+                                ],
+                                "firstImage":["usa.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0116",
+                                    "xxxxxxx0114",
+                                    "xxxxxxx0829"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx0149",
+                                    "xxxxxxx0121"
+                                ],
+                                "thirdImage":["usa.png","usa.png"]
+                            }
+                        },
+                        {
+                            "timeline": "pastyear",
+                            "callDetails": {
+                                "firstCallRange": "2 hrs to 30 mins",
+                                "firstCallDetails": [
+                                    "xxxxxxx72",
+                                    "xxxxxxx076",
+                                    "xxxxxxx742",
+                                    "xxxxxxx92",
+                                    "xxxxxxx543",
+                                    "xxxxxxx999"
+                                ],
+                                "firstImage":["usa.png","usa.png","britain.png","britain.png","usa.png"],
+                                "secondCallRange": "30 mins to 15 mins",
+                                "secondCallDetails": [
+                                    "xxxxxxx0923",
+                                    "xxxxxxx9984",
+                                    "xxxxxx4343",
+                                    "xxxxxxx012",
+                                    "xxxxxxx632",
+                                    "xxxxxxx321"
+                                ],
+                                "secondImage":["singapore.png","usa.png","usa.png","usa.png", "britain.png","britain.png","usa.png"],
+                                "thirdCallRange": "15 mins to 5 mins",
+                                "thirdCallDetails": [
+                                    "xxxxxxx74",
+                                    "xxxxxxx87",
+                                    "xxxxxxx010",
+                                    "xxxxxxx099",
+                                    "xxxxxxx074",
+                                    "xxxxxxx704"
+                                ],
+                                "thirdImage":["usa.png","usa.png","singapore.png","usa.png", "britain.png","britain.png","usa.png"]
+                            }
+                        }
+                    ]
+                }
+            }
+        ]
+    }
+]

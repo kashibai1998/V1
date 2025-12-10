@@ -1,0 +1,22 @@
+[
+    {
+        "id": 100001,
+        "offer": "Connect to wifi when you are outside home location"
+    },
+    {
+        "id": 100002,
+        "offer": "Connect to wifi at home to conserve mobile data"
+    },
+    {
+        "id": 100003,
+        "offer": "More consumption of mobile data when you are outside"
+    },
+    {
+        "id": 100004,
+        "offer": "Connect to broadband router when at home"
+    },
+    {
+        "id": 100005,
+        "offer": "Set Mobile data usage enable to monitor usage status"
+    }
+]

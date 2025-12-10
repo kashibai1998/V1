@@ -1,0 +1,90 @@
+[
+    {
+        "country":"United Kingdom",
+        "static":[
+            {
+                "data":[
+                    {
+                        "static": "County with 18-40 highest sentiment score",
+                        "county":"Greater London"
+                    },
+                    {
+                        "static": "County with lowest sentiment score",
+                        "county":"South Yorkshire"
+                    },
+                    {
+                        "static": "County with highest NPS score",
+                        "county":"Greater London"
+                    },
+                    {
+                        "static": "County with lowest NPS score",
+                        "county":"Tyne and Wear"
+                    },
+                    {
+                        "static": "County with highest CLV score",
+                        "county":"Cheshire"
+                    },
+                    {
+                        "static": "County with lowest CLV score",
+                        "county":"Lincolnshire"
+                    },
+                    {
+                        "static": "County with highest REV score",
+                        "county":"Nottinghamshire"
+                    },
+                    {
+                        "static": "County with lowest REV score",
+                        "county":"Gloucestershire"
+                    },
+                    {
+                        "static": "",
+                        "county":""
+                    }
+                ]
+            }
+        ]   
+    },
+    {
+        "country":"United States",
+        "static":[
+            {
+                "data":[
+                    {
+                        "static": "County with highest sentiment score",
+                        "county":"New York"
+                    },
+                    {
+                        "static": "County with lowest sentiment score",
+                        "county":"California"
+                    },
+                    {
+                        "static": "County with highest NPS score",
+                        "county":"Alabama"
+                    },
+                    {
+                        "static": "County with lowest NPS score",
+                        "county":"Alaska"
+                    },
+                    {
+                        "static": "County with highest CLV score",
+                        "county":"Arizona"
+                    },
+                    {
+                        "static": "County with lowest CLV score",
+                        "county":"Colorado"
+                    },
+                    {
+                        "static": "County with highest REV score",
+                        "county":"Connecticut"
+                    },
+                    {
+                        "static": "County with lowest REV score",
+                        "county":"Florida"
+                    }
+                ]
+            }
+        ]
+        
+        
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "id": 100001,
+        "offer": "Auto firmware upgrade of your modem is scheduled for 21.00 hrs tonight"
+    },
+    {
+        "id": 100002,
+        "offer": "Auto firmware upgrade of your modem is scheduled for 23.30 hrs tonight"
+    },
+    {
+        "id": 100003,
+        "offer": "Auto firmware upgrade of your modem is scheduled for 07.00 hrs morning"
+    },
+    {
+        "id": 100004,
+        "offer": "Auto firmware upgrade of your modem is scheduled for 10.30 hrs morning"
+    },
+    {
+        "id": 100005,
+        "offer": "Auto firmware upgrade of your modem is scheduled for 3.30 hrs afternoon"
+    }
+]

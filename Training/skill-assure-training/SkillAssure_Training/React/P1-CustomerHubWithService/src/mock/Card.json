@@ -1,0 +1,457 @@
+[
+    {
+        "id": 1,
+        "customerData": {
+            "graph": [
+                {
+                    "timeline": "CONNECTS",
+                    "channel": {
+                        "channelText": "CONNECTS",
+                        "value": "38",
+                        "offer": "Number Of Connections made in last 30 days",
+                        "Data": [
+                            {
+                                "heading": "22",
+                                "subHeading": "New Connects"
+                            },
+                            {
+                                "heading": "37",
+                                "subHeading": "Actively Connected"
+                            },
+                            {
+                                "heading": "65",
+                                "subHeading": "Total Connects"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "DATA",
+                    "channel": {
+                        "channelText": "DATA",
+                        "value": "50",
+                        "time": "Min",
+                        "offer": "Average viewing time",
+                        "Data": [
+                            {
+                                "heading": "40",
+                                "subHeading": "Average time of day(8AM to 11 PM) spent on Work"
+                            },
+                            {
+                                "heading": "20",
+                                "subHeading": "Average time Spent on Leisure"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "CONTENT",
+                    "channel": {
+                        "channelText": "CONTENT",
+                        "adds":"Premire league finals between chelsea and arsenal at 18.00 pm Tonight",
+                        "value": "53",
+                        "offer": "Time Spent on Sports",
+                        "Data": [
+                            {
+                                "heading": "6",
+                                "subHeading": "Quite Day No Content Watched",
+                                "days":[1,4,6,15,20,25]
+                            },
+                            {
+                                "heading": "44",
+                                "subHeading": "Reduce viewing time"
+                            },
+                            {
+                                "heading": "4",
+                                "subHeading": "Sports event Upcoming"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "PREMISES",
+                    "channel": {
+                        "channelText": "PREMISES",
+                        "value": "7",
+                        "devices": "devices",
+                        "offer": "Average always Connected",
+                        "Data": [
+                            {
+                                "heading": "62",
+                                "subHeading": "Devices are Streaming capable"
+                            },
+                            {
+                                "heading": "6",
+                                "subHeading": "New Devices Connected"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "customerData": {
+            "graph": [
+                {
+                    "timeline": "CONNECTS",
+                    "channel": {
+                        "channelText": "CONNECTS",
+                        "value": "39",
+                        "offer": "Number Of Connections made in last 30 days",
+                        "Data": [
+                            {
+                                "heading": "21",
+                                "subHeading": "New Connects"
+                            },
+                            {
+                                "heading": "33",
+                                "subHeading": "Actively Connected"
+                            },
+                            {
+                                "heading": "57",
+                                "subHeading": "Total Connects"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "DATA",
+                    "channel": {
+                        "channelText": "DATA",
+                        "value": "47",
+                        "time": "Min",
+                        "offer": "Average viewing time",
+                        "Data": [
+                            {
+                                "heading": "25",
+                                "subHeading": "Average time of day(8AM to 11 PM) spent on Work"
+                            },
+                            {
+                                "heading": "32",
+                                "subHeading": "Average time Spent on Leisure"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "CONTENT",
+                    "channel": {
+                        "channelText": "CONTENT",
+                        "adds":"Premire league finals between Barcelona and Bayem at 20.00 pm Tonight",
+                        "value": "61",
+                        "offer": "Time Spent on Sports",
+                        "Data": [
+                            {
+                                "heading": "2",
+                                "subHeading": "Quite Day No Content Watched",
+                                "days":[14,20]
+                            },
+                            {
+                                "heading": "51",
+                                "subHeading": "Reduce viewing time"
+                            },
+                            {
+                                "heading": "3",
+                                "subHeading": "Sports event Upcoming"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "PREMISES",
+                    "channel": {
+                        "channelText": "PREMISES",
+                        "value": "8",
+                        "devices": "devices",
+                        "offer": "Average always Connected",
+                        "Data": [
+                            {
+                                "heading": "62",
+                                "subHeading": "Devices are Streaming capable"
+                            },
+                            {
+                                "heading": "3",
+                                "subHeading": "New Devices Connected"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "customerData": {
+            "graph": [
+                {
+                    "timeline": "CONNECTS",
+                    "channel": {
+                        "channelText": "CONNECTS",
+                        "value": "39",
+                        "offer": "Number Of Connections made in last 30 days",
+                        "Data": [
+                            {
+                                "heading": "26",
+                                "subHeading": "New Connects"
+                            },
+                            {
+                                "heading": "32",
+                                "subHeading": "Actively Connected"
+                            },
+                            {
+                                "heading": "60",
+                                "subHeading": "Total Connects"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "DATA",
+                    "channel": {
+                        "channelText": "DATA",
+                        "value": "33",
+                        "time": "Min",
+                        "offer": "Average viewing time",
+                        "Data": [
+                            {
+                                "heading": "43",
+                                "subHeading": "Average time of day(8AM to 11 PM) spent on Work"
+                            },
+                            {
+                                "heading": "32",
+                                "subHeading": "Average time Spent on Leisure"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "CONTENT",
+                    "channel": {
+                        "channelText": "CONTENT",
+                        "adds":"IPL match between RCB and Mumbai Indians tonight at 17.00 pm",
+                        "value": "50",
+                        "offer": "Time Spent on Sports",
+                        "Data": [
+                            {
+                                "heading": "3",
+                                "subHeading": "Quite Day No Content Watched",
+                                "days":[22,18,6]
+                            },
+                            {
+                                "heading": "49",
+                                "subHeading": "Reduce viewing time"
+                            },
+                            {
+                                "heading": "4",
+                                "subHeading": "Sports event Upcoming"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "PREMISES",
+                    "channel": {
+                        "channelText": "PREMISES",
+                        "value": "5",
+                        "devices": "devices",
+                        "offer": "Average always Connected",
+                        "Data": [
+                            {
+                                "heading": "63",
+                                "subHeading": "Devices are Streaming capable"
+                            },
+                            {
+                                "heading": "6",
+                                "subHeading": "New Devices Connected"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "customerData": {
+            "graph": [
+                {
+                    "timeline": "CONNECTS",
+                    "channel": {
+                        "channelText": "CONNECTS",
+                        "value": "35",
+                        "offer": "Number Of Connections made in last 30 days",
+                        "Data": [
+                            {
+                                "heading": "31",
+                                "subHeading": "New Connects"
+                            },
+                            {
+                                "heading": "42",
+                                "subHeading": "Actively Connected"
+                            },
+                            {
+                                "heading": "75",
+                                "subHeading": "Total Connects"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "DATA",
+                    "channel": {
+                        "channelText": "DATA",
+                        "value": "52",
+                        "time": "Min",
+                        "offer": "Average viewing time",
+                        "Data": [
+                            {
+                                "heading": "43",
+                                "subHeading": "Average time of day(8AM to 11 PM) spent on Work"
+                            },
+                            {
+                                "heading": "28",
+                                "subHeading": "Average time Spent on Leisure"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "CONTENT",
+                    "channel": {
+                        "channelText": "CONTENT",
+                        "adds":"IPL match between CSK and KKR at 1.00 pm afternoon",
+                        "value": "55",
+                        "offer": "Time Spent on Sports",
+                        "Data": [
+                            {
+                                "heading": "5",
+                                "subHeading": "Quite Day No Content Watched",
+                                "days":[3,25,15,17,10]
+                            },
+                            {
+                                "heading": "44",
+                                "subHeading": "Reduce viewing time"
+                            },
+                            {
+                                "heading": "2",
+                                "subHeading": "Sports event Upcoming"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "PREMISES",
+                    "channel": {
+                        "channelText": "PREMISES",
+                        "value": "8",
+                        "devices": "devices",
+                        "offer": "Average always Connected",
+                        "Data": [
+                            {
+                                "heading": "65",
+                                "subHeading": "Devices are Streaming capable"
+                            },
+                            {
+                                "heading": "6",
+                                "subHeading": "New Devices Connected"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "customerData": {
+            "graph": [
+                {
+                    "timeline": "CONNECTS",
+                    "channel": {
+                        "channelText": "CONNECTS",
+                        "value": "39",
+                        "offer": "Number Of Connections made in last 30 days",
+                        "Data": [
+                            {
+                                "heading": "23",
+                                "subHeading": "New Connects"
+                            },
+                            {
+                                "heading": "37",
+                                "subHeading": "Actively Connected"
+                            },
+                            {
+                                "heading": "70",
+                                "subHeading": "Total Connects"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "DATA",
+                    "channel": {
+                        "channelText": "DATA",
+                        "value": "57",
+                        "time": "Min",
+                        "offer": "Average viewing time",
+                        "Data": [
+                            {
+                                "heading": "43",
+                                "subHeading": "Average time of day(8AM to 11 PM) spent on Work"
+                            },
+                            {
+                                "heading": "22",
+                                "subHeading": "Average time Spent on Leisure"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "CONTENT",
+                    "channel": {
+                        "channelText": "CONTENT",
+                        "adds":"Tennis match between Dan Evans and Andy Murray at 10.00 am morning",
+                        "value": "62",
+                        "offer": "Time Spent on Sports",
+                        "Data": [
+                            {
+                                "heading": "1",
+                                "subHeading": "Quite Day No Content Watched",
+                                "days":[10]
+                            },
+                            {
+                                "heading": "42",
+                                "subHeading": "Reduce viewing time"
+                            },
+                            {
+                                "heading": "2",
+                                "subHeading": "Sports event Upcoming"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "timeline": "PREMISES",
+                    "channel": {
+                        "channelText": "PREMISES",
+                        "value": "7",
+                        "devices": "devices",
+                        "offer": "Average always Connected",
+                        "Data": [
+                            {
+                                "heading": "76",
+                                "subHeading": "Devices are Streaming capable"
+                            },
+                            {
+                                "heading": "4",
+                                "subHeading": "New Devices Connected"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+]

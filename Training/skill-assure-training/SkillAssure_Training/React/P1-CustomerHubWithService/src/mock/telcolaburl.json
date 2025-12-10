@@ -1,0 +1,78 @@
+[
+    {
+        "id": "1",
+        "Contract": [
+            {
+                "Sl_No": "1",
+                "project_Name": "Data Genie",
+                "Application": "https://datagenie.vcommslab.com"
+            },
+            {
+                "Sl_No": "2",
+                "project_Name": "Code Wallet",
+                "Application": "https://codewallet.vcommslab.com"
+            },
+            {
+                "Sl_No": "3",
+                "project_Name": "API Academy",
+                "Application": "https://apiacademy.vcommslab.com"
+            },
+            {
+                "Sl_No": "4",
+                "project_Name": "Blockchain",
+                "Application": "https://aidetection.vcommslab.com/chain/"
+            },
+            {
+                "Sl_No": "5",
+                "project_Name": "AI Playground",
+                "Application": "https://aiplayground.vcommslab.com"
+            },
+            {
+                "Sl_No": "6",
+                "project_Name": "Experience Builder",
+                "Application": "https://experiencebuilder.vcommslab.com"
+            },
+            {
+                "Sl_No": "7",
+                "project_Name": "Knowledge Exchange",
+                "Application": "https://knowledgeexchange.vcommslab.com"
+            },
+            {
+                "Sl_No": "8",
+                "project_Name": "Engineer Dashboard",
+                "Application": "https://fsp.vcommslab.com"
+            },
+            {
+                "Sl_No": "9",
+                "project_Name": "Marketplace",
+                "Application": "https://aidetection.vcommslab.com"
+            },
+            {
+                "Sl_No": "10",
+                "project_Name": "FSP App",
+                "Application": "https://fieldapp.vcommslab.com/"
+            },
+            {
+                "Sl_No": "11",
+                "project_Name": "CNDP",
+                "Application": "https://cndp.vcommslab.com"
+            },
+            {
+                "Sl_No": "12",
+                "project_Name": "NGCC",
+                "Application": "https://ngcc.vcommslab.com"
+            },
+            {
+                "Sl_No": "13",
+                "project_Name": "Customer Hub",
+                "Application": "https://customerhub.vcommslab.com"
+            },
+            {
+                "Sl_No": "14",
+                "project_Name": "Enterprise Care",
+                "Application": "https://telco1.vcommslab.com/"
+            }
+           
+        ]
+    }
+]

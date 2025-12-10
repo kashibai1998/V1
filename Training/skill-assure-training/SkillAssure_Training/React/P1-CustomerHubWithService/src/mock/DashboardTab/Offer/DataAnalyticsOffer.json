@@ -1,0 +1,22 @@
+[
+    {
+        "id": 100001,
+        "offer": "Get 5X data - 50GB for £20 a month"
+    },
+    {
+        "id": 100002,
+        "offer": "Upgrade your data package to 10GB at just £12 per month"
+    },
+    {
+        "id": 100003,
+        "offer": "Upgrade your data package to 20GB at just £20 per month"
+    },
+    {
+        "id": 100004,
+        "offer": "Get 5X data - 60GB for £22 a month"
+    },
+    {
+        "id": 100005,
+        "offer": "Upgrade your data package to 3GB at just £4 per week"
+    }
+]

@@ -1,0 +1,276 @@
+[
+    {
+        "country": "United Kingdom",
+        "factorData": [
+            {
+                "time": "Last week",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "ARPU in Billingham has dropped by 2%",
+                    "ARPU in Consett has dropped by 8%",
+                    "ARPU in Hartlepool has dropped by 9%",
+                    "Increase of 10% in ARPU in Enfield after Intrduction of family plan"
+                ]
+            },
+            {
+                "time": "Last week",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "ARPU in Battlesden has dropped by 3%",
+                    "ARPU in Chalton has dropped by 6%",
+                    "ARPU in Colmworth has dropped by 9%",
+                    "Increase of 13% in ARPU in Edworth"
+                ]
+            },
+            {
+                "time": "Last week",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "ARPU in Chesterfield has dropped by 4%",
+                    "ARPU in Ilkeston has dropped by 8%",
+                    "ARPU in Heanor has dropped by 13%",
+                    "Increase of 12% in ARPU in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "ARPU in Billingham has dropped by 9%",
+                    "ARPU in Consett has dropped by 8%",
+                    "ARPU in Hartlepool has dropped by 12%",
+                    "Increase of 11% in ARPU in Enfield"
+                ]
+            },
+            {
+                "time": "Last month",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "ARPU in Battlesden has dropped by 3%",
+                    "ARPU in Chalton has dropped by 6%",
+                    "ARPU in Colmworth has dropped by 9%",
+                    "Increase of 13% in ARPU in Edworth"
+                ]
+            },
+            {
+                "time": "Last month",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "ARPU in Chesterfield has dropped by 2%",
+                    "ARPU in Ilkeston has dropped by 8%",
+                    "ARPU in Heanor has dropped by 9%",
+                    "Increase of 10% in ARPU in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "ARPU in Billingham has dropped by 2%",
+                    "ARPU in Consett has dropped by 8%",
+                    "ARPU in Hartlepool has dropped by 9%",
+                    "Increase of 10% in ARPU in Enfield after Intrduction of family plan"
+                ]
+            },
+            {
+                "time": "Last week",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "ARPU in Battlesden has dropped by 3%",
+                    "ARPU in Chalton has dropped by 6%",
+                    "ARPU in Colmworth has dropped by 9%",
+                    "Increase of 11% in ARPU in Edworth"
+                ]
+            },
+            {
+                "time": "Last week",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "ARPU in Chesterfield has dropped by 4%",
+                    "ARPU in Ilkeston has dropped by 7%",
+                    "ARPU in Heanor has dropped by 9%",
+                    "Increase of 12% in ARPU in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "ARPU in Billingham has dropped by 2%",
+                    "ARPU in Consett has dropped by 8%",
+                    "ARPU in Hartlepool has dropped by 9%",
+                    "Increase of 10% in ARPU in Enfield after Intrduction of family plan"
+                ]
+            },
+            {
+                "time": "Last month",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "ARPU in Battlesden has dropped by 7%",
+                    "ARPU in Chalton has dropped by 6%",
+                    "ARPU in Colmworth has dropped by 9%",
+                    "Increase of 15% in ARPU in Edworth"
+                ]
+            },
+            {
+                "time": "Last month",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "ARPU in Chesterfield has dropped by 4%",
+                    "ARPU in Ilkeston has dropped by 8%",
+                    "ARPU in Heanor has dropped by 11%",
+                    "Increase of 12% in ARPU in Buxton"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "United States",
+        "factorData": [
+            {
+                "time": "Last week",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "ARPU in Akron has dropped by 7%",
+                    "ARPU in Aliceville has dropped by 8%",
+                    "ARPU in Argo has dropped by 12%",
+                    "Increase of 15% in ARPU in Benton‎"
+                ]
+            },
+            {
+                "time": "Last week",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "ARPU in Buckeye has dropped by 7%",
+                    "ARPU in Eagar has dropped by 5%",
+                    "ARPU in Glendale has dropped by 13%",
+                    "Increase of 15% in ARPU in Marana"
+                ]
+            },
+            {
+                "time": "Last week",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "ARPU in Hialeah has dropped by 6%",
+                    "ARPU in Palatka has dropped by 7%",
+                    "ARPU in Bradenton has dropped by 15%",
+                    "Increase of 13% in ARPU in largo"
+                ]
+            },
+            {
+                "time": "Last month",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "ARPU in Akron has dropped by 11%",
+                    "ARPU in Aliceville has dropped by 14%",
+                    "ARPU in Argo has dropped by 12%",
+                    "Increase of 11% in ARPU in Benton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "ARPU in Buckeye has dropped by 7%",
+                    "ARPU in Eagar has dropped by 3%",
+                    "ARPU in Glendale has dropped by 13%",
+                    "Increase of 12% in ARPU in Marana"
+                ]
+            },
+            {
+                "time": "Last month",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "ARPU in Hialeah has dropped by 7%",
+                    "ARPU in Palatka has dropped by 9%",
+                    "ARPU in Bradenton has dropped by 14%",
+                    "Increase of 16% in ARPU in largo"
+                ]
+            },
+            {
+                "time": "Last week",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "ARPU in Akron has dropped by 7%",
+                    "ARPU in Aliceville has dropped by 8%",
+                    "ARPU in Argo has dropped by 13%",
+                    "Increase of 14% in ARPU in Benton‎"
+                ]
+            },
+            {
+                "time": "Last week",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "ARPU in Buckeye has dropped by 7%",
+                    "ARPU in Eagar has dropped by 5%",
+                    "ARPU in Glendale has dropped by 13%",
+                    "Increase of 17% in ARPU in Marana"
+                ]
+            },
+            {
+                "time": "Last week",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "ARPU in Hialeah has dropped by 7%",
+                    "ARPU in Palatka has dropped by 7%",
+                    "ARPU in Bradenton has dropped by 12%",
+                    "Increase of 15% in ARPU in largo"
+                ]
+            },
+            {
+                "time": "Last month",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "ARPU in Akron has dropped by 7%",
+                    "ARPU in Aliceville has dropped by 5%",
+                    "ARPU in Argo has dropped by 12%",
+                    "Increase of 13% in ARPU in Benton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "ARPU in Buckeye has dropped by 7%",
+                    "ARPU in Eagar has dropped by 7%",
+                    "ARPU in Glendale has dropped by 14%",
+                    "Increase of 12% in ARPU in Marana"
+                ]
+            },
+            {
+                "time": "Last month",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "ARPU in Hialeah has dropped by 7%",
+                    "ARPU in Palatka has dropped by %",
+                    "ARPU in Bradenton has dropped by 10%",
+                    "Increase of 12% in ARPU in largo"
+                ]
+            }
+        ]
+    }
+]

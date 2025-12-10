@@ -1,0 +1,2556 @@
+[
+    {
+        "country": "United Kingdom",
+        "factorData": [
+            {
+                "time": "Last week",
+                "county": "Greater London",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Barnet has dropped by 2%",
+                    "Sentiment in Ealing has dropped by 3%",
+                    "Sentiment in Croydon has dropped by 3%",
+                    "Increase of 10% in Sentiment in Enfield"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Greater London",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Barnet has dropped by 5%",
+                    "Sentiment in Ealing has dropped by 6%",
+                    "Sentiment in Croydon has dropped by 9%",
+                    "Increase of 12% in Sentiment in Enfield"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Greater London",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Barnet has dropped by 8%",
+                    "Sentiment in Ealing has dropped by 14%",
+                    "Sentiment in Croydon has dropped by 15%",
+                    "Increase of 13% in Sentiment in Enfield"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Greater London",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Barnet has dropped by 8%",
+                    "Sentiment in Ealing has dropped by 13%",
+                    "Sentiment in Croydon has dropped by 9%",
+                    "Increase of 12% in Sentiment in Enfield"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Greater London",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Barnet has dropped by 3%",
+                    "Sentiment in Ealing has dropped by 6%",
+                    "Sentiment in Croydon has dropped by 12%",
+                    "Increase of 14% in Sentiment in Enfield"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Greater London",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Barnet has dropped by 6%",
+                    "Sentiment in Ealing has dropped by 9%",
+                    "Sentiment in Croydon has dropped by 12%",
+                    "Increase of 13% in Sentiment in Enfield"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Merseyside",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Liverpool has dropped by 2%",
+                    "Sentiment in Southport has dropped by 3%",
+                    "Sentiment in Crosby has dropped by 3%",
+                    "Increase of 10% in Sentiment in Birkenhead"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Merseyside",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Liverpool has dropped by 4%",
+                    "Sentiment in Southport has dropped by 7%",
+                    "Sentiment in Crosby has dropped by 8%",
+                    "Increase of 13% in Sentiment in Birkenhead"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Merseyside",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Liverpool has dropped by 3%",
+                    "Sentiment in Southport has dropped by 8%",
+                    "Sentiment in Crosby has dropped by 8%",
+                    "Increase of 14% in Sentiment in Birkenhead"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Merseyside",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Liverpool has dropped by 7%",
+                    "Sentiment in Southport has dropped by 9%",
+                    "Sentiment in Crosby has dropped by 14%",
+                    "Increase of 12% in Sentiment in Birkenhead"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Merseyside",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Liverpool has dropped by 4%",
+                    "Sentiment in Southport has dropped by 5%",
+                    "Sentiment in Crosby has dropped by 7%",
+                    "Increase of 12% in Sentiment in Birkenhead"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Merseyside",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Liverpool has dropped by 3%",
+                    "Sentiment in Southport has dropped by 5%",
+                    "Sentiment in Crosby has dropped by 6%",
+                    "Increase of 12% in Sentiment in Birkenhead"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Durham",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Billingham has dropped by 2%",
+                    "Sentiment in Consett has dropped by 3%",
+                    "Sentiment in Hartlepool has dropped by 3%",
+                    "Increase of 10% in Sentiment in Aislaby"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Durham",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Billingham has dropped by 3%",
+                    "Sentiment in Consett has dropped by 5%",
+                    "Sentiment in Hartlepool has dropped by 7%",
+                    "Increase of 12% in Sentiment in Aislaby"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Durham",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Billingham has dropped by 5%",
+                    "Sentiment in Consett has dropped by 9%",
+                    "Sentiment in Hartlepool has dropped by 11%",
+                    "Increase of 13% in Sentiment in Aislaby"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Durham",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Billingham has dropped by 5%",
+                    "Sentiment in Consett has dropped by 5%",
+                    "Sentiment in Hartlepool has dropped by 4%",
+                    "Increase of 14% in Sentiment in Aislaby"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Durham",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Billingham has dropped by 2%",
+                    "Sentiment in Consett has dropped by 8%",
+                    "Sentiment in Hartlepool has dropped by 9%",
+                    "Increase of 13% in Sentiment in Aislaby"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Durham",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Billingham has dropped by 3%",
+                    "Sentiment in Consett has dropped by 5%",
+                    "Sentiment in Hartlepool has dropped by 7%",
+                    "Increase of 12% in Sentiment in Aislaby"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Cheshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Disley has dropped by 3%",
+                    "Sentiment in Handley has dropped by 5%",
+                    "Sentiment in Hatherton has dropped by 8%",
+                    "Increase of 10% in Sentiment in Kettleshulme"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Cheshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Disley has dropped by 4%",
+                    "Sentiment in Handley has dropped by 5%",
+                    "Sentiment in Hatherton has dropped by 7%",
+                    "Increase of 12% in Sentiment in Kettleshulme"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Cheshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Disley has dropped by 4%",
+                    "Sentiment in Handley has dropped by 5%",
+                    "Sentiment in Hatherton has dropped by 8%",
+                    "Increase of 13% in Sentiment in Kettleshulme"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Cheshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Disley has dropped by 3%",
+                    "Sentiment in Handley has dropped by 7%",
+                    "Sentiment in Hatherton has dropped by 8%",
+                    "Increase of 13% in Sentiment in Kettleshulme"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Cheshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Disley has dropped by 4%",
+                    "Sentiment in Handley has dropped by 6%",
+                    "Sentiment in Hatherton has dropped by 8%",
+                    "Increase of 12% in Sentiment in Kettleshulme"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Cheshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Disley has dropped by 6%",
+                    "Sentiment in Handley has dropped by 8%",
+                    "Sentiment in Hatherton has dropped by 10%",
+                    "Increase of 13% in Sentiment in Kettleshulme"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Lincolnshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Disley has dropped by 3%",
+                    "Sentiment in Handley has dropped by 5%",
+                    "Sentiment in Hatherton has dropped by 9%",
+                    "Increase of 13% in Sentiment in Kettleshulme"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Lincolnshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Disley has dropped by 5%",
+                    "Sentiment in Handley has dropped by 6%",
+                    "Sentiment in Hatherton has dropped by 8%",
+                    "Increase of 14% in Sentiment in Kettleshulme"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Lincolnshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Disley has dropped by 5%",
+                    "Sentiment in Handley has dropped by 7%",
+                    "Sentiment in Hatherton has dropped by 9%",
+                    "Increase of 14% in Sentiment in Kettleshulme"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Lincolnshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Disley has dropped by 5%",
+                    "Sentiment in Handley has dropped by 8%",
+                    "Sentiment in Hatherton has dropped by 9%",
+                    "Increase of 15% in Sentiment in Kettleshulme"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Lincolnshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Disley has dropped by 4%",
+                    "Sentiment in Handley has dropped by 6%",
+                    "Sentiment in Hatherton has dropped by 8%",
+                    "Increase of 12% in Sentiment in Kettleshulme"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Lincolnshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Disley has dropped by 6%",
+                    "Sentiment in Handley has dropped by 8%",
+                    "Sentiment in Hatherton has dropped by 10%",
+                    "Increase of 13% in Sentiment in Kettleshulme"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Derbyshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 3%",
+                    "Sentiment in Ilkeston has dropped by 5%",
+                    "Sentiment in Heanor has dropped by 9%",
+                    "Increase of 13% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Derbyshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 4%",
+                    "Sentiment in Ilkeston has dropped by 8%",
+                    "Sentiment in Heanor has dropped by 12%",
+                    "Increase of 14% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Derbyshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 13%",
+                    "Sentiment in Ilkeston has dropped by 12%",
+                    "Sentiment in Heanor has dropped by 8%",
+                    "Increase of 16% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Derbyshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 11%",
+                    "Sentiment in Ilkeston has dropped by 12%",
+                    "Sentiment in Heanor has dropped by 13%",
+                    "Increase of 15% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Derbyshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 8%",
+                    "Sentiment in Ilkeston has dropped by 9%",
+                    "Sentiment in Heanor has dropped by 10%",
+                    "Increase of 14% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Derbyshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 4%",
+                    "Sentiment in Ilkeston has dropped by 7%",
+                    "Sentiment in Heanor has dropped by 8%",
+                    "Increase of 11% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Derbyshire",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 3%",
+                    "Sentiment in Ilkeston has dropped by 5%",
+                    "Sentiment in Heanor has dropped by 9%",
+                    "Increase of 13% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Derbyshire",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 4%",
+                    "Sentiment in Ilkeston has dropped by 8%",
+                    "Sentiment in Heanor has dropped by 12%",
+                    "Increase of 14% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Derbyshire",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 13%",
+                    "Sentiment in Ilkeston has dropped by 12%",
+                    "Sentiment in Heanor has dropped by 8%",
+                    "Increase of 16% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Derbyshire",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 11%",
+                    "Sentiment in Ilkeston has dropped by 12%",
+                    "Sentiment in Heanor has dropped by 13%",
+                    "Increase of 15% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Derbyshire",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 8%",
+                    "Sentiment in Ilkeston has dropped by 9%",
+                    "Sentiment in Heanor has dropped by 10%",
+                    "Increase of 14% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Derbyshire",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 4%",
+                    "Sentiment in Ilkeston has dropped by 7%",
+                    "Sentiment in Heanor has dropped by 8%",
+                    "Increase of 11% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Derbyshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 3%",
+                    "Sentiment in Ilkeston has dropped by 5%",
+                    "Sentiment in Heanor has dropped by 9%",
+                    "Increase of 13% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Derbyshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 4%",
+                    "Sentiment in Ilkeston has dropped by 8%",
+                    "Sentiment in Heanor has dropped by 12%",
+                    "Increase of 14% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Derbyshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 13%",
+                    "Sentiment in Ilkeston has dropped by 12%",
+                    "Sentiment in Heanor has dropped by 8%",
+                    "Increase of 16% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Derbyshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 11%",
+                    "Sentiment in Ilkeston has dropped by 12%",
+                    "Sentiment in Heanor has dropped by 13%",
+                    "Increase of 15% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Derbyshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 8%",
+                    "Sentiment in Ilkeston has dropped by 9%",
+                    "Sentiment in Heanor has dropped by 10%",
+                    "Increase of 14% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Derbyshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 4%",
+                    "Sentiment in Ilkeston has dropped by 7%",
+                    "Sentiment in Heanor has dropped by 8%",
+                    "Increase of 11% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Rutland",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 3%",
+                    "Sentiment in Ilkeston has dropped by 5%",
+                    "Sentiment in Heanor has dropped by 9%",
+                    "Increase of 13% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Rutland",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 4%",
+                    "Sentiment in Ilkeston has dropped by 8%",
+                    "Sentiment in Heanor has dropped by 12%",
+                    "Increase of 14% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Rutland",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 13%",
+                    "Sentiment in Ilkeston has dropped by 12%",
+                    "Sentiment in Heanor has dropped by 8%",
+                    "Increase of 16% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Rutland",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 11%",
+                    "Sentiment in Ilkeston has dropped by 12%",
+                    "Sentiment in Heanor has dropped by 13%",
+                    "Increase of 15% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Rutland",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 8%",
+                    "Sentiment in Ilkeston has dropped by 9%",
+                    "Sentiment in Heanor has dropped by 10%",
+                    "Increase of 14% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Rutland",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 4%",
+                    "Sentiment in Ilkeston has dropped by 7%",
+                    "Sentiment in Heanor has dropped by 8%",
+                    "Increase of 11% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Rutland",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 3%",
+                    "Sentiment in Ilkeston has dropped by 5%",
+                    "Sentiment in Heanor has dropped by 9%",
+                    "Increase of 13% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Rutland",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 4%",
+                    "Sentiment in Ilkeston has dropped by 8%",
+                    "Sentiment in Heanor has dropped by 12%",
+                    "Increase of 14% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Rutland",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 13%",
+                    "Sentiment in Ilkeston has dropped by 12%",
+                    "Sentiment in Heanor has dropped by 8%",
+                    "Increase of 16% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Rutland",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 11%",
+                    "Sentiment in Ilkeston has dropped by 12%",
+                    "Sentiment in Heanor has dropped by 13%",
+                    "Increase of 15% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Rutland",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 8%",
+                    "Sentiment in Ilkeston has dropped by 9%",
+                    "Sentiment in Heanor has dropped by 10%",
+                    "Increase of 14% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Rutland",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Chesterfield has dropped by 4%",
+                    "Sentiment in Ilkeston has dropped by 7%",
+                    "Sentiment in Heanor has dropped by 8%",
+                    "Increase of 11% in Sentiment in Buxton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Nottinghamshire",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Arnold has dropped by 3%",
+                    "Sentiment in Beeston has dropped by 6%",
+                    "Sentiment in Gringley  has dropped by 10%",
+                    "Increase of 14% in Sentiment in Littleborough"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Nottinghamshire",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Arnold has dropped by 2%",
+                    "Sentiment in Beeston has dropped by 5%",
+                    "Sentiment in Gringley  has dropped by 10%",
+                    "Increase of 14% in Sentiment in Littleborough"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Nottinghamshire",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Arnold has dropped by 6%",
+                    "Sentiment in Beeston has dropped by 9%",
+                    "Sentiment in Gringley  has dropped by 10%",
+                    "Increase of 14% in Sentiment in Littleborough"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Nottinghamshire",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Arnold has dropped by 5%",
+                    "Sentiment in Beeston has dropped by 7%",
+                    "Sentiment in Gringley  has dropped by 10%",
+                    "Increase of 14% in Sentiment in Littleborough"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Nottinghamshire",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Arnold has dropped by 3%",
+                    "Sentiment in Beeston has dropped by 5%",
+                    "Sentiment in Gringley  has dropped by 9%",
+                    "Increase of 13% in Sentiment in Littleborough"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Nottinghamshire",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Arnold has dropped by 11%",
+                    "Sentiment in Beeston has dropped by 12%",
+                    "Sentiment in Gringley  has dropped by 13%",
+                    "Increase of 13% in Sentiment in Littleborough"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Nottinghamshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Arnold has dropped by 4%",
+                    "Sentiment in Beeston has dropped by 5%",
+                    "Sentiment in Gringley  has dropped by 10%",
+                    "Increase of 13% in Sentiment in Littleborough"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Nottinghamshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Arnold has dropped by 4%",
+                    "Sentiment in Beeston has dropped by 5%",
+                    "Sentiment in Gringley  has dropped by 6%",
+                    "Increase of 15% in Sentiment in Littleborough"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Nottinghamshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Arnold has dropped by 3%",
+                    "Sentiment in Beeston has dropped by 5%",
+                    "Sentiment in Gringley  has dropped by 9%",
+                    "Increase of 13% in Sentiment in Littleborough"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Nottinghamshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Arnold has dropped by 3%",
+                    "Sentiment in Beeston has dropped by 5%",
+                    "Sentiment in Gringley  has dropped by 9%",
+                    "Increase of 13% in Sentiment in Littleborough"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Nottinghamshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Arnold has dropped by 3%",
+                    "Sentiment in Beeston has dropped by 7%",
+                    "Sentiment in Gringley  has dropped by 8%",
+                    "Increase of 13% in Sentiment in Littleborough"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Nottinghamshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Arnold has dropped by 6%",
+                    "Sentiment in Beeston has dropped by 7%",
+                    "Sentiment in Gringley  has dropped by 7%",
+                    "Increase of 14% in Sentiment in Littleborough"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Gloucestershire",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 14% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Gloucestershire",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 5%",
+                    "Sentiment in Filton has dropped by 7%",
+                    "Sentiment in Tetbury has dropped by 11%",
+                    "Increase of 16% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Gloucestershire",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 5%",
+                    "Sentiment in Filton has dropped by 7%",
+                    "Sentiment in Tetbury has dropped by 12%",
+                    "Increase of 15% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Gloucestershire",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 4%",
+                    "Sentiment in Filton has dropped by 5%",
+                    "Sentiment in Tetbury has dropped by 9%",
+                    "Increase of 12% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Gloucestershire",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 4%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 8%",
+                    "Increase of 11% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Gloucestershire",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 5%",
+                    "Sentiment in Filton has dropped by 8%",
+                    "Sentiment in Tetbury has dropped by 12%",
+                    "Increase of 10% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Gloucestershire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 5%",
+                    "Sentiment in Filton has dropped by 5%",
+                    "Sentiment in Tetbury has dropped by 12%",
+                    "Increase of 13% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Gloucestershire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 5%",
+                    "Sentiment in Filton has dropped by 7%",
+                    "Sentiment in Tetbury has dropped by 12%",
+                    "Increase of 16% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Gloucestershire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 11% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Gloucestershire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 12% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Gloucestershire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 13% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Gloucestershire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 13% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Gloucestershire",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 14% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Gloucestershire",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 11% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Gloucestershire",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 12% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Gloucestershire",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 12% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Gloucestershire",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 13% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Gloucestershire",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 12% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Gloucestershire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 4%",
+                    "Increase of 11% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Gloucestershire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 12%",
+                    "Increase of 10% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Devon",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 14% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Devon",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 11% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Devon",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 12% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Devon",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 12% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Devon",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 13% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Devon",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 12% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Devon",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 4%",
+                    "Increase of 11% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Devon",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 6%",
+                    "Sentiment in Tetbury has dropped by 12%",
+                    "Increase of 10% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Devon",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 7%",
+                    "Sentiment in Tetbury has dropped by 10%",
+                    "Increase of 12% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Devon",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 7%",
+                    "Sentiment in Tetbury has dropped by 1%",
+                    "Increase of 13% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Devon",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 3%",
+                    "Sentiment in Tetbury has dropped by 5%",
+                    "Increase of 14% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Devon",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Cinderford has dropped by 3%",
+                    "Sentiment in Filton has dropped by 3%",
+                    "Sentiment in Tetbury has dropped by 1%",
+                    "Increase of 16% in Sentiment in Yate"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Cambridgeshire",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Barham has dropped by 3%",
+                    "Sentiment in Caxton has dropped by 7%",
+                    "Sentiment in Colne has dropped by 11%",
+                    "Increase of 13% in Sentiment in Coton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Cambridgeshire",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Barham has dropped by 3%",
+                    "Sentiment in Caxton has dropped by 7%",
+                    "Sentiment in Colne has dropped by 11%",
+                    "Increase of 13% in Sentiment in Coton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Cambridgeshire",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Barham has dropped by 3%",
+                    "Sentiment in Caxton has dropped by 7%",
+                    "Sentiment in Colne has dropped by 11%",
+                    "Increase of 13% in Sentiment in Coton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Cambridgeshire",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Barham has dropped by 3%",
+                    "Sentiment in Caxton has dropped by 7%",
+                    "Sentiment in Colne has dropped by 11%",
+                    "Increase of 13% in Sentiment in Coton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Cambridgeshire",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Barham has dropped by 3%",
+                    "Sentiment in Caxton has dropped by 7%",
+                    "Sentiment in Colne has dropped by 11%",
+                    "Increase of 13% in Sentiment in Coton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Cambridgeshire",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Barham has dropped by 3%",
+                    "Sentiment in Caxton has dropped by 7%",
+                    "Sentiment in Colne has dropped by 11%",
+                    "Increase of 13% in Sentiment in Coton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Cambridgeshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Barham has dropped by 3%",
+                    "Sentiment in Caxton has dropped by 7%",
+                    "Sentiment in Colne has dropped by 11%",
+                    "Increase of 13% in Sentiment in Coton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Cambridgeshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Barham has dropped by 3%",
+                    "Sentiment in Caxton has dropped by 7%",
+                    "Sentiment in Colne has dropped by 11%",
+                    "Increase of 13% in Sentiment in Coton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Cambridgeshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Barham has dropped by 3%",
+                    "Sentiment in Caxton has dropped by 7%",
+                    "Sentiment in Colne has dropped by 11%",
+                    "Increase of 13% in Sentiment in Coton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Cambridgeshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Barham has dropped by 3%",
+                    "Sentiment in Caxton has dropped by 7%",
+                    "Sentiment in Colne has dropped by 11%",
+                    "Increase of 13% in Sentiment in Coton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Cambridgeshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Barham has dropped by 3%",
+                    "Sentiment in Caxton has dropped by 7%",
+                    "Sentiment in Colne has dropped by 11%",
+                    "Increase of 13% in Sentiment in Coton"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Cambridgeshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Barham has dropped by 3%",
+                    "Sentiment in Caxton has dropped by 7%",
+                    "Sentiment in Colne has dropped by 11%",
+                    "Increase of 13% in Sentiment in Coton"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Bedfordshire",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Battlesden has dropped by 2%",
+                    "Sentiment in Chalton has dropped by 7%",
+                    "Sentiment in Colmworth has dropped by 14%",
+                    "Increase of 17% in Sentiment in Edworth"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Bedfordshire",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Battlesden has dropped by 5%",
+                    "Sentiment in Chalton has dropped by 8%",
+                    "Sentiment in Colmworth has dropped by 13%",
+                    "Increase of 14% in Sentiment in Edworth"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Bedfordshire",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Battlesden has dropped by 8%",
+                    "Sentiment in Chalton has dropped by 9%",
+                    "Sentiment in Colmworth has dropped by 13%",
+                    "Increase of 15% in Sentiment in Edworth"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Bedfordshire",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Battlesden has dropped by 5%",
+                    "Sentiment in Chalton has dropped by 8%",
+                    "Sentiment in Colmworth has dropped by 13%",
+                    "Increase of 14% in Sentiment in Edworth"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Bedfordshire",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Battlesden has dropped by 4%",
+                    "Sentiment in Chalton has dropped by 8%",
+                    "Sentiment in Colmworth has dropped by 11%",
+                    "Increase of 13% in Sentiment in Edworth"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Bedfordshire",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Battlesden has dropped by 3%",
+                    "Sentiment in Chalton has dropped by 8%",
+                    "Sentiment in Colmworth has dropped by 13%",
+                    "Increase of 15% in Sentiment in Edworth"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Bedfordshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Battlesden has dropped by 3%",
+                    "Sentiment in Chalton has dropped by 5%",
+                    "Sentiment in Colmworth has dropped by 12%",
+                    "Increase of 10% in Sentiment in Edworth"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Bedfordshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Battlesden has dropped by 4%",
+                    "Sentiment in Chalton has dropped by 6%",
+                    "Sentiment in Colmworth has dropped by 10%",
+                    "Increase of 14% in Sentiment in Edworth"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Bedfordshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Battlesden has dropped by 3%",
+                    "Sentiment in Chalton has dropped by 6%",
+                    "Sentiment in Colmworth has dropped by 14%",
+                    "Increase of 12% in Sentiment in Edworth"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Bedfordshire",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Battlesden has dropped by 2%",
+                    "Sentiment in Chalton has dropped by 7%",
+                    "Sentiment in Colmworth has dropped by 16%",
+                    "Increase of 14% in Sentiment in Edworth"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Bedfordshire",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Battlesden has dropped by 4%",
+                    "Sentiment in Chalton has dropped by 8%",
+                    "Sentiment in Colmworth has dropped by 12%",
+                    "Increase of 14% in Sentiment in Edworth"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Bedfordshire",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Battlesden has dropped by 4%",
+                    "Sentiment in Chalton has dropped by 7%",
+                    "Sentiment in Colmworth has dropped by 14%",
+                    "Increase of 18% in Sentiment in Edworth"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Essex",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Basildon has dropped by 3%",
+                    "Sentiment in Harlow has dropped by 6%",
+                    "Sentiment in port of Tilbury has dropped by 12%",
+                    "Increase of 15% in Sentiment in Loughton‎"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Essex",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Basildon has dropped by 4%",
+                    "Sentiment in Harlow has dropped by 7%",
+                    "Sentiment in port of Tilbury has dropped by 14%",
+                    "Increase of 12% in Sentiment in Loughton‎"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Essex",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Basildon has dropped by 4%",
+                    "Sentiment in Harlow has dropped by 7%",
+                    "Sentiment in port of Tilbury has dropped by 14%",
+                    "Increase of 18% in Sentiment in Loughton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Essex",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Basildon has dropped by 4%",
+                    "Sentiment in Harlow has dropped by 8%",
+                    "Sentiment in port of Tilbury has dropped by 13%",
+                    "Increase of 18% in Sentiment in Loughton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Essex",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Basildon has dropped by 4%",
+                    "Sentiment in Harlow has dropped by 8%",
+                    "Sentiment in port of Tilbury has dropped by 13%",
+                    "Increase of 16% in Sentiment in Loughton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Essex",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Basildon has dropped by 2%",
+                    "Sentiment in Harlow has dropped by 4%",
+                    "Sentiment in port of Tilbury has dropped by 12%",
+                    "Increase of 18% in Sentiment in Loughton‎"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Essex",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Basildon has dropped by 5%",
+                    "Sentiment in Harlow has dropped by 8%",
+                    "Sentiment in port of Tilbury has dropped by 14%",
+                    "Increase of 19% in Sentiment in Loughton‎"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Essex",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Basildon has dropped by 2%",
+                    "Sentiment in Harlow has dropped by 8%",
+                    "Sentiment in port of Tilbury has dropped by 15%",
+                    "Increase of 17% in Sentiment in Loughton‎"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Essex",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Basildon has dropped by 2%",
+                    "Sentiment in Harlow has dropped by 4%",
+                    "Sentiment in port of Tilbury has dropped by 15%",
+                    "Increase of 17% in Sentiment in Loughton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Essex",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Basildon has dropped by 2%",
+                    "Sentiment in Harlow has dropped by 8%",
+                    "Sentiment in port of Tilbury has dropped by 13%",
+                    "Increase of 17% in Sentiment in Loughton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Essex",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Basildon has dropped by 2%",
+                    "Sentiment in Harlow has dropped by 8%",
+                    "Sentiment in port of Tilbury has dropped by 12%",
+                    "Increase of 17% in Sentiment in Loughton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Essex",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Basildon has dropped by 2%",
+                    "Sentiment in Harlow has dropped by 9%",
+                    "Sentiment in port of Tilbury has dropped by 11%",
+                    "Increase of 17% in Sentiment in Loughton‎"
+                ]
+            }
+        ]
+    },
+    {
+        "country": "United States",
+        "factorData": [
+            {
+                "time": "Last week",
+                "county": "Alabama",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Akron has dropped by 7%",
+                    "Sentiment in Aliceville has dropped by 7%",
+                    "Sentiment in Argo has dropped by 12%",
+                    "Increase of 15% in Sentiment in Benton‎"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Alabama",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Akron has dropped by 3%",
+                    "Sentiment in Aliceville has dropped by 7%",
+                    "Sentiment in Argo has dropped by 12%",
+                    "Increase of 13% in Sentiment in Benton‎"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Alabama",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Akron has dropped by 8%",
+                    "Sentiment in Aliceville has dropped by 6%",
+                    "Sentiment in Argo has dropped by 13%",
+                    "Increase of 12% in Sentiment in Benton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Alabama",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Akron has dropped by 3%",
+                    "Sentiment in Aliceville has dropped by 6%",
+                    "Sentiment in Argo has dropped by 13%",
+                    "Increase of 11% in Sentiment in Benton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Alabama",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Akron has dropped by 3%",
+                    "Sentiment in Aliceville has dropped by 6%",
+                    "Sentiment in Argo has dropped by 14%",
+                    "Increase of 10% in Sentiment in Benton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Alabama",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Akron has dropped by 3%",
+                    "Sentiment in Aliceville has dropped by 6%",
+                    "Sentiment in Argo has dropped by 15%",
+                    "Increase of 13% in Sentiment in Benton‎"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Alabama",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Akron has dropped by 3%",
+                    "Sentiment in Aliceville has dropped by 6%",
+                    "Sentiment in Argo has dropped by 16%",
+                    "Increase of 16% in Sentiment in Benton‎"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Alabama",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Akron has dropped by 3%",
+                    "Sentiment in Aliceville has dropped by 6%",
+                    "Sentiment in Argo has dropped by 17%",
+                    "Increase of 14% in Sentiment in Benton‎"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Alabama",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Akron has dropped by 3%",
+                    "Sentiment in Aliceville has dropped by 6%",
+                    "Sentiment in Argo has dropped by 11%",
+                    "Increase of 12% in Sentiment in Benton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Alabama",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Akron has dropped by 3%",
+                    "Sentiment in Aliceville has dropped by 6%",
+                    "Sentiment in Argo has dropped by 12%",
+                    "Increase of 11% in Sentiment in Benton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Alabama",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Akron has dropped by 3%",
+                    "Sentiment in Aliceville has dropped by 6%",
+                    "Sentiment in Argo has dropped by 12%",
+                    "Increase of 10% in Sentiment in Benton‎"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Alabama",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Akron has dropped by 3%",
+                    "Sentiment in Aliceville has dropped by 6%",
+                    "Sentiment in Argo has dropped by 12%",
+                    "Increase of 9% in Sentiment in Benton‎"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Arizona",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Buckeye has dropped by 7%",
+                    "Sentiment in Eagar has dropped by 6%",
+                    "Sentiment in Glendale has dropped by 11%",
+                    "Increase of 14% in Sentiment in Marana"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Arizona",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Buckeye has dropped by 4%",
+                    "Sentiment in Eagar has dropped by 5%",
+                    "Sentiment in Glendale has dropped by 11%",
+                    "Increase of 13% in Sentiment in Marana"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Arizona",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Buckeye has dropped by 7%",
+                    "Sentiment in Eagar has dropped by 4%",
+                    "Sentiment in Glendale has dropped by 14%",
+                    "Increase of 13% in Sentiment in Marana"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Arizona",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Buckeye has dropped by 6%",
+                    "Sentiment in Eagar has dropped by 8%",
+                    "Sentiment in Glendale has dropped by 10%",
+                    "Increase of 14% in Sentiment in Marana"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Arizona",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Buckeye has dropped by 5%",
+                    "Sentiment in Eagar has dropped by 5%",
+                    "Sentiment in Glendale has dropped by 11%",
+                    "Increase of 13% in Sentiment in Marana"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Arizona",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Buckeye has dropped by 11%",
+                    "Sentiment in Eagar has dropped by 12%",
+                    "Sentiment in Glendale has dropped by 13%",
+                    "Increase of 14% in Sentiment in Marana"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Arizona",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Buckeye has dropped by 5%",
+                    "Sentiment in Eagar has dropped by 7%",
+                    "Sentiment in Glendale has dropped by 10%",
+                    "Increase of 12% in Sentiment in Marana"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Arizona",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Buckeye has dropped by 5%",
+                    "Sentiment in Eagar has dropped by 4%",
+                    "Sentiment in Glendale has dropped by 12%",
+                    "Increase of 10% in Sentiment in Marana"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Arizona",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Buckeye has dropped by 7%",
+                    "Sentiment in Eagar has dropped by 7%",
+                    "Sentiment in Glendale has dropped by 12%",
+                    "Increase of 15% in Sentiment in Marana"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Arizona",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Buckeye has dropped by 7%",
+                    "Sentiment in Eagar has dropped by 7%",
+                    "Sentiment in Glendale has dropped by 12%",
+                    "Increase of 15% in Sentiment in Marana"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Arizona",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Buckeye has dropped by 7%",
+                    "Sentiment in Eagar has dropped by 7%",
+                    "Sentiment in Glendale has dropped by 12%",
+                    "Increase of 15% in Sentiment in Marana"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Arizona",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Buckeye has dropped by 7%",
+                    "Sentiment in Eagar has dropped by 7%",
+                    "Sentiment in Glendale has dropped by 12%",
+                    "Increase of 15% in Sentiment in Marana"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Colorado",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Ault has dropped by 13%",
+                    "Sentiment in Berthoud has dropped by 12%",
+                    "Sentiment in Campo has dropped by 11%",
+                    "Increase of 19% in Sentiment in Cheraw"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Colorado",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Ault has dropped by 13%",
+                    "Sentiment in Berthoud has dropped by 11%",
+                    "Sentiment in Campo has dropped by 11%",
+                    "Increase of 19% in Sentiment in Cheraw"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Colorado",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Ault has dropped by 13%",
+                    "Sentiment in Berthoud has dropped by 10%",
+                    "Sentiment in Campo has dropped by 11%",
+                    "Increase of 19% in Sentiment in Cheraw"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Colorado",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Ault has dropped by 13%",
+                    "Sentiment in Berthoud has dropped by 8%",
+                    "Sentiment in Campo has dropped by 11%",
+                    "Increase of 19% in Sentiment in Cheraw"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Colorado",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Ault has dropped by 13%",
+                    "Sentiment in Berthoud has dropped by 12%",
+                    "Sentiment in Campo has dropped by 11%",
+                    "Increase of 19% in Sentiment in Cheraw"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Colorado",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Ault has dropped by 13%",
+                    "Sentiment in Berthoud has dropped by 13%",
+                    "Sentiment in Campo has dropped by 11%",
+                    "Increase of 19% in Sentiment in Cheraw"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Colorado",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Ault has dropped by 10%",
+                    "Sentiment in Berthoud has dropped by 12%",
+                    "Sentiment in Campo has dropped by 11%",
+                    "Increase of 19% in Sentiment in Cheraw"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Colorado",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Ault has dropped by 14%",
+                    "Sentiment in Berthoud has dropped by 12%",
+                    "Sentiment in Campo has dropped by 11%",
+                    "Increase of 19% in Sentiment in Cheraw"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Colorado",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Ault has dropped by 15%",
+                    "Sentiment in Berthoud has dropped by 12%",
+                    "Sentiment in Campo has dropped by 11%",
+                    "Increase of 19% in Sentiment in Cheraw"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Colorado",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Ault has dropped by 14%",
+                    "Sentiment in Berthoud has dropped by 12%",
+                    "Sentiment in Campo has dropped by 11%",
+                    "Increase of 19% in Sentiment in Cheraw"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Colorado",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Ault has dropped by 12%",
+                    "Sentiment in Berthoud has dropped by 12%",
+                    "Sentiment in Campo has dropped by 11%",
+                    "Increase of 19% in Sentiment in Cheraw"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Colorado",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Ault has dropped by 14%",
+                    "Sentiment in Berthoud has dropped by 12%",
+                    "Sentiment in Campo has dropped by 11%",
+                    "Increase of 19% in Sentiment in Cheraw"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Delaware",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Seaford has dropped by 17%",
+                    "Sentiment in Newark has dropped by 19%",
+                    "Sentiment in Lewes has dropped by 11%",
+                    "Increase of 11% in Sentiment in Dover"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Delaware",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Seaford has dropped by 17%",
+                    "Sentiment in Newark has dropped by 19%",
+                    "Sentiment in Lewes has dropped by 12%",
+                    "Increase of 12% in Sentiment in Dover"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Delaware",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Seaford has dropped by 17%",
+                    "Sentiment in Newark has dropped by 19%",
+                    "Sentiment in Lewes has dropped by 13%",
+                    "Increase of 13% in Sentiment in Dover"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Delaware",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Seaford has dropped by 17%",
+                    "Sentiment in Newark has dropped by 19%",
+                    "Sentiment in Lewes has dropped by 15%",
+                    "Increase of 15% in Sentiment in Dover"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Delaware",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Seaford has dropped by 18%",
+                    "Sentiment in Newark has dropped by 19%",
+                    "Sentiment in Lewes has dropped by 10%",
+                    "Increase of 17% in Sentiment in Dover"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Delaware",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Seaford has dropped by 19%",
+                    "Sentiment in Newark has dropped by 19%",
+                    "Sentiment in Lewes has dropped by 10%",
+                    "Increase of 19% in Sentiment in Dover"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Delaware",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Seaford has dropped by 11%",
+                    "Sentiment in Newark has dropped by 19%",
+                    "Sentiment in Lewes has dropped by 10%",
+                    "Increase of 21% in Sentiment in Dover"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Delaware",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Seaford has dropped by 12%",
+                    "Sentiment in Newark has dropped by 19%",
+                    "Sentiment in Lewes has dropped by 10%",
+                    "Increase of 23% in Sentiment in Dover"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Delaware",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Seaford has dropped by 10%",
+                    "Sentiment in Newark has dropped by 19%",
+                    "Sentiment in Lewes has dropped by 10%",
+                    "Increase of 20% in Sentiment in Dover"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Delaware",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Seaford has dropped by 13%",
+                    "Sentiment in Newark has dropped by 19%",
+                    "Sentiment in Lewes has dropped by 10%",
+                    "Increase of 14% in Sentiment in Dover"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Delaware",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Seaford has dropped by 15%",
+                    "Sentiment in Newark has dropped by 19%",
+                    "Sentiment in Lewes has dropped by 10%",
+                    "Increase of 17% in Sentiment in Dover"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Delaware",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Seaford has dropped by 17%",
+                    "Sentiment in Newark has dropped by 19%",
+                    "Sentiment in Lewes has dropped by 10%",
+                    "Increase of 20% in Sentiment in Dover"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Florida",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Hialeah has dropped by 12%",
+                    "Sentiment in Palatka has dropped by 13%",
+                    "Sentiment in Bradenton has dropped by 14%",
+                    "Increase of 12% in Sentiment in largo"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Florida",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Hialeah has dropped by 12%",
+                    "Sentiment in Palatka has dropped by 13%",
+                    "Sentiment in Bradenton has dropped by 14%",
+                    "Increase of 13% in Sentiment in largo"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Florida",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Hialeah has dropped by 12%",
+                    "Sentiment in Palatka has dropped by 13%",
+                    "Sentiment in Bradenton has dropped by 14%",
+                    "Increase of 17% in Sentiment in largo"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Florida",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Hialeah has dropped by 12%",
+                    "Sentiment in Palatka has dropped by 13%",
+                    "Sentiment in Bradenton has dropped by 14%",
+                    "Increase of 14% in Sentiment in largo"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Florida",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Hialeah has dropped by 12%",
+                    "Sentiment in Palatka has dropped by 13%",
+                    "Sentiment in Bradenton has dropped by 14%",
+                    "Increase of 12% in Sentiment in largo"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Florida",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Hialeah has dropped by 12%",
+                    "Sentiment in Palatka has dropped by 13%",
+                    "Sentiment in Bradenton has dropped by 14%",
+                    "Increase of 10% in Sentiment in largo"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Florida",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Hialeah has dropped by 12%",
+                    "Sentiment in Palatka has dropped by 13%",
+                    "Sentiment in Bradenton has dropped by 14%",
+                    "Increase of 13% in Sentiment in largo"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Florida",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Hialeah has dropped by 12%",
+                    "Sentiment in Palatka has dropped by 13%",
+                    "Sentiment in Bradenton has dropped by 14%",
+                    "Increase of 15% in Sentiment in largo"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Florida",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Hialeah has dropped by 12%",
+                    "Sentiment in Palatka has dropped by 13%",
+                    "Sentiment in Bradenton has dropped by 14%",
+                    "Increase of 12% in Sentiment in largo"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Florida",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Hialeah has dropped by 12%",
+                    "Sentiment in Palatka has dropped by 13%",
+                    "Sentiment in Bradenton has dropped by 14%",
+                    "Increase of 13% in Sentiment in largo"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Florida",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Hialeah has dropped by 12%",
+                    "Sentiment in Palatka has dropped by 13%",
+                    "Sentiment in Bradenton has dropped by 14%",
+                    "Increase of 14% in Sentiment in largo"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Florida",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Hialeah has dropped by 12%",
+                    "Sentiment in Palatka has dropped by 13%",
+                    "Sentiment in Bradenton has dropped by 14%",
+                    "Increase of 16% in Sentiment in largo"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Georgia",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Kennesaw has dropped by 10%",
+                    "Sentiment in Macon has dropped by 11%",
+                    "Sentiment in Waleska has dropped by 18%",
+                    "Increase of 22% in Sentiment in Tucker"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Georgia",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Kennesaw has dropped by 10%",
+                    "Sentiment in Macon has dropped by 11%",
+                    "Sentiment in Waleska has dropped by 18%",
+                    "Increase of 22% in Sentiment in Tucker"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Georgia",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Kennesaw has dropped by 10%",
+                    "Sentiment in Macon has dropped by 11%",
+                    "Sentiment in Waleska has dropped by 18%",
+                    "Increase of 22% in Sentiment in Tucker"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Georgia",
+                "age": "<18",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Kennesaw has dropped by 10%",
+                    "Sentiment in Macon has dropped by 11%",
+                    "Sentiment in Waleska has dropped by 18%",
+                    "Increase of 22% in Sentiment in Tucker"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Georgia",
+                "age": "18-40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Kennesaw has dropped by 10%",
+                    "Sentiment in Macon has dropped by 11%",
+                    "Sentiment in Waleska has dropped by 18%",
+                    "Increase of 22% in Sentiment in Tucker"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Georgia",
+                "age": ">40",
+                "sex": "Female",
+                "data": [
+                    "Sentiment in Kennesaw has dropped by 10%",
+                    "Sentiment in Macon has dropped by 11%",
+                    "Sentiment in Waleska has dropped by 18%",
+                    "Increase of 22% in Sentiment in Tucker"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Georgia",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Kennesaw has dropped by 10%",
+                    "Sentiment in Macon has dropped by 11%",
+                    "Sentiment in Waleska has dropped by 18%",
+                    "Increase of 22% in Sentiment in Tucker"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Georgia",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Kennesaw has dropped by 10%",
+                    "Sentiment in Macon has dropped by 11%",
+                    "Sentiment in Waleska has dropped by 18%",
+                    "Increase of 22% in Sentiment in Tucker"
+                ]
+            },
+            {
+                "time": "Last week",
+                "county": "Georgia",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Kennesaw has dropped by 10%",
+                    "Sentiment in Macon has dropped by 11%",
+                    "Sentiment in Waleska has dropped by 18%",
+                    "Increase of 22% in Sentiment in Tucker"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Georgia",
+                "age": "<18",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Kennesaw has dropped by 10%",
+                    "Sentiment in Macon has dropped by 11%",
+                    "Sentiment in Waleska has dropped by 18%",
+                    "Increase of 22% in Sentiment in Tucker"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Georgia",
+                "age": "18-40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Kennesaw has dropped by 10%",
+                    "Sentiment in Macon has dropped by 11%",
+                    "Sentiment in Waleska has dropped by 18%",
+                    "Increase of 22% in Sentiment in Tucker"
+                ]
+            },
+            {
+                "time": "Last month",
+                "county": "Georgia",
+                "age": ">40",
+                "sex": "Male",
+                "data": [
+                    "Sentiment in Hialeah has dropped by 12%",
+                    "Sentiment in Palatka has dropped by 13%",
+                    "Sentiment in Bradenton has dropped by 14%",
+                    "Increase of 16% in Sentiment in largo"
+                ]
+            }
+        ]
+    }
+]

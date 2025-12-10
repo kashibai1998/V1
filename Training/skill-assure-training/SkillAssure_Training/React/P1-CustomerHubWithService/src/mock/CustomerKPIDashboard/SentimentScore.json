@@ -1,0 +1,40 @@
+[
+    {
+        "country": "United Kingdom",
+        "sentimentData":[
+            {
+                "time": "Last week",
+                "county":"",
+                "age": "<18",
+                "sex":"Male",
+                "data": {
+                    "loggedIn" : [26, 36, 42, 38, 40, 30, 12],
+                    "available" : [34, 44, 33, 24, 25, 28, 25],
+                    "availableForExisting" : [16, 13, 25, 33, 40, 33, 45],
+                    "unavailable" : [5, 9, 40, 9, 18, 100, 20],
+                    "xData" : ["June", "July", "Aug", "Sep", "Oct", "Nov"]
+                }
+            }
+        ]
+       
+    },
+    {
+        "country": "United States",
+        "sentimentData":[
+            {
+                "time": "Last week",
+                "county":"",
+                "age": "<18",
+                "sex":"Male",
+                "data": {
+                    "loggedIn" : [26, 36, 42, 38, 40, 30, 12],
+                    "available" : [74, 44, 33, 24, 25, 28, 25],
+                    "availableForExisting" : [16, 13, 25, 33, 40, 33, 45],
+                    "unavailable" : [55, 9, 40, 9, 18, 100, 20],
+                    "xData" : ["Aug", "July", "Aug", "Sep", "Oct", "Nov"]
+                }
+            }
+        ]
+       
+    }
+]

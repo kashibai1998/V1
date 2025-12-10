@@ -1,0 +1,681 @@
+
+[   
+    {
+        "id":   100001,
+        "userData":[
+            {
+             "category":"Billing",
+             "sentiment": "Negative",
+             "day": 6,
+             "data":[
+                 {
+                 
+                 "flowChartData":
+                  {
+                     "nodeDataArray": [
+                         { "key": 0,"head": "", "foot": "Bill generation", "img": "bill.png","color": "white"},
+                         { "key": 1,"head": "Bill Sent ", "foot": "", "img": "sms.png","color": "white" },
+                         { "key": 2,"head": "", "foot": "Email Sent", "img": "email.png","color": "white" },
+                         { "key": 3,"head": "", "foot": "Bill discrepancy", "img": "call-center-agent.png","color": "red"},
+                         { "key": 4,"head": " ", "foot": "Action", "img": "action.png","color": "white" },
+                         { "key": 5,"head": " ", "foot": "Payment completed", "img": "financial.png","color": "white" },
+                         { "key": 6,"head": "", "foot": "feedback", "img": "sms.png","color": "white"},
+                         { "key": 7,"head": " ", "foot": "Send updated bill", "img": "email.png","color": "white"},
+                         { "key": 8,"head": " ", "foot": "Sent offer", "img": "email.png","color": "white"},
+                         { "key": 9,"head": " ", "foot": "Confirmation sent", "img": "sms.png","color": "white"},
+                         { "key": 10,"head": " ", "foot": "Agent feedback ", "img": "www.png","color": "green"}
+                     ],
+                     "linkDataArray": [
+                         { "from": 0, "to": 1 },
+                         { "from": 0, "to": 2 },
+                         { "from": 2, "to": 3 },
+                         { "from": 3, "to": 4 },
+                         {"from": 3, "to": 7},
+                         {"from": 3, "to": 6},
+                         {"from": 4, "to": 8},
+                         {"from": 7, "to": 5},
+                         {"from":5,"to":9},
+                         {"from":6,"to":10}
+                     ]
+                  }
+             }
+             ]
+            },
+            {
+                "category":"Billing",
+                "sentiment": "Positive",
+                "day": 5,
+                "data":[
+                    {
+                  
+                    "flowChartData":
+                     {
+                        "nodeDataArray": [
+                            { "key": 100051,"head": "", "foot": "User just finished an ISD call", "img": "hang.png","color": "white"},
+                            { "key": 100052,"head": "Bill Sent ", "foot": "User gets ISD pack offer", "img": "ribbon.png","color": "white" },
+                            { "key": 100053,"head": "", "foot": "User subscribed", "img": "subscribe.png","color": "white" },
+                            { "key": 100054,"head": "", "foot": "In next bill", "img": "dance.png","color": "green"}
+                        ],
+                        "linkDataArray": [
+                            { "from": 100051, "to": 100052 },
+                            { "from": 100051, "to": 100053 },
+                            { "from": 100053, "to": 100054 }
+                        ]
+                     }
+                }
+                ]
+              },
+            {
+                "category":"Billing",
+                "sentiment": "Neutral",
+                "day": 29,
+                "data":[   
+                {
+                    
+                    "flowChartData":
+                     {
+                        "nodeDataArray": [
+                            { "key": 900,"head": "", "foot": "Bill generation", "img": "bill.png","color": "white"},
+                            { "key": 901,"head": "Bill Sent ", "foot": "", "img": "sms.png","color": "white" },
+                            { "key": 902,"head": "", "foot": "Email Sent", "img": "email.png","color": "white" },
+                            { "key": 903,"head": " ", "foot": "Payment completed", "img": "financial.png","color": "white" },
+                            { "key": 904,"head": " ", "foot": "Confirmation sent", "img": "sms.png","color": "white"}
+                        ],
+                        "linkDataArray": [
+                            { "from": 900, "to": 901 },
+                            { "from": 900, "to": 902 },
+                            { "from": 902, "to": 903 },
+                            {"from": 903, "to": 907},
+                            {"from": 903, "to": 904}
+                        ]
+                     }
+                }
+                ]
+            },
+            {
+             "category":"Service",
+             "sentiment": "Negative",
+             "day": 17,
+             "data":[
+                 {
+                 
+                 "flowChartData":
+                  {
+                     "nodeDataArray": [
+                         { "key": 171,"head": "", "foot": "Marketing communication", "img": "email.png","color": "white"},
+                         { "key": 172,"head": "", "foot": "Call Drop", "img": "emergency-call.png","color": "white"},
+                         { "key": 173,"head": "", "foot": "Call Drop", "img": "emergency-call.png","color": "white"},
+                         { "key": 174,"head": "", "foot": "Service Outage", "img": "slug.png","color": "red"},
+                         { "key": 175,"head": "", "foot": "Raise incident ticket", "img": "ticket.png","color": "white"},
+                         { "key": 176,"head": "", "foot": "Enineer assigned", "img": "engineer.png","color": "white"},
+                         { "key": 177,"head": "", "foot": "Update outage information", "img": "email.png","color": "white"},
+                         { "key": 178,"head": "", "foot": "Update restoration​ Of service", "img": "email.png","color": "white"},
+                         { "key": 179,"head": "", "foot": "Update restoration​ Of service", "img": "sms.png","color": "white"}
+                     ],
+                     "linkDataArray": [
+                         { "from": 174, "to": 175 },
+                         { "from": 174, "to": 177 },
+                         { "from": 175, "to": 176 },
+                         { "from": 177, "to": 178 },
+                         { "from": 177, "to": 179 }
+                         
+                     ]
+                  }
+                }
+             ]
+             },
+            {
+                "category":"Sales",
+                "sentiment": "Neutral",
+                "day": 3,
+                "data":[
+                    {
+                 
+                 "flowChartData":
+                  {
+                     "nodeDataArray": [
+                         { "key": 31, "head": "", "foot": "Marketing communication", "img": "sms.png","color": "white"},
+                         { "key": 32,"head": "", "foot": "Data pack exhausted", "img": "sms.png","color": "white" },
+                         { "key": 33,"head": "", "foot": "Send Notification", "img": "sms.png","color": "white" },
+                         { "key": 34,"head": "", "foot": "Generate add on recommendation", "img": "action.png","color": "white" },
+                         { "key": 35, "head": "", "foot": "Send plan recommendation", "img": "sms.png","color": "white" },
+                         { "key": 36, "head": "", "foot": "Add on pack subscribe", "img": "smartphone.png","color": "white"}
+                     ],
+                     "linkDataArray": [
+                         { "from": 32, "to": 33 },
+                         { "from": 32, "to": 34 },
+                         { "from": 34, "to": 35 },
+                         { "from": 35, "to": 36 }
+                     ]
+                  }
+                }
+               ]
+            }
+        ]
+    },
+    {
+     "id": "100002",
+     "userData":[
+      {
+          "category":"Billing",
+          "sentiment": "Negative",
+          "day": 4,
+          "data":[
+              {
+              
+              "flowChartData":
+               {
+                  "nodeDataArray": [
+                      { "key": 0,"head": "", "foot": "Bill generation", "img": "bill.png","color": "white"},
+                      { "key": 1,"head": "Bill Sent ", "foot": "", "img": "sms.png","color": "white" },
+                      { "key": 2,"head": "", "foot": "Email Sent", "img": "email.png","color": "white" },
+                      { "key": 3,"head": "", "foot": "Bill discrepancy", "img": "call-center-agent.png","color": "red"},
+                      { "key": 4,"head": " ", "foot": "Action", "img": "action.png","color": "white" },
+                      { "key": 5,"head": " ", "foot": "Payment completed", "img": "financial.png","color": "white" },
+                      { "key": 6,"head": "", "foot": "feedback", "img": "sms.png","color": "white"},
+                      { "key": 7,"head": " ", "foot": "Send updated bill", "img": "email.png","color": "white"},
+                      { "key": 8,"head": " ", "foot": "Sent offer", "img": "email.png","color": "white"},
+                      { "key": 9,"head": " ", "foot": "Confirmation sent", "img": "sms.png","color": "white"},
+                      { "key": 10,"head": " ", "foot": "Agent feedback ", "img": "sms.png","color": "green"}
+                  ],
+                  "linkDataArray": [
+                      { "from": 0, "to": 1 },
+                      { "from": 0, "to": 2 },
+                      { "from": 2, "to": 3 },
+                      { "from": 3, "to": 4 },
+                      {"from": 3, "to": 7},
+                      {"from": 3, "to": 6},
+                      {"from": 4, "to": 8},
+                      {"from": 7, "to": 5},
+                      {"from":5,"to":9},
+                      {"from":6,"to":10}
+                  ]
+               }
+          }
+          ]
+         },
+         {
+            "category":"Billing",
+            "sentiment": "Neutral",
+            "day": 8,
+            "data":[
+            {
+                
+                "flowChartData":
+                 {
+                    "nodeDataArray": [
+                        { "key": 900,"head": "", "foot": "Bill generation", "img": "bill.png","color": "white"},
+                        { "key": 901,"head": "Bill Sent ", "foot": "", "img": "sms.png","color": "white" },
+                        { "key": 902,"head": "", "foot": "Email Sent", "img": "email.png","color": "white" },
+                        { "key": 903,"head": " ", "foot": "Payment completed", "img": "financial.png","color": "white" },
+                        { "key": 904,"head": " ", "foot": "Confirmation sent", "img": "sms.png","color": "white"}
+                    ],
+                    "linkDataArray": [
+                        { "from": 900, "to": 901 },
+                        { "from": 900, "to": 902 },
+                        { "from": 902, "to": 903 },
+                        {"from": 903, "to": 907},
+                        {"from": 903, "to": 904}
+                    ]
+                 }
+            }
+            ]
+           },
+         {
+          "category":"Service",
+          "sentiment": "Negative",
+          "day": 11,
+          "data":[
+              {
+              
+              "flowChartData":
+               {
+                  "nodeDataArray": [
+                      { "key": 171,"head": "", "foot": "Marketing communication", "img": "email.png","color": "white"},
+                      { "key": 172,"head": "", "foot": "Call Drop", "img": "emergency-call.png","color": "white"},
+                      { "key": 173,"head": "", "foot": "Call Drop", "img": "emergency-call.png","color": "white"},
+                      { "key": 174,"head": "", "foot": "Service Outage", "img": "slug.png","color": "red"},
+                      { "key": 175,"head": "", "foot": "Raise incident ticket", "img": "ticket.png","color": "white"},
+                      { "key": 176,"head": "", "foot": "Enineer assigned", "img": "engineer.png","color": "white"},
+                      { "key": 177,"head": "", "foot": "Update outage information", "img": "email.png","color": "white"},
+                      { "key": 178,"head": "", "foot": "Update restoration​ Of service", "img": "email.png","color": "white"},
+                      { "key": 179,"head": "", "foot": "Update restoration​ Of service", "img": "sms.png","color": "white"}
+                  ],
+                  "linkDataArray": [
+                      { "from": 174, "to": 175 },
+                      { "from": 174, "to": 177 },
+                      { "from": 175, "to": 176 },
+                      { "from": 177, "to": 178 },
+                      { "from": 177, "to": 179 }
+                  ]
+               }
+             }
+          ]
+          },
+          
+            {
+             "category":"Sales",
+             "sentiment": "Neutral",
+             "day": 6,
+             "data":[
+             {
+              
+              "flowChartData":
+               {
+                  "nodeDataArray": [
+                      { "key": 31, "head": "", "foot": "Marketing communication", "img": "sms.png","color": "white"},
+                      { "key": 32,"head": "", "foot": "Data pack exhausted", "img": "www.png","color": "white" },
+                      { "key": 33,"head": "", "foot": "Send Notification", "img": "sms.png","color": "white" },
+                      { "key": 34,"head": "", "foot": "Generate add on recommendation", "img": "action.png","color": "white" },
+                      { "key": 35, "head": "", "foot": "Send plan recommendation", "img": "sms.png","color": "white" },
+                      { "key": 36, "head": "", "foot": "Add on pack subscribe", "img": "smartphone.png","color": "white"}
+                  ],
+                  "linkDataArray": [
+                      { "from": 32, "to": 33 },
+                      { "from": 32, "to": 34 },
+                      { "from": 34, "to": 35 },
+                      { "from": 35, "to": 36 }
+                  ]
+               }
+             }
+            ]
+          },
+          {
+            "category":"Sales",
+            "sentiment": "Neutral",
+            "day": 9,
+            "data":[   
+            {
+             
+             "flowChartData":
+              {
+                 "nodeDataArray": [
+                     { "key": 192,"head": "", "foot": "Prepaid Plan ended", "img": "sms.png","color": "white" },
+                     { "key": 193,"head": "", "foot": "Send Notification", "img": "sms.png","color": "white" },
+                     { "key": 194,"head": "", "foot": "Generate add on recommendation", "img": "action.png","color": "white" },
+                     { "key": 195, "head": "", "foot": "Send paln recommendation", "img": "sms.png","color": "white" },
+                     { "key": 196, "head": "", "foot": "Add on pack subscribe", "img": "smartphone.png","color": "white"}
+                 ],
+                 "linkDataArray": [
+                     { "from": 192, "to": 193 },
+                     { "from": 192, "to": 194 },
+                     { "from": 194, "to": 195 },
+                     { "from": 195, "to": 196 }
+                 ]
+              }
+            }
+           ]
+         }
+     ]
+    },
+    {
+     "id": 100003,
+     "userData":[
+      {
+          "category":"Billing",
+          "sentiment": "Negative",
+          "day": 4,
+          "data":[
+              {
+              
+              
+              "flowChartData":
+               {
+                  "nodeDataArray": [
+                      { "key": 0,"head": "", "foot": "Bill generation", "img": "bill.png","color": "white"},
+                      { "key": 1,"head": "Bill Sent ", "foot": "", "img": "sms.png","color": "white" },
+                      { "key": 2,"head": "", "foot": "Email Sent", "img": "email.png","color": "white" },
+                      { "key": 3,"head": "", "foot": "Bill discrepancy", "img": "call-center-agent.png","color": "red"},
+                      { "key": 4,"head": " ", "foot": "Action", "img": "action.png","color": "white" },
+                      { "key": 5,"head": " ", "foot": "Payment completed", "img": "financial.png","color": "white" },
+                      { "key": 6,"head": "", "foot": "feedback", "img": "sms.png","color": "white"},
+                      { "key": 7,"head": " ", "foot": "Send updated bill", "img": "email.png","color": "white"},
+                      { "key": 8,"head": " ", "foot": "Sent offer", "img": "email.png","color": "white"},
+                      { "key": 9,"head": " ", "foot": "Confirmation sent", "img": "sms.png","color": "white"},
+                      { "key": 10,"head": " ", "foot": "Agent feedback ", "img": "sms.png","color": "green"}
+                  ],
+                  "linkDataArray": [
+                      { "from": 0, "to": 1 },
+                      { "from": 0, "to": 2 },
+                      { "from": 2, "to": 3 },
+                      { "from": 3, "to": 4 },
+                      {"from": 3, "to": 7},
+                      {"from": 3, "to": 6},
+                      {"from": 4, "to": 8},
+                      {"from": 7, "to": 5},
+                      {"from":5,"to":9},
+                      {"from":6,"to":10}
+                  ]
+               }
+          }
+          ]
+         },
+         {
+            "category":"Billing",
+            "sentiment": "Neutral",
+            "day": 8,
+            "data":[
+            {
+                
+                
+                "flowChartData":
+                 {
+                    "nodeDataArray": [
+                        { "key": 900,"head": "", "foot": "Bill generation", "img": "bill.png","color": "white"},
+                        { "key": 901,"head": "Bill Sent ", "foot": "", "img": "sms.png","color": "white" },
+                        { "key": 902,"head": "", "foot": "Email Sent", "img": "email.png","color": "white" },
+                        { "key": 903,"head": " ", "foot": "Payment completed", "img": "financial.png","color": "white" },
+                        { "key": 904,"head": " ", "foot": "Confirmation sent", "img": "sms.png","color": "white"}
+                    ],
+                    "linkDataArray": [
+                        { "from": 900, "to": 901 },
+                        { "from": 900, "to": 902 },
+                        { "from": 902, "to": 903 },
+                        {"from": 903, "to": 907},
+                        {"from": 903, "to": 904}
+                    ]
+                 }
+            }
+            ]
+           },
+         
+         
+          {
+            "category":"Sales",
+            "sentiment": "Neutral",
+            "day": 9,
+            "data":[
+                {
+             "flowChartData":
+              {
+                 "nodeDataArray": [
+                     { "key": 31, "head": "", "foot": "Marketing communication", "img": "sms.png","color": "white"},
+                     { "key": 32,"head": "", "foot": "Data pack exhausted", "img": "www.png","color": "white" },
+                     { "key": 33,"head": "", "foot": "Send Notification", "img": "sms.png","color": "white" },
+                     { "key": 34,"head": "", "foot": "Generate add on recommendation", "img": "action.png","color": "white" },
+                     { "key": 35, "head": "", "foot": "Send plan recommendation", "img": "sms.png","color": "white" },
+                     { "key": 36, "head": "", "foot": "Add on pack subscribe", "img": "smartphone.png","color": "white"}
+                 ],
+                 "linkDataArray": [
+                     { "from": 32, "to": 33 },
+                     { "from": 32, "to": 34 },
+                     { "from": 34, "to": 35 },
+                     { "from": 35, "to": 36 }
+                 ]
+              }
+            }
+           ]
+         }
+     ]
+    },
+    {
+     "id": 100004,
+     "userData":[
+      {
+          "category":"Billing",
+          "sentiment": "Negative",
+          "day": 4,
+          "data":[
+              {
+              
+              "flowChartData":
+               {
+                  "nodeDataArray": [
+                      { "key": 0,"head": "", "foot": "Bill generation", "img": "bill.png","color": "white"},
+                      { "key": 1,"head": "Bill Sent ", "foot": "", "img": "sms.png","color": "white" },
+                      { "key": 2,"head": "", "foot": "Email Sent", "img": "email.png","color": "white" },
+                      { "key": 3,"head": "", "foot": "Bill discrepancy", "img": "call-center-agent.png","color": "red"},
+                      { "key": 4,"head": " ", "foot": "Action", "img": "action.png","color": "white" },
+                      { "key": 5,"head": " ", "foot": "Payment completed", "img": "financial.png","color": "white" },
+                      { "key": 6,"head": "", "foot": "feedback", "img": "sms.png","color": "white"},
+                      { "key": 7,"head": " ", "foot": "Send updated bill", "img": "email.png","color": "white"},
+                      { "key": 8,"head": " ", "foot": "Sent offer", "img": "email.png","color": "white"},
+                      { "key": 9,"head": " ", "foot": "Confirmation sent", "img": "sms.png","color": "white"},
+                      { "key": 10,"head": " ", "foot": "Agent feedback ", "img": "sms.png","color": "green"}
+                  ],
+                  "linkDataArray": [
+                      { "from": 0, "to": 1 },
+                      { "from": 0, "to": 2 },
+                      { "from": 2, "to": 3 },
+                      { "from": 3, "to": 4 },
+                      {"from": 3, "to": 7},
+                      {"from": 3, "to": 6},
+                      {"from": 4, "to": 8},
+                      {"from": 7, "to": 5},
+                      {"from":5,"to":9},
+                      {"from":6,"to":10}
+                  ]
+               }
+          }
+          ]
+         },
+         {
+            "category":"Billing",
+            "sentiment": "Neutral",
+            "day": 5,
+            "data":[
+            {
+               
+                
+                "flowChartData":
+                 {
+                    "nodeDataArray": [
+                        { "key": 900,"head": "", "foot": "Bill generation", "img": "bill.png","color": "white"},
+                        { "key": 901,"head": "Bill Sent ", "foot": "", "img": "sms.png","color": "white" },
+                        { "key": 902,"head": "", "foot": "Email Sent", "img": "email.png","color": "white" },
+                        { "key": 903,"head": " ", "foot": "Payment completed", "img": "financial.png","color": "white" },
+                        { "key": 904,"head": " ", "foot": "Confirmation sent", "img": "sms.png","color": "white"}
+                    ],
+                    "linkDataArray": [
+                        { "from": 900, "to": 901 },
+                        { "from": 900, "to": 902 },
+                        { "from": 902, "to": 903 },
+                        {"from": 903, "to": 907},
+                        {"from": 903, "to": 904}
+                    ]
+                 }
+            }
+            ]
+           },
+        
+          
+         {
+             "category":"Sales",
+             "sentiment": "Neutral",
+             "day": 6,
+             "data":[
+                 {
+              
+              "flowChartData":
+               {
+                  "nodeDataArray": [
+                      { "key": 31, "head": "", "foot": "Marketing communication", "img": "sms.png","color": "white"},
+                      { "key": 32,"head": "", "foot": "Data pack exhausted", "img": "www.png","color": "white" },
+                      { "key": 33,"head": "", "foot": "Send Notification", "img": "sms.png","color": "white" },
+                      { "key": 34,"head": "", "foot": "Generate add on recommendation", "img": "action.png","color": "white" },
+                      { "key": 35, "head": "", "foot": "Send plan recommendation", "img": "sms.png","color": "white" },
+                      { "key": 36, "head": "", "foot": "Add on pack subscribe", "img": "smartphone.png","color": "white"}
+                  ],
+                  "linkDataArray": [
+                      { "from": 32, "to": 33 },
+                      { "from": 32, "to": 34 },
+                      { "from": 34, "to": 35 },
+                      { "from": 35, "to": 36 }
+                  ]
+               }
+             }
+            ]
+          },
+          {
+            "category":"Sales",
+            "sentiment": "Neutral",
+            "day": 10,
+            "data":[
+            {
+           
+            
+             "flowChartData":
+              {
+                 "nodeDataArray": [
+                     { "key": 192,"head": "", "foot": "Prepaid Plan ended", "img": "telephone-call.png","color": "white" },
+                     { "key": 193,"head": "", "foot": "Send Notification", "img": "sms.png","color": "white" },
+                     { "key": 194,"head": "", "foot": "Generate add on recommendation", "img": "action.png","color": "white" },
+                     { "key": 195, "head": "", "foot": "Send paln recommendation", "img": "sms.png","color": "white" },
+                     { "key": 196, "head": "", "foot": "Add on pack subscribe", "img": "smartphone.png","color": "white"}
+                 ],
+                 "linkDataArray": [
+                     { "from": 192, "to": 193 },
+                     { "from": 192, "to": 194 },
+                     { "from": 194, "to": 195 },
+                     { "from": 195, "to": 196 }
+                 ]
+              }
+            }
+           ]
+         }
+     ]
+    },
+    {
+     "id": 100005,
+     "userData":[
+        {
+          "category":"Billing",
+          "sentiment": "Positive",
+          "day": 5,
+          "data":[
+              {
+            
+              "flowChartData":
+               {
+                  "nodeDataArray": [
+                      { "key": 100051,"head": "", "foot": "User just finished an ISD call", "img": "hang.png","color": "white"},
+                      { "key": 100052,"head": "Bill Sent ", "foot": "User gets ISD pack offer", "img": "ribbon.png","color": "white" },
+                      { "key": 100053,"head": "", "foot": "User subscribed", "img": "subscribe.png","color": "white" },
+                      { "key": 100054,"head": "", "foot": "In next bill", "img": "dance.png","color": "green"}
+                  ],
+                  "linkDataArray": [
+                      { "from": 100051, "to": 100052 },
+                      { "from": 100051, "to": 100053 },
+                      { "from": 100053, "to": 100054 }
+                  ]
+               }
+          }
+          ]
+        },
+        {
+            "category":"Billing",
+            "sentiment": "Neutral",
+            "day": 7,
+            "data":[
+            {
+               
+                "flowChartData":
+                 {
+                    "nodeDataArray": [
+                        { "key": 900,"head": "", "foot": "Bill generation", "img": "bill.png","color": "white"},
+                        { "key": 901,"head": "Bill Sent ", "foot": "", "img": "sms.png","color": "white" },
+                        { "key": 902,"head": "", "foot": "Email Sent", "img": "email.png","color": "white" },
+                        { "key": 903,"head": " ", "foot": "Payment completed", "img": "financial.png","color": "white" },
+                        { "key": 904,"head": " ", "foot": "Confirmation sent", "img": "sms.png","color": "white"}
+                    ],
+                    "linkDataArray": [
+                        { "from": 900, "to": 901 },
+                        { "from": 900, "to": 902 },
+                        { "from": 902, "to": 903 },
+                        {"from": 903, "to": 907},
+                        {"from": 903, "to": 904}
+                    ]
+                 }
+            }
+            ]
+        },
+        {
+          "category":"Service",
+          "sentiment": "Positive",
+          "day": 6,
+          "data":[
+              {
+         
+              "flowChartData":
+               {
+                  "nodeDataArray": [
+                      { "key": 10071,"head": "Service degradation", "foot": "observed by user", "img": "service.png","color": "white"},
+                      { "key": 10072,"head": "", "foot": "User uses self-help KB on App", "img": "programmer.png","color": "white"},
+                      { "key": 10073,"head": "", "foot": "KB provides FAQ", "img": "guide.png","color": "white"},
+                      { "key": 10074,"head": "", "foot": "User is able to", "img": "rectification.png","color": "red"},
+                      { "key": 10075,"head": "", "foot": "User feels empowered", "img": "dance.png","color": "white"}
+                  ],
+                  "linkDataArray": [
+                      { "from": 10071, "to": 10072 },
+                      { "from": 10071, "to": 10073 },
+                      { "from": 10073, "to": 10074 },
+                      { "from": 10074, "to": 10075 }
+                      
+                  ]
+               }
+             }
+          ]
+        },
+        
+          
+        {
+             "category":"Sales",
+             "sentiment": "Positive",
+             "day": 16,
+             "data":[
+                 {
+              
+              
+              "flowChartData":
+               {
+                  "nodeDataArray": [
+                      { "key": 10061, "head": "", "foot": "Broadband speed degradation", "img": "wifi-router.png","color": "white"},
+                      { "key": 10062,"head": "", "foot": "self-help KB", "img": "business-idea.png","color": "white" },
+                      { "key": 10063,"head": "", "foot": "FAQ for user", "img": "pessimistic.png","color": "white" },
+                      { "key": 10064,"head": "", "foot": "raise ticket", "img": "action.png","color": "white" },
+                      { "key": 10065, "head": "", "foot": "Gets SMS", "img": "calendar.png","color": "white" },
+                      { "key": 10066, "head": "", "foot": "Engineer", "img": "engineer.png","color": "white"},
+                      { "key": 10067, "head": "", "foot": "Engineer solves the speed issue", "img": "handshake.png","color": "green"}
+                  ],
+                  "linkDataArray": [
+                      { "from": 10061, "to": 10062 },
+                      { "from": 10061, "to": 10063 },
+                      { "from": 10063, "to": 10064 },
+                      { "from": 10064, "to": 10065 },
+                      { "from": 10064, "to": 10066 },
+                      { "from": 10066, "to": 10067 }
+                  ]
+               }
+             }
+            ]
+        },
+        {
+            "category":"Sales",
+            "sentiment": "Neutral",
+            "day": 9,
+            "data":[
+            {
+            
+             "flowChartData":
+              {
+                 "nodeDataArray": [
+                     { "key": 192,"head": "", "foot": "Prepaid Plan ended", "img": "telephone-call.png","color": "white" },
+                     { "key": 193,"head": "", "foot": "Send Notification", "img": "sms.png","color": "white" },
+                     { "key": 194,"head": "", "foot": "Generate add on recommendation", "img": "action.png","color": "white" },
+                     { "key": 195, "head": "", "foot": "Send paln recommendation", "img": "sms.png","color": "white" },
+                     { "key": 196, "head": "", "foot": "Add on pack subscribe", "img": "smartphone.png","color": "white"}
+                 ],
+                 "linkDataArray": [
+                     { "from": 192, "to": 193 },
+                     { "from": 192, "to": 194 },
+                     { "from": 194, "to": 195 },
+                     { "from": 195, "to": 196 }
+                 ]
+              }
+            }
+           ]
+        }
+     ]
+    }
+        
+ ]

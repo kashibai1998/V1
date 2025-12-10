@@ -1,0 +1,31 @@
+.customer-dynamic {
+    .customer-heading {
+        padding-top: 20px;
+    }
+    .left-img {
+        max-width: 100% !important;
+    }
+    .info-customer {
+        .card-img {
+            // background-image: url("../../../assets/dashboard/ipl.png");
+            background-size: cover;
+            opacity: 1;
+            border-radius: 10px !important;
+        }
+        .right-img {
+            border-radius: 15px;
+        }
+    }
+    .info-customer1 {
+        .card-img1 {
+            // background-image: url("../../../assets/dashboard/customerProfie.png");
+            background-size: cover;
+            color: black;
+            opacity: 1;
+            border-radius: 10px !important;
+        }
+        .right-img1 {
+            border-radius: 15px;
+        }
+    }
+}

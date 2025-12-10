@@ -1,0 +1,83 @@
+[
+    {
+        "id": "9101010103",
+        "customerName": "John Shaw",
+        "image": "JohnShaw.jpg",
+        "customerType": "Gold Customer",
+        "color": "#d4af37",
+        "memberFrom": "2010-01-11",
+        "contactInfo1": "07707714530",
+        "contactInfo2": "07707714588",
+        "address": {
+            "line1": "86 Balsham Road",
+            "line2": "Harpswell",
+            "line3": "DN212EZ",
+            "line4": "United Kingdom"
+        }
+    },
+    {
+        "id": "9101010100",
+        "customerName": "Heidi Moss",
+        "customerType": "Gold Customer",
+        "color": "#d4af37",
+        "image": "christian.jpg",
+        "memberFrom": "2014-01-11",
+        "contactInfo1": "6987315985",
+        "contactInfo2": "6987315761",
+        "address": {
+            "line1": "166 Liz",
+            "line2": "Saville Roberts Avenue",
+            "line3": "DN233EZ",
+            "line4": "United Kingdom"
+        }
+    },
+    {
+        "id": "9101010106",
+        "customerName": "Morgan Stewart",
+        "customerType": "Platinum Customer",
+        "color": "grey",
+        "image": "Morgan.jpg",
+        "memberFrom": "2010-05-11",
+        "contactInfo1": "6987953123",
+        "contactInfo2": "6987953119",
+        "address": {
+            "line1": "86 Balsham Road",
+            "line2": "Harpswell",
+            "line3": "DD203EZ",
+            "line4": "United Kingdom"
+        }
+    },
+    {
+        "id": "9101010109",
+        "customerName": "Hidde Baecker",
+        "customerType": "Gold Customer",
+        "color": "#d4af37",
+        "image": "naomi.jpg",
+        "memberFrom": "2014-04-11",
+        "contactInfo1": "6988271692",
+        "contactInfo2": "6988271691",
+        "address": {
+            "line1": "216 Glenis Willmott",
+            "line2": "Hardie Road",
+            "line3": "SD200EZ",
+            "line4": "United Kingdom"
+        }
+    },
+    {
+        "id": "9101010112",
+        "customerName": "Oliver Black",
+        "customerType": "Silver Customer",
+        "color": "grey",
+        "customerTypeImage":"starSilver.png",
+        "image": "Oliver.jpg",
+        "memberFrom": "2018-11-11",
+        "contactInfo1": "07707714530",
+        "contactInfo2": "07707714588",
+        "address": {
+            "line1": "255 Leanne Wood",
+            "line2": "Lane Braemar",
+            "line3": "PE090EZ",
+            "line4": "United Kingdom"
+        }
+    }
+]

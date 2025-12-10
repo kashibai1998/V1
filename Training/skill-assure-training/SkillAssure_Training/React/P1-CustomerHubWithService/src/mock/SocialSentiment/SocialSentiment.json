@@ -1,0 +1,128 @@
+[
+    {
+        "country":"United Kingdom",
+        "socialData":[
+            {
+                "time": "Last week",
+                "county":"",
+                "age": "<18",
+                "sex":"Male",
+                "data": [
+                    {
+                        "text": "slow like snail upgrade speed",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "stop giving lame excuses start giving solutions",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "bad service",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "like maxis dont like celcom xd",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "text": "maxis scammer",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "day complained psl internet coverage sucks mamat maxis ni jawab maybe gadgets m using diff gadgets pastu dia kata sbb location n replied travelled satu malaysia lato major cities.",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "every month pay maxis everyday slow g lte support u think maxis world",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "maxis executive klcc keep promise keep changing word meet director let executive like shame big corporation",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "might concern maxis idiot recently interested subscribe maxis phone walx maxis score bbt kiang counter perdson told",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "else need told customer needs wait years waiting time really sucks",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "maxis penipu scammer",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "maxis best good internet service",
+                        "sentiment": "Positive"
+                    }
+                ]
+            }
+         
+        ]
+        
+    },
+    {
+        "country":"United States",
+        "socialData":[
+            {
+                "time": "Last week",
+                "county":"",
+                "age": "<18",
+                "sex":"Male",
+                "data": [
+                    {
+                        "text": "connecting communities and small buisness with the 5G impact",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "text": "stop giving lame excuses start giving solutions",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "bad service",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "lumen TechCo supporting children in all broadband comunities",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "text": "things you did not know about rural telecoms",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "A growth negative campaign against telecom",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "Five issues in deploying 5G and potential solutions for telecom service provider",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "Wireless price competition ,wirelines accelerated decline drive negative 2020 for US",
+                        "sentiment": "Negative"
+                    },
+                    {
+                        "text": "RPA Powered transformation of huge amounts of data can improve accuracy of buisness decision",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "text": "customer review is good",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "text": "keep your team connected through the lockdown",
+                        "sentiment": "Positive"
+                    },
+                    {
+                        "text": "maxis best good internet service",
+                        "sentiment": "Positive"
+                    }
+                ]
+            }
+        ]
+        
+    }
+    
+]

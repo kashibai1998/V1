@@ -1,0 +1,526 @@
+[
+  {
+    "id": 100001,
+    "customerData": {
+      "channelText": "Voice Analytics",
+      "adds": "Active Worldwide Roaming for just £22 per month",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "channel": {
+            "Data": [
+              {
+                "Value": "10 Calls",
+                "text": "Domestc Calls"
+              },
+              {
+                "Value": "5 Calls",
+                "text": "International Calls"
+              },
+              {
+                "Value": "6 Calls",
+                "text": "Roaming Calls"
+              }
+            ],
+            "data": [
+              5,
+              10,
+              14,
+              8,
+              22,
+              12,
+              6
+            ],
+            "data1": [
+              3.7,
+              8.9,
+              9.8,
+              3.7,
+              12,
+              9.0,
+              8.7,
+              11.0
+            ],
+            "data2": [
+              3.7,
+              8.9,
+              9.8,
+              3.7,
+              14,
+              9.0,
+              8.7,
+              11.0
+            ]
+          }
+        },
+        {
+          "timeline": "Past Month",
+          "channel": {
+            "Data": [
+              {
+                "Value": "44 Calls",
+                "text": "Domestc Calls"
+              },
+              {
+                "Value": "24 Calls",
+                "text": "International Calls"
+              },
+              {
+                "Value": "28 Calls",
+                "text": "Roaming Calls"
+              }
+            ],
+            "data": [
+              9,
+              17,
+              11,
+              13,
+              14,
+              23,
+              17
+            ],
+            "data1": [
+              3.7,
+              8.9,
+              9.8,
+              3.7,
+              13.1,
+              9.0,
+              8.7,
+              11.0
+            ],
+            "data2": [
+              5,
+              9,
+              12,
+              3.7,
+              12,
+              9.0,
+              8.7,
+              16
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 100002,
+    "customerData": {
+      "channelText": "Voice Analytics",
+      "adds": "Use your Unlimited Max plan to roam at no extra cost in 82 destinations worldwide",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "channel": {
+            "Data": [
+              {
+                "Value": "10 Calls",
+                "text": "Domestc Calls"
+              },
+              {
+                "Value": "20 Calls",
+                "text": "International Calls"
+              },
+              {
+                "Value": "6 Calls",
+                "text": "Roaming Calls"
+              }
+            ],
+            "data": [
+              9,
+              23,
+              8,
+              16,
+              22,
+              5,
+              12
+            ],
+            "data1": [
+              6,
+              9,
+              9.8,
+              3.7,
+              23.1,
+              14,
+              17,
+              11.0
+            ],
+            "data2": [
+              3.7,
+              8.9,
+              58,
+              10,
+              23.1,
+              9.0,
+              8.7,
+              45
+            ]
+          }
+        },
+        {
+          "timeline": "Past Month",
+          "channel": {
+            "Data": [
+              {
+                "Value": "35 Calls",
+                "text": "Domestc Calls"
+              },
+              {
+                "Value": "65 Calls",
+                "text": "International Calls"
+              },
+              {
+                "Value": "16 Calls",
+                "text": "Roaming Calls"
+              }
+            ],
+            "data": [
+              9,
+              17,
+              11,
+              30,
+              14,
+              50,
+              60
+            ],
+            "data1": [
+              3.7,
+              8.9,
+              9.8,
+              3.7,
+              23.1,
+              9.0,
+              8.7,
+              11.0
+            ],
+            "data2": [
+              5,
+              9,
+              12,
+              3.7,
+              28,
+              9.0,
+              8.7,
+              16
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 100003,
+    "customerData": {
+      "channelText": "Voice Analytics",
+      "adds": "Roaming on all our Unlimited data plans is capped at 25GB a month in inclusive roaming",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "channel": {
+            "Data": [
+              {
+                "Value": "22 Calls",
+                "text": "Domestc Calls"
+              },
+              {
+                "Value": "12 Calls",
+                "text": "International Calls"
+              },
+              {
+                "Value": "2 Calls",
+                "text": "Roaming Calls"
+              }
+            ],
+            "data": [
+              5,
+              10,
+              15,
+              33,
+              7,
+              5,
+              14
+            ],
+            "data1": [
+              8,
+              18,
+              9.8,
+              23,
+              23.1,
+              9.0,
+              12,
+              11.0
+            ],
+            "data2": [
+              3.7,
+              13,
+              9.8,
+              15,
+              23.1,
+              8.7,
+              11.0
+            ]
+          }
+        },
+        {
+          "timeline": "Past Month",
+          "channel": {
+            "Data": [
+              {
+                "Value": "93 Calls",
+                "text": "Domestc Calls"
+              },
+              {
+                "Value": "27 Calls",
+                "text": "International Calls"
+              },
+              {
+                "Value": "11 Calls",
+                "text": "Roaming Calls"
+              }
+            ],
+            "data": [
+              9,
+              17,
+              25,
+              30,
+              14,
+              50,
+              60
+            ],
+            "data1": [
+              3.7,
+              8.9,
+              9.8,
+              3.7,
+              23.1,
+              9.0,
+              8.7,
+              11.0
+            ],
+            "data2": [
+              5,
+              9,
+              12,
+              3.7,
+              28,
+              9.0,
+              8.7,
+              16
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 100004,
+    "customerData": {
+      "channelText": "Voice Analytics",
+      "adds": "Choose a plan with Global Roaming Plus to roam at no extra cost in 81 destinations",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "channel": {
+            "Data": [
+              {
+                "Value": "13 Calls",
+                "text": "Domestc Calls"
+              },
+              {
+                "Value": "16 Calls",
+                "text": "International Calls"
+              },
+              {
+                "Value": "7 Calls",
+                "text": "Roaming Calls"
+              }
+            ],
+            "data": [
+              7,
+              11,
+              7,
+              14,
+              2,
+              6,
+              15
+            ],
+            "data1": [
+              8,
+              8.9,
+              9.8,
+              3.7,
+              23.1,
+              9.0,
+              27,
+              16
+            ],
+            "data2": [
+              7,
+              4,
+              8,
+              16,
+              27,
+              9.0,
+              15,
+              27
+            ]
+          }
+        },
+        {
+          "timeline": "Past Month",
+          "channel": {
+            "Data": [
+              {
+                "Value": "74 Calls",
+                "text": "Domestc Calls"
+              },
+              {
+                "Value": "52 Calls",
+                "text": "International Calls"
+              },
+              {
+                "Value": "18 Calls",
+                "text": "Roaming Calls"
+              }
+            ],
+            "data": [
+              9,
+              17,
+              41,
+              18,
+              41,
+              22,
+              60
+            ],
+            "data1": [
+              6,
+              15,
+              7,
+              3.7,
+              26,
+              9.0,
+              14,
+              11.0
+            ],
+            "data2": [
+              5,
+              3,
+              17,
+              3.7,
+              28,
+              14,
+              8.7,
+              16
+            ]
+          }
+        }
+      ]
+    }
+  },
+  {
+    "id": 100005,
+    "customerData": {
+      "channelText": "Voice Analytics",
+      "adds": "you don’t have to worry about running out of data, minutes or texts – we let you use your home plan",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "channel": {
+            "Data": [
+              {
+                "Value": "12 Calls",
+                "text": "Domestc Calls"
+              },
+              {
+                "Value": "7 Calls",
+                "text": "International Calls"
+              },
+              {
+                "Value": "8 Calls",
+                "text": "Roaming Calls"
+              }
+            ],
+            "data": [
+              10,
+              18,
+              27,
+              13,
+              16,
+              7,
+              14
+            ],
+            "data1": [
+              7,
+              8.9,
+              13,
+              16,
+              23.1,
+              16,
+              8.7,
+              22
+            ],
+            "data2": [
+              4,
+              12,
+              7,
+              9,
+              28,
+              32,
+              6,
+              13
+            ]
+          }
+        },
+        {
+          "timeline": "Past Month",
+          "channel": {
+            "Data": [
+              {
+                "Value": "84 Calls",
+                "text": "Domestc Calls"
+              },
+              {
+                "Value": "35 Calls",
+                "text": "International Calls"
+              },
+              {
+                "Value": "27 Calls",
+                "text": "Roaming Calls"
+              }
+            ],
+            "data": [
+              9,
+              17,
+              42,
+              30,
+              17,
+              50,
+              60
+            ],
+            "data1": [
+              3.7,
+              8.9,
+              9.8,
+              3.7,
+              13,
+              9.0,
+              8.7,
+              15
+            ],
+            "data2": [
+              4,
+              13,
+              19,
+              23,
+              28,
+              11,
+              15,
+              16
+            ]
+          }
+        }
+      ]
+    }
+  }
+]

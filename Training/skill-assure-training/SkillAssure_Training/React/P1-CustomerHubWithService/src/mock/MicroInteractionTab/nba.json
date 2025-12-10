@@ -1,0 +1,550 @@
+[
+    {
+        "id": 100001,
+        "data": [
+            {
+                "day": 1,
+                "icon":"lightbulb",
+                "title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Offer 2GB data free for next two month", "Send a cupon code to customer with 20% off on Domino's", "Send cupon code for free Netflix subscription for two weeks", "Follow up phone call with customer to ensure issue is resolved"]
+            },
+            {
+                "day": 3,
+                "icon":"lightbulb",
+                "title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Recommend Blue XLarge Plan Unlimited Calls Mobile 2000 Minutes ,Unlimited Text & 20 GB data", "Upgrade your data package to 20GB at just £ 20 per month", "Upgrade your data package to 10GB at just £ 12 per month", "Get 5X data - 50GB for £ 24.99 a month"]
+            },
+            {
+                "day": 6,
+                "icon":"lightbulb",
+                "title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Offer 2GB data free for next two month", "Send a cupon code to customer with 20% off on Domino's", "Send cupon code for free Netflix subscription for two weeks", "Follow up phone call with customer to ensure issue is resolved"]
+            },
+            
+           
+            {
+                "day": 15,
+                "icon":"lightbulb",
+                "title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Raise an Online service ticket for service outage", "Follow up phone call with customer to ensure issue is resolved", "Message Service centre for service outage information", "Contact assigned engineer for update of restoration of service"]
+            },
+            {
+                "day": 17,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Raise an Online service ticket for service outage", "Message Service centre for service outage information", "Follow up phone call with customer to ensure issue is resolved", "Contact assigned engineer for update of restoration of service"]
+            },
+            {
+                "day": 19,
+                "icon":"lightbulb",
+                "title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate monthly plan with £5 per month 400 min free call", "Upgrade your prepaid plan to unlimited calls on any network just £ 9 per month", "Upgrade your prepaid plan to unlimited calls on same network just £ 5 per month", "Active Worldwide Roaming for just £22 per month"]
+            },
+            {
+                "day": 29,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 10GB at just £  12 per month", "Connect to wifi at home to conserve mobile data", "Subscribe yearly data plan with £ 599 and save £ 4 per month ", "Add-on data pack with just £ 5 with unlimited text"]
+            },
+            {
+                "day": 2,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Active Worldwide Roaming for just £ 22 per month", "25% of your connects are using iPhone 11 Pro Max", "Activate our new data plan in just £ 19 per month with 30GB data", "Special offer for unlimited data+call in just £ 1029/Year"]
+            },
+            {
+                "day": 4,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate sports+package at just £ 10 per month", "Premire league finals between chelsea and arsenal at 18.00 pm Tonight", "Activate sports+package at just £ 29 for 3 month", "Activate sports+package at just £ 35 for 3month with 3 month Netflix Subscription"]
+            },
+            {
+                "day": 5,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate sports+package at just £ 11 per month", "Upgrade your exiting plan with only £ 10 to add 15GB more data", "Activate sports+package at just £ 29 for 3 month", "Activate sports, package & entertainment at just £ 35 for 3month with 3 month Netflix Subscription"]
+            },
+            {
+                "day": 7,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 15GB at just £ 14 per month", "Connect to wifi at home to conserve mobile data", "Subscribe yearly data plan with £ 699 and save £ 6 per month ", "Add-on data pack with just £ 14 with unlimited text"]
+            },
+            {
+                "day": 8,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 25GB at just £ 19 per month", "Please off auto update app to conserve mobile data", "Subscribe best yearly data plan with £ 899 and save £ 7 per month ", "Add-on data pack with just £ 25 with unlimited text"]
+            },
+            {
+                "day": 10,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 25GB at just £ 19 per month", "Please off auto update app to conserve mobile data", "Subscribe best yearly data plan with £ 899 and save £ 7 per month ", "Add-on data pack with just £ 25 with unlimited text"]
+            },
+            {
+                "day": 11,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 15GB at just £ 14 per month", "Connect to wifi at home to conserve mobile data", "Subscribe yearly data plan with £ 699 and save £ 6 per month ", "Add-on data pack with just £ 14 with unlimited text"]
+            },
+            {
+                "day": 12,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate Sports+ package at just £ 29 for 3 month", "Activate our premium plan with just £ 399 per year", "Upgrade your exiting plan with only £ 5 to add 10GB more data", "Activate sports+entertainment at just £ 19 for 3 month"]
+            },
+            {
+                "day": 13,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 25GB at just £ 19 per month", "Please off auto update app to conserve mobile data", "Subscribe best yearly data plan with £ 899 and save £ 7 per month ", "Add-on data pack with just £ 25 with unlimited text"]
+            },
+            {
+                "day": 14,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 25GB at just £ 19 per month", "Please off auto update app to conserve mobile data", "Subscribe best yearly data plan with £ 899 and save £ 7 per month ", "Add-on data pack with just £ 25 with unlimited text"]
+            }
+        ]
+    },
+    {
+        "id": 100002,
+        "data": [
+            {
+                "day": 4,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["3GB data free for next one month to make customer happy", "Send a cupon code to customer with 10% off on KFC", "Send cupon code of free netflix subscription for 2 month", "Direct phone call with customer care executive for assurance"]
+            },
+            {
+                "day": 6,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Blue XLarge Plan Fibre Superfast 350Mbps TV - Sports+ & Entertainment Landline - Unlimited Calls Mobile 2000 Minutes ,Unlimited Text & 20 GB data", "Upgrade your data package to 20GB at just £ 20 per month", "Upgrade your data package to 10GB at just £ 12 per month", "Get 5X data - 50GB for £ 20 a month"]
+            },
+            {
+                "day": 15,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 11,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Raise an Online service ticket for service outage", "Message Service centre for service outage information", "send an email for low bandwith", "Contact assigned engineer for update of restoration of service"]
+            },
+            {
+                "day": 18,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Raise an Online service ticket for service outage", "send an email enquiry for service outage", "Message Service centre for service outage information", "Contact assigned engineer for update of restoration of service"]
+            },
+            {
+                "day": 20,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate monthly plan with £5 per month 400 min free call", "Upgrade your prepaid plan to unlimited calls on any network just £ 9 per month", "Upgrade your prepaid plan to unlimited calls on same network just £ 5 per month", "Active Worldwide Roaming for just £22 per month"]
+            },
+            {
+                "day": 3,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate sports+package at just £ 29 for 3 month", "Activate our premium plan with just £ 399 per year", "Upgrade your exiting plan with only £ 5 to add 10GB more data", "Activate sports+entertainment at just £ 19 for 3 month"]
+            },
+            {
+                "day": 9,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate monthly plan with £6 per month 500 min free call", "Upgrade your prepaid plan to unlimited calls on any network just £ 5 per month", "Upgrade your prepaid plan to unlimited calls on same network just £ 3 per month", "Active Worldwide Roaming for just £22 per month"]
+            },
+            {
+                "day": 1,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+"nbaData": ["Offer 2GB data free for next two month", "Send a cupon code to customer with 20% off on Domino's", "Send cupon code for free Netflix subscription for two weeks", "Follow up phone call with customer to ensure issue is resolved"]
+            },
+            {
+                "day": 2,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Active Worldwide Roaming for just £ 22 per month", "25% of your connects are using iPhone 11 Pro Max", "Activate our new data plan in just £ 19 per month with 30GB data", "Special offer for unlimited data+call in just £ 1029/Year"]
+            },
+            {
+                "day": 30,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate sports+package at just £ 10 per month", "Premire league finals between chelsea and arsenal at 18.00 pm Tonight", "Activate sports+package at just £ 29 for 3 month", "Activate sports+package at just £ 35 for 3month with 3 month Netflix Subscription"]
+            },
+            {
+                "day": 5,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate sports+package at just £ 11 per month", "Upgrade your exiting plan with only £ 10 to add 15GB more data", "Activate sports+package at just £ 29 for 3 month", "Activate sports, package & entertainment at just £ 35 for 3month with 3 month Netflix Subscription"]
+            },
+            {
+                "day": 7,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 15GB at just £ 14 per month", "Connect to wifi at home to conserve mobile data", "Subscribe yearly data plan with £ 699 and save £ 6 per month ", "Add-on data pack with just £ 14 with unlimited text"]
+            },
+            {
+                "day": 8,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 25GB at just £ 19 per month", "Please off auto update app to conserve mobile data", "Subscribe best yearly data plan with £ 899 and save £ 7 per month ", "Add-on data pack with just £ 25 with unlimited text"]
+            },
+            {
+                "day": 10,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 25GB at just £ 19 per month", "Please off auto update app to conserve mobile data", "Subscribe best yearly data plan with £ 899 and save £ 7 per month ", "Add-on data pack with just £ 25 with unlimited text"]
+            },
+            {
+                "day": 21,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 15GB at just £ 14 per month", "Connect to wifi at home to conserve mobile data", "Subscribe yearly data plan with £ 699 and save £ 6 per month ", "Add-on data pack with just £ 14 with unlimited text"]
+            }
+        ]
+    },
+    {
+        "id": 100003,
+        "data": [
+            {
+                "day": 4,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["2GB data free for next two month to make customer happy", "Send a cupon code to customer with 20% off on dominos", "Send cupon code of free netflix subscription for 3 month", "Direct phone call with customer care executive for assurance"]
+            },
+            {
+                "day": 9,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 30GB at just £ 20 per month", "Upgrade your data package to 20GB at just £ 20 per month", "Upgrade your data package to 10GB at just £ 12 per month", "Get 5X data - 50GB for £ 20 a month"]
+            },
+            {
+                "day": 17,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 13,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Raise an Online service ticket for service outage", "Message Service centre for service outage information", "send an email for low bandwith", "Contact assigned engineer for update of restoration of service"]
+            },
+            {
+                "day": 26,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Raise an Online service ticket for service outage", "send an email enquiry for service outage", "Message Service centre for service outage information", "Contact assigned engineer for update of restoration of service"]
+            },
+            {
+                "day": 24,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate monthly plan with £5 per month 400 min free call", "Upgrade your prepaid plan to unlimited calls on any network just £ 9 per month", "Upgrade your prepaid plan to unlimited calls on same network just £ 5 per month", "Active Worldwide Roaming for just £22 per month"]
+            },
+            {
+                "day": 3,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate sports+package at just £ 29 for 3 month", "Activate our premium plan with just £ 399 per year", "Upgrade your exiting plan with only £ 5 to add 10GB more data", "Activate sports+entertainment at just £ 19 for 3 month"]
+            },
+            {
+                "day": 15,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 16,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 18,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 20,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 1,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+"nbaData": ["Offer 2GB data free for next two month", "Send a cupon code to customer with 20% off on Domino's", "Send cupon code for free Netflix subscription for two weeks", "Follow up phone call with customer to ensure issue is resolved"]  },
+            {
+                "day": 2,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Active Worldwide Roaming for just £ 22 per month", "25% of your connects are using iPhone 11 Pro Max", "Activate our new data plan in just £ 19 per month with 30GB data", "Special offer for unlimited data+call in just £ 1029/Year"]
+            },
+            {
+                "day": 14,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate sports+package at just £ 10 per month", "Premire league finals between chelsea and arsenal at 18.00 pm Tonight", "Activate sports+package at just £ 29 for 3 month", "Activate sports+package at just £ 35 for 3month with 3 month Netflix Subscription"]
+            },
+            {
+                "day": 5,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate sports+package at just £ 11 per month", "Upgrade your exiting plan with only £ 10 to add 15GB more data", "Activate sports+package at just £ 29 for 3 month", "Activate sports, package & entertainment at just £ 35 for 3month with 3 month Netflix Subscription"]
+            },
+            {
+                "day": 6,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 15GB at just £ 14 per month", "Connect to wifi at home to conserve mobile data", "Subscribe yearly data plan with £ 699 and save £ 6 per month ", "Add-on data pack with just £ 14 with unlimited text"]
+            },
+            {
+                "day": 8,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 25GB at just £ 19 per month", "Please off auto update app to conserve mobile data", "Subscribe best yearly data plan with £ 899 and save £ 7 per month ", "Add-on data pack with just £ 25 with unlimited text"]
+            },
+            {
+                "day": 10,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 25GB at just £ 19 per month", "Please off auto update app to conserve mobile data", "Subscribe best yearly data plan with £ 899 and save £ 7 per month ", "Add-on data pack with just £ 25 with unlimited text"]
+            },
+            {
+                "day": 11,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 15GB at just £ 14 per month", "Connect to wifi at home to conserve mobile data", "Subscribe yearly data plan with £ 699 and save £ 6 per month ", "Add-on data pack with just £ 14 with unlimited text"]
+            }
+        ]
+    },
+    {
+        "id": 100004,
+        "data": [
+            {
+                "day": 4,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["2GB data free for next two month to make customer happy", "Send a cupon code to customer with 20% off on dominos", "Send cupon code of free netflix subscription for 3 month", "Direct phone call with customer care executive for assurance"]
+            },
+            {
+                "day": 6,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Blue Large Plan Fibre Superfast 150Mbps, TV - Sports & Entertainment,Landline - Unlimited Calls,Get 5X data - 50GB for £ 20 a month", "Upgrade your data package to 20GB at just £ 20 per month", "Upgrade your data package to 10GB at just £ 12 per month", "Get 5X data - 50GB for £ 24.99 a month"]
+            },
+            {
+                "day": 10,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate monthly plan with £5 per month 450 min free call", "Upgrade your prepaid plan to unlimited calls on any network just £ 9 per month", "Upgrade your prepaid plan to unlimited calls on same network just £ 5 per month", "Active Worldwide Roaming for just £22 per month"]
+            },
+            {
+                "day": 16,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 18,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 20,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 28,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Raise an Online service ticket for service outage", "Message Service centre for service outage information", "send an email for low bandwith", "Contact assigned engineer for update of restoration of service"]
+            },
+            {
+                "day": 26,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Raise an Online service ticket for service outage", "send an email enquiry for service outage", "Message Service centre for service outage information", "Contact assigned engineer for update of restoration of service"]
+            },
+            {
+                "day": 24,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate monthly plan with £5 per month 400 min free call", "Upgrade your prepaid plan to unlimited calls on any network just £ 9 per month", "Upgrade your prepaid plan to unlimited calls on same network just £ 5 per month", "Active Worldwide Roaming for just £22 per month"]
+            },
+            {
+                "day": 3,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate sports+package at just £ 29 for 3 month", "Activate our premium plan with just £ 399 per year", "Upgrade your exiting plan with only £ 5 to add 10GB more data", "Activate sports+entertainment at just £ 19 for 3 month"]
+            },
+            {
+                "day": 14,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 1,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+"nbaData": ["Offer 2GB data free for next two month", "Send a cupon code to customer with 20% off on Domino's", "Send cupon code for free Netflix subscription for two weeks", "Follow up phone call with customer to ensure issue is resolved"]},
+            {
+                "day": 2,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Active Worldwide Roaming for just £ 22 per month", "25% of your connects are using iPhone 11 Pro Max", "Activate our new data plan in just £ 19 per month with 30GB data", "Special offer for unlimited data+call in just £ 1029/Year"]
+            },
+            
+            {
+                "day": 5,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate sports+package at just £ 11 per month", "Upgrade your exiting plan with only £ 10 to add 15GB more data", "Activate sports+package at just £ 29 for 3 month", "Activate sports, package & entertainment at just £ 35 for 3month with 3 month Netflix Subscription"]
+            },
+            {
+                "day": 7,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 15GB at just £ 14 per month", "Connect to wifi at home to conserve mobile data", "Subscribe yearly data plan with £ 699 and save £ 6 per month ", "Add-on data pack with just £ 14 with unlimited text"]
+            },
+            {
+                "day": 8,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 25GB at just £ 19 per month", "Please off auto update app to conserve mobile data", "Subscribe best yearly data plan with £ 899 and save £ 7 per month ", "Add-on data pack with just £ 25 with unlimited text"]
+            },
+            
+            {
+                "day": 11,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 15GB at just £ 14 per month", "Connect to wifi at home to conserve mobile data", "Subscribe yearly data plan with £ 699 and save £ 6 per month ", "Add-on data pack with just £ 14 with unlimited text"]
+            }
+        ]
+    },
+    {
+        "id": 100005,
+        "data": [
+            {
+                "day": 6,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["2GB data free for next two month to make customer happy", "Send a cupon code to customer with 20% off on dominos", "Send cupon code of free netflix subscription for 3 month", "Direct phone call with customer care executive for assurance"]
+            },
+            {
+                "day": 9,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Blue Medium Plan Fibre Fast - 78Mbps,TV – Sports+,Landline - Unlimited Calls,Mobile 500 Minutes, Unlimited Text & 5 GB data", "Upgrade your data package to 20GB at just £ 20 per month", "Upgrade your data package to 10GB at just £ 12 per month", "Get 5X data - 50GB for £ 20 a month"]
+            },
+            {
+                "day": 15,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 16,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 17,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 28,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Raise an Online service ticket for service outage", "Message Service centre for service outage information", "send an email for low bandwith", "Contact assigned engineer for update of restoration of service"]
+            },
+            {
+                "day": 26,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Raise an Online service ticket for service outage", "send an email enquiry for service outage", "Message Service centre for service outage information", "Contact assigned engineer for update of restoration of service"]
+            },
+            {
+                "day": 24,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate monthly plan with £5 per month 400 min free call", "Upgrade your prepaid plan to unlimited calls on any network just £ 9 per month", "Upgrade your prepaid plan to unlimited calls on same network just £ 5 per month", "Active Worldwide Roaming for just £22 per month"]
+            },
+            {
+                "day": 3,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate sports+package at just £ 29 for 3 month", "Activate our premium plan with just £ 399 per year", "Upgrade your exiting plan with only £ 5 to add 10GB more data", "Activate sports+entertainment at just £ 19 for 3 month"]
+            },
+            {
+                "day": 19,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["", "", "", ""]
+            },
+            {
+                "day": 1,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+"nbaData": ["Offer 2GB data free for next two month", "Send a cupon code to customer with 20% off on Domino's", "Send cupon code for free Netflix subscription for two weeks", "Follow up phone call with customer to ensure issue is resolved"]},
+            {
+                "day": 2,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Active Worldwide Roaming for just £ 22 per month", "25% of your connects are using iPhone 11 Pro Max", "Activate our new data plan in just £ 19 per month with 30GB data", "Special offer for unlimited data+call in just £ 1029/Year"]
+            },
+            {
+                "day": 4,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate sports+package at just £ 10 per month", "Premire league finals between chelsea and arsenal at 18.00 pm Tonight", "Activate sports+package at just £ 29 for 3 month", "Activate sports+package at just £ 35 for 3month with 3 month Netflix Subscription"]
+            },
+            {
+                "day": 5,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Activate sports+package at just £ 11 per month", "Upgrade your exiting plan with only £ 10 to add 15GB more data", "Activate sports+package at just £ 29 for 3 month", "Activate sports, package & entertainment at just £ 35 for 3month with 3 month Netflix Subscription"]
+            },
+            {
+                "day": 7,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 15GB at just £ 14 per month", "Connect to wifi at home to conserve mobile data", "Subscribe yearly data plan with £ 699 and save £ 6 per month ", "Add-on data pack with just £ 14 with unlimited text"]
+            },
+            {
+                "day": 8,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 25GB at just £ 19 per month", "Please off auto update app to conserve mobile data", "Subscribe best yearly data plan with £ 899 and save £ 7 per month ", "Add-on data pack with just £ 25 with unlimited text"]
+            },
+            {
+                "day": 10,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 25GB at just £ 19 per month", "Please off auto update app to conserve mobile data", "Subscribe best yearly data plan with £ 899 and save £ 7 per month ", "Add-on data pack with just £ 25 with unlimited text"]
+            },
+            {
+                "day": 11,
+                "icon":"lightbulb",
+"title": ["Send SMS", "Send Email", "Send Email", "Call Customer"],
+                "nbaData": ["Upgrade your data package to 15GB at just £ 14 per month", "Connect to wifi at home to conserve mobile data", "Subscribe yearly data plan with £ 699 and save £ 6 per month ", "Add-on data pack with just £ 14 with unlimited text"]
+            }
+        ]
+    }
+]

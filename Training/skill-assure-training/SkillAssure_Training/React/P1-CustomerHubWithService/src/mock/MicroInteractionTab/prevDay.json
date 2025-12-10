@@ -1,0 +1,23 @@
+[
+    {
+     "flowChartData":{
+     "nodeDataArray": [
+     { "key": 1001,"head": "", "foot": "Slow Speed internet", "img": "www.png","color": "white"},
+     { "key": 1002,"head": "", "foot": "Broadband Outage", "img": "alarm.png","color": "white" },
+     { "key": 1003,"head": "", "foot": "Proactively Incedent Created", "img": "ticket.png","color": "white" },
+     { "key": 1004,"head": "", "foot": "Notification Sent Via Mail", "img": "email.png","color": "white" },
+     { "key": 1005,"head": "", "foot": "Notification Sent Via Mail", "img": "sms.png","color": "white" },
+     { "key": 1006,"head": "", "foot": "Call to contact center", "img": "contactcenter.png","color": "white" }
+     ],
+     "linkDataArray": [
+     { "from": 1001, "to": 1002 },
+     { "from": 1002, "to": 1003 },
+     { "from": 1003, "to": 1004 },
+     { "from": 1003, "to": 1005 },
+     { "from": 1004, "to": 1006 },
+     { "from": 1005, "to": 1006 }
+     ]
+     }
+     
+    }
+    ]

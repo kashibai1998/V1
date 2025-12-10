@@ -1,0 +1,432 @@
+[
+    {
+        "id": 100001,
+        "customerData": {
+            "graph": [
+                {
+                    "timeline": "pastyear",
+                    "churn": {
+                        "tab": "churn",
+                        "churnData": "80",
+                        "churnPredict": "CHURN Prediction Reasons",
+                        "churnreasons": [
+                            {
+                                "churnres": "Bill dispute open"
+                            }
+                        ],
+                        "churngraph": [
+                            8,
+                            8,
+                            8,
+                            8,
+                            5,
+                            5,
+                            5
+                        ]
+                    },
+                    "clv": {
+                        "tab": "clv",
+                        "clvPredict": "CLV Prediction Reasons",
+                        "clvData": "90",
+                        "clvreasons": [
+                            {
+                                "clvres": "Offer Phone accessories"
+                            }
+                        ],
+                        "clvgraph": [
+                            180,
+                            180,
+                            180,
+                            190,
+                            190,
+                            190,
+                            190
+                        ]
+                    },
+                    "rev": {
+                        "tab": "Rev",
+                        "revPredict": "Rev Prediction Reasons",
+                        "revData": "90",
+                        "revreasons": [
+                            {
+                                "revres": "Upgraded from Blue Medium to Blue Large"
+                            }
+                        ],
+                        "revgraph": [
+                            50,
+                            50,
+                            50,
+                            55,
+                            55,
+                            55,
+                            55
+                        ]
+                    },
+                    "nps": {
+                        "tab": "Nps",
+                        "npsPredict": "Nps Prediction Reasons",
+                        "npsData": "90",
+                        "npsreasons": [
+                            {
+                                "npsres": "Recommended a friend"
+                            }
+                        ],
+                        "npsgraph": [
+                            1,
+                            1,
+                            2,
+                            2,
+                            2,
+                            2,
+                            2
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 100002,
+        "customerData": {
+            "graph": [
+                {
+                    "timeline": "pastyear",
+                    "churn": {
+                        "tab": "churn",
+                        "churnData": "80",
+                        "churnPredict": "CHURN Prediction Reasons",
+                        "churnreasons": [
+                            {
+                                "churnres": "Increased data consumption"
+                            }
+                        ],
+                        "churngraph": [
+                            8,
+                            8,
+                            8,
+                            8,
+                            8,
+                            8,
+                            8
+                        ]
+                    },
+                    "clv": {
+                        "tab": "clv",
+                        "clvPredict": "CLV Prediction Reasons",
+                        "clvData": "90",
+                        "clvreasons": [
+                            {
+                                "clvres": "Offer additional SIM"
+                            }
+                        ],
+                        "clvgraph": [
+                            180,
+                            180,
+                            179,
+                            179,
+                            178,
+                            178,
+                            178
+                        ]
+                    },
+                    "rev": {
+                        "tab": "Rev",
+                        "revPredict": "Rev Prediction Reasons",
+                        "revData": "90",
+                        "revreasons": [
+                            {
+                                "revres": "No growth in revenue"
+                            }
+                        ],
+                        "revgraph": [
+                            50,
+                            50,
+                            50,
+                            50,
+                            50,
+                            50,
+                            50
+                        ]
+                    },
+                    "nps": {
+                        "tab": "Nps",
+                        "npsPredict": "Nps Prediction Reasons",
+                        "npsData": "90",
+                        "npsreasons": [
+                            {
+                                "npsres": "No response to feedback request"
+                            }
+                        ],
+                        "npsgraph": [
+                            1.8,
+                            1.8,
+                            1.8,
+                            2,
+                            2,
+                            2,
+                            2
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 100003,
+        "customerData": {
+            "graph": [
+                {
+                    "timeline": "pastyear",
+                    "churn": {
+                        "tab": "churn",
+                        "churnData": "80",
+                        "churnPredict": "CHURN Prediction Reasons",
+                        "churnreasons": [
+                            {
+                                "churnres": "Frequent service issues"
+                            }
+                        ],
+                        "churngraph": [
+                            9,
+                            9,
+                            4,
+                            4,
+                            4,
+                            4,
+                            4
+                        ]
+                    },
+                    "clv": {
+                        "tab": "clv",
+                        "clvPredict": "CLV Prediction Reasons",
+                        "clvData": "90",
+                        "clvreasons": [
+                            {
+                                "clvres": "Offer Entertainment+ pack"
+                            }
+                        ],
+                        "clvgraph": [
+                            180,
+                            180,
+                            190,
+                            190,
+                            190,
+                            190,
+                            190
+                        ]
+                    },
+                    "rev": {
+                        "tab": "Rev",
+                        "revPredict": "Rev Prediction Reasons",
+                        "revData": "90",
+                        "revreasons": [
+                            {
+                                "revres": "Sports+ activated"
+                            }
+                        ],
+                        "revgraph": [
+                            42,
+                            42,
+                            45,
+                            47,
+                            47,
+                            47,
+                            47
+                        ]
+                    },
+                    "nps": {
+                        "tab": "Nps",
+                        "npsPredict": "Nps Prediction Reasons",
+                        "npsData": "90",
+                        "npsreasons": [
+                            {
+                                "npsres": "Positive review on Trust Pilot"
+                            }
+                        ],
+                        "npsgraph": [
+                            2.8,
+                            2.8,
+                            3.2,
+                            3.2,
+                            3.2,
+                            3.2,
+                            3.2
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 100004,
+        "customerData": {
+            "graph": [
+                {
+                    "timeline": "pastyear",
+                    "churn": {
+                        "tab": "churn",
+                        "churnData": "80",
+                        "churnPredict": "CHURN Prediction Reasons",
+                        "churnreasons": [
+                            {
+                                "churnres": "Deactivated International roaming"
+                            }
+                        ],
+                        "churngraph": [
+                            5,
+                            5,
+                            5,
+                            7,
+                            7,
+                            7,
+                            7
+                        ]
+                    },
+                    "clv": {
+                        "tab": "clv",
+                        "clvPredict": "CLV Prediction Reasons",
+                        "clvData": "90",
+                        "clvreasons": [
+                            {
+                                "clvres": "Offer discounted additional SIM"
+                            }
+                        ],
+                        "clvgraph": [
+                            180,
+                            180,
+                            175,
+                            170,
+                            170,
+                            170,
+                            170
+                        ]
+                    },
+                    "rev": {
+                        "tab": "Rev",
+                        "revPredict": "Rev Prediction Reasons",
+                        "revData": "90",
+                        "revreasons": [
+                            {
+                                "revres": "Package downgrade to Blue Starter"
+                            }
+                        ],
+                        "revgraph": [
+                            50,
+                            50,
+                            42,
+                            42,
+                            42,
+                            40,
+                            40
+                        ]
+                    },
+                    "nps": {
+                        "tab": "Nps",
+                        "npsPredict": "Nps Prediction Reasons",
+                        "npsData": "90",
+                        "npsreasons": [
+                            {
+                                "npsres": "Low mobile app usage"
+                            }
+                        ],
+                        "npsgraph": [
+                            2,
+                            2,
+                            2,
+                            1.6,
+                            1.6,
+                            1.6,
+                            1.6
+                        ]
+                    }
+                }
+            ]
+        }
+    },
+    {
+        "id": 100005,
+        "customerData": {
+            "graph": [
+                {
+                    "timeline": "pastyear",
+                    "churn": {
+                        "tab": "churn",
+                        "churnData": "80",
+                        "churnPredict": "CHURN Prediction Reasons",
+                        "churnreasons": [
+                            {
+                                "churnres": "Did not accept the roaming offer"
+                            }
+                        ],
+                        "churngraph": [
+                            5,
+                            5,
+                            5,
+                            5,
+                            6,
+                            6,
+                            6
+                        ]
+                    },
+                    "clv": {
+                        "tab": "clv",
+                        "clvPredict": "CLV Prediction Reasons",
+                        "clvData": "90",
+                        "clvreasons": [
+                            {
+                                "clvres": "Offer 5GB additional data per month"
+                            }
+                        ],
+                        "clvgraph": [
+                            180,
+                            180,
+                            180,
+                            180,
+                            170,
+                            170,
+                            170
+                        ]
+                    },
+                    "rev": {
+                        "tab": "Rev",
+                        "revPredict": "Rev Prediction Reasons",
+                        "revData": "90",
+                        "revreasons": [
+                            {
+                                "revres": "Companion Mobile account deactivated"
+                            }
+                        ],
+                        "revgraph": [
+                            55,
+                            55,
+                            55,
+                            55,
+                            45,
+                            44,
+                            44
+                        ]
+                    },
+                    "nps": {
+                        "tab": "Nps",
+                        "npsPredict": "Nps Prediction Reasons",
+                        "npsData": "90",
+                        "npsreasons": [
+                            {
+                                "npsres": "Negative feedback on Contact Centre experience"
+                            }
+                        ],
+                        "npsgraph": [
+                            2,
+                            2,
+                            2,
+                            2,
+                            1.6,
+                            1.6,
+                            1.6
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+]

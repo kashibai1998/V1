@@ -1,0 +1,67 @@
+[
+    {
+        "id": 100001,
+        "adsDetails": [
+            {
+                "image": "ipl.png",
+                "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+            },
+            {
+                "image": "Comedy.jpg",
+                "text": "The Comedy streamed live on channel 230-Watch tonight show starting at 20:00 hours"
+            }
+        ]
+    },
+    {
+        "id": 100002,
+        "adsDetails": [
+            {
+                "image": "Crime.jpg",
+                "text": "Crime streamed live on channel 300-Watch today at 22:00 hours"
+            },
+            {
+                "image": "ipl.png",
+                "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+            }
+        ]
+    },
+    {
+        "id": 100003,
+        "adsDetails": [
+            {
+                "image": "Education.jpg",
+                "text": "Education streamed live on channel 200-Watch today at 20:00 hours"
+            },
+            {
+                "image": "Fifa.jpg",
+                "text": "Fifa streamed live on channel 250-Watch Muller Reus vs The Fashion Puli today at 16:00 hours"
+            }
+        ]
+    },
+    {
+        "id": 100004,
+        "adsDetails": [
+            {
+                "image": "ipl.png",
+                "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+            },
+            {
+                "image": "wimbledon.jpeg",
+                "text": "Wimbledon streamed live on channel 400-Watch today at 10:00 hours"
+            }
+        ]
+    },
+    {
+        "id": 100005,
+        "adsDetails": [
+            {
+                "image": "ipl.png",
+                "text": "IPL streamed live on channel 221-Watch Royal Challengers vs Mumbai Indians today at 18:00 hours"
+            },
+            {
+                "image": "Crime.jpg",
+                "text": "Crime streamed live on channel 300-Watch today at 22:00 hours"
+            }
+        ]
+    }
+]

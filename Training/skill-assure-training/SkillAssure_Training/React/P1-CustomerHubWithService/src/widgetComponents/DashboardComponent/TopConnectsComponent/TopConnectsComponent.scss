@@ -1,0 +1,135 @@
+.top-connect-section {
+    position: relative;
+    margin-left: 0px !important;
+    .user-image {
+        width: 50px;
+        height: 65px !important;
+        background-image: url("../../../assets/Images/usa.png");
+        background-size: cover;
+        // margin-left: 20%;
+        // margin-top:16%;
+    }
+    .image-container {
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        .icon-container {
+            border: 5px solid #edf0f5;
+            background-color: #e7e9f0;
+            height: 70px;
+            width: 70px;
+            line-height: 65px;
+            text-align: center;
+            border-radius: 50%;
+        }
+    }
+    .top-connect-first {
+        border-right: 2px solid #4aa3fd;
+        border-radius: 50%;
+        height: 230px;
+        width: 170px;
+        margin-left: -40px;
+    }
+    .top-connect-second {
+        position: absolute;
+        border-right: 2px solid #4aa3fd;
+        border-radius: 50%;
+        height: 230px;
+        width: 170px;
+        margin-left: -70px;
+    }
+    .top-connect-third {
+        position: absolute;
+        border-right: 2px solid #4aa3fd;
+        border-radius: 50%;
+        height: 230px;
+        width: 170px;
+        margin-left: -120px;
+    }
+    .first-circle {
+        position: absolute;
+
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 30px 0 0 138px;
+    }
+    .second-circle {
+        position: absolute;
+        // border: 1px solid blue;
+
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 60px 0 0 150px;
+    }
+    .second1-circle {
+        position: absolute;
+
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 60px 0 0 150px;
+    }
+    .third-circle {
+        position: absolute;
+
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 93px 0 0 156px;
+    }
+    .third1-circle {
+        position: absolute;
+
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 93px 0 0 156px;
+    }
+    .fourth-circle {
+        position: absolute;
+
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 125px 0 0 155px;
+    }
+    .fifth-circle {
+        position: absolute;
+
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 158px 0 0 145px;
+    }
+    .sixth-circle {
+        position: absolute;
+
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 188px 0 0 131px;
+    }
+    .zero-circle {
+        position: absolute;
+
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 5px 0 0 118px;
+    }
+    .zero1-circle {
+        position: absolute;
+
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 5px 0 0 118px;
+    }
+
+    .falg {
+        position: absolute !important;
+    }
+}
+

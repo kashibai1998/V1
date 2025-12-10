@@ -1,0 +1,17 @@
+[
+    {
+        "icon": "lightbulb",
+        "title": [
+            "Send SMS",
+            "Send Email",
+            "Send Email",
+            "Call Customer"
+        ],
+        "nbaData": [
+            "Activate monthly plan with £5 per month 400 min free call",
+            "Upgrade your prepaid plan to unlimited calls on any network just £ 9 per month",
+            "Upgrade your prepaid plan to unlimited calls on same network just £ 5 per month"
+          
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "id":1,
+        "firstCallRange":"2 hrs to 30 mins",
+        "firstCallDetails":["xxxxxxxx72","xxxxxxx076","xxxxxxxx742","xxxxxxxx92","xxxxxxxx543","xxxxxxx999"],
+        "secondCallRange":"30 mins to 15 mins",
+        "secondCallDetails":["xxxxxxx0923","xxxxxxx9984","xxxxxx4343","xxxxxxx012","xxxxxxx632","xxxxxxx321"],
+        "thirdCallRange":"15 mins to 5 mins",
+        "thirdCallDetails":["xxxxxxxx74","xxxxxxxx87","xxxxxxx010","xxxxxxx099","xxxxxxxx074","xxxxxxxx704"]
+    },
+    {
+        "id":2,
+        "firstCallRange":"2 hrs to 30 mins",
+        "firstCallDetails":["xxxxxxxx075","xxxxxxxx75","xxxxxxxx75","xxxxxxxx75","xxxxxxxx75","xxxxxxxx75"],
+        "secondCallRange":"30 mins to 15 mins",
+        "secondCallDetails":["xxxxxxx366","xxxxxxx522","xxxxxxxx342","xxxxxxxx73","xxxxxxxx25","xxxxxxx106"],
+        "thirdCallRange":"15 mins to 5 mins",
+        "thirdCallDetails":["xxxxxxxx077","xxxxxxx111","xxxxxxxx707","xxxxxxxx11","xxxxxxxx137","xxxxxxxx77"]
+    },
+    {
+        "id":3,
+        "firstCallRange":"2 hrs to 30 mins",
+        "firstCallDetails":["xxxxxxx982","xxxxxxx178","xxxxxxxx78","xxxxxxxx78","xxxxxxxx78","xxxxxxx318"],
+        "secondCallRange":"30 mins to 15 mins",
+        "secondCallDetails":["xxxxxxxx48","xxxxxxx568","xxxxxxx098","xxxxxxxx29","xxxxxxxx78","xxxxxxx165"],
+        "thirdCallRange":"15 mins to 5 mins",
+        "thirdCallDetails":["xxxxxxx178","xxxxxxx780","xxxxxxx782","xxxxxxx063","xxxxxxxx23","xxxxxxxx00"]
+    },
+    {
+        "id":4,
+        "firstCallRange":"2 hrs to 30 mins",
+        "firstCallDetails":["xxxxxxxx02","xxxxxxx029","xxxxxxxx009","xxxxxxxx38","xxxxxxxx34","xxxxxxx452"],
+        "secondCallRange":"30 mins to 15 mins",
+        "secondCallDetails":["xxxxxxxx46","xxxxxxx538","xxxxxx312","xxxxxxx129","xxxxxxx341","xxxxxxx12"],
+        "thirdCallRange":"15 mins to 5 mins",
+        "thirdCallDetails":["xxxxxxx108","xxxxxxx122","xxxxxxx231","xxxxxxx032","xxxxxxx342","xxxxxxxx11"]
+    },
+    {
+        "id":5,
+        "firstCallRange":"2 hrs to 30 mins",
+        "firstCallDetails":["xxxxxxxx11","xxxxxxx129","xxxxxxxx009","xxxxxxxx45","xxxxxxx534","xxxxxxx653"],
+        "secondCallRange":"30 mins to 15 mins",
+        "secondCallDetails":["xxxxxxxx65","xxxxxxx533","xxxxxx862","xxxxxxx129","xxxxxxx341","xxxxxxx12"],
+        "thirdCallRange":"15 mins to 5 mins",
+        "thirdCallDetails":["xxxxxxx188","xxxxxxx122","xxxxxxx231","xxxxxxx675","xxxxxxx675","xxxxxxxx121"]
+    }
+]

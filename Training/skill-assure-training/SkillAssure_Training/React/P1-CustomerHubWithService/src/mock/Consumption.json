@@ -1,0 +1,517 @@
+[
+  {
+    "id": 100001,
+    "customerData": {
+      "subHeading": "Consumption On Location",
+      "addNew":"Connect to wifi at home to conserve mobile data",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "add": "Connect to wif",
+          "Overall": [
+            {
+              "heading": "20",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "75",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "5",
+              "subHeading": "Roaming"
+            }
+          ],
+          "Streaming": [
+            {
+              "heading": "20",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "70",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "10",
+              "subHeading": "Roaming"
+            }
+          ],
+
+          "Apps": [
+            {
+              "heading": "20",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "60",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "20",
+              "subHeading": "Roaming"
+            }
+          ]
+        },
+        {
+            "timeline": "Past Month",
+            "add": "Connect to wifi when at home to conserve your mobile data",
+            "Overall": [
+              {
+                "heading": "30",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "20",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "50",
+                "subHeading": "Roaming"
+              }
+            ],
+            "Streaming": [
+              {
+                "heading": "8",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "22",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "70",
+                "subHeading": "Roaming"
+              }
+            ],
+  
+            "Apps": [
+              {
+                "heading": "15",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "25",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "60",
+                "subHeading": "Roaming"
+              }
+            ]
+          }
+      ]
+    }
+  },
+  {
+    "id": 100002,
+    "customerData": {
+      "subHeading": "Consumption On Location",
+      "addNew":"Connect to wifi when you are outside home location",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "add": "Connect to wifi when at home to conserve your mobile data",
+          "Overall": [
+            {
+              "heading": "25",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "25",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "50",
+              "subHeading": "Roaming"
+            }
+          ],
+          "Streaming": [
+            {
+              "heading": "28",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "55",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "17",
+              "subHeading": "Roaming"
+            }
+          ],
+
+          "Apps": [
+            {
+              "heading": "11",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "45",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "44",
+              "subHeading": "Roaming"
+            }
+          ]
+        },
+        {
+            "timeline": "Past Month",
+            "add": "Connect to wifi when at home to conserve your mobile data",
+            "Overall": [
+              {
+                "heading": "30",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "15",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "55",
+                "subHeading": "Roaming"
+              }
+            ],
+            "Streaming": [
+              {
+                "heading": "22",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "33",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "45",
+                "subHeading": "Roaming"
+              }
+            ],
+  
+            "Apps": [
+              {
+                "heading": "13",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "22",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "65",
+                "subHeading": "Roaming"
+              }
+            ]
+          }
+      ]
+    }
+  },
+  {
+    "id": 100003,
+    "customerData": {
+      "subHeading": "Consumption On Location",
+      "addNew":"More consumption of mobile data when you are outside",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "add": "Connect to wifi when at home to conserve your mobile data",
+          "Overall": [
+            {
+              "heading": "45",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "28",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "27",
+              "subHeading": "Roaming"
+            }
+          ],
+          "Streaming": [
+            {
+              "heading": "41",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "32",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "27",
+              "subHeading": "Roaming"
+            }
+          ],
+
+          "Apps": [
+            {
+              "heading": "52",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "23",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "25",
+              "subHeading": "Roaming"
+            }
+          ]
+        },
+        {
+            "timeline": "Past Month",
+            "add": "Connect to wifi when at home to conserve your mobile data",
+            "Overall": [
+              {
+                "heading": "47",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "18",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "35",
+                "subHeading": "Roaming"
+              }
+            ],
+            "Streaming": [
+              {
+                "heading": "43",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "22",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "35",
+                "subHeading": "Roaming"
+              }
+            ],
+  
+            "Apps": [
+              {
+                "heading": "46",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "28",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "26",
+                "subHeading": "Roaming"
+              }
+            ]
+          }
+      ]
+    }
+  },
+  {
+    "id": 100004,
+    "customerData": {
+      "subHeading": "Consumption On Location",
+      "addNew":"Connect to broadband router when at home",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "add": "Connect to wifi when at home to conserve your mobile data",
+          "Overall": [
+            {
+              "heading": "20",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "71",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "9",
+              "subHeading": "Roaming"
+            }
+          ],
+          "Streaming": [
+            {
+              "heading": "10",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "45",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "45",
+              "subHeading": "Roaming"
+            }
+          ],
+
+          "Apps": [
+            {
+              "heading": "20",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "65",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "15",
+              "subHeading": "Roaming"
+            }
+          ]
+        },
+        {
+            "timeline": "Past Month",
+            "add": "Connect to wifi when at home to conserve your mobile data",
+            "Overall": [
+              {
+                "heading": "30",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "38",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "32",
+                "subHeading": "Roaming"
+              }
+            ],
+            "Streaming": [
+              {
+                "heading": "17",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "34",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "49",
+                "subHeading": "Roaming"
+              }
+            ],
+  
+            "Apps": [
+              {
+                "heading": "22",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "45",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "33",
+                "subHeading": "Roaming"
+              }
+            ]
+          }
+      ]
+    }
+  },
+  {
+    "id": 100005,
+    "customerData": {
+      "subHeading": "Consumption On Location",
+      "addNew":"Set Mobile data usage enable to monitor usage status",
+      "graph": [
+        {
+          "timeline": "Past Week",
+          "add": "Connect to wifi when at home to conserve your mobile data",
+          "Overall": [
+            {
+              "heading": "30",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "15",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "55",
+              "subHeading": "Roaming"
+            }
+          ],
+          "Streaming": [
+            {
+              "heading": "20",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "35",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "45",
+              "subHeading": "Roaming"
+            }
+          ],
+
+          "Apps": [
+            {
+              "heading": "30",
+              "subHeading": "Out & About"
+            },
+            {
+              "heading": "15",
+              "subHeading": "Home"
+            },
+            {
+              "heading": "55",
+              "subHeading": "Roaming"
+            }
+          ]
+        },
+        {
+            "timeline": "Past Month",
+            "add": "Connect to wifi when at home to conserve your mobile data",
+            "Overall": [
+              {
+                "heading": "19",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "38",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "43",
+                "subHeading": "Roaming"
+              }
+            ],
+            "Streaming": [
+              {
+                "heading": "22",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "32",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "46",
+                "subHeading": "Roaming"
+              }
+            ],
+  
+            "Apps": [
+              {
+                "heading": "31",
+                "subHeading": "Out & About"
+              },
+              {
+                "heading": "27",
+                "subHeading": "Home"
+              },
+              {
+                "heading": "42",
+                "subHeading": "Roaming"
+              }
+            ]
+          }
+      ]
+    }
+  }
+]

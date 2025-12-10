@@ -1,0 +1,146 @@
+.top-connect-section{
+    position: relative;
+    .user-image{
+        width: 50px;
+        height: 50px;
+        background-image: url('../../../assets/Images/device.png');
+        background-size: cover;
+    }
+    .image-container{
+        padding: 0 !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+       .icon-container{
+           border: 5px solid #EDF0F5;
+           background-color: #E7E9F0;
+           height: 70px;
+           width: 70px;
+           line-height: 65px;
+           text-align: center;
+           border-radius: 50%;
+       }
+    }
+.devices-first{
+    border-right: 2px solid #4AA3FD;
+    border-radius: 50%;
+    height: 230px;
+    width: 170px;
+    margin-left: -80px;
+    .first-circle{
+        position: absolute;
+        background-image: url('../../../assets/Images/tv.png');
+         background-size: cover;
+        border-radius: 50%;
+        // background: #fff;
+        border: 1px solid #4CA4FE;
+        height: 25px;
+        width: 25px;
+        margin: 70px 0 0 152px;
+    }
+    .second-circle{
+        position: absolute;
+        border: 1px solid #4CA4FE;
+        background-image: url('../../../assets/Images/tab.png');
+        background-size: cover;
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 125px 0 0 155px;
+    }
+}
+.devices-second{
+    position: absolute;
+    border-right: 2px solid #4AA3FD;
+    border-radius: 50%;
+    height: 230px;
+    width: 170px;
+    margin-left: -90px;
+    .first-circle{
+    position: absolute;
+    border: 1px solid #4CA4FE;
+    background-image: url('../../../assets/Images/laptop.png');
+    background-size: cover;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    margin: 30px 0 0 140px;
+    }
+    .second-circle{
+        position: absolute;
+        border: 1px solid #4CA4FE;
+        background-image: url('../../../assets/Images/mobile.png');
+        background-size: cover;
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 83px 0 0 156px;
+    }
+    .third-circle{
+        position: absolute;
+        border: 1px solid #4CA4FE;
+        background-image: url('../../../assets/Images/computer.png');
+        background-size: cover;
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 145px 0 0 150px;
+    }
+}
+.devices-third{
+    position: absolute;
+    border-right: 2px solid #4AA3FD;
+    border-radius: 50%;
+    height: 230px;
+    width: 170px;
+    margin-left: -130px;
+    .first-circle{
+        position: absolute;
+        border: 1px solid #4CA4FE;
+    background-image: url('../../../assets/Images/bulb.jpg');
+    background-size: cover;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+    margin: 10px 0 0 125px;
+    }
+    .second-circle{
+        position: absolute;
+        border: 1px solid #4CA4FE;
+        background-image: url('../../../assets/Images/plug.jpg');
+        background-size: cover;
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 80px 0 0 156px;
+    }
+    .third-circle{
+        position: absolute;
+        border: 1px solid #4CA4FE;
+        background-image: url('../../../assets/Images/doorbell.png');
+        background-size: cover;
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 137px 0 0 153px;
+    }
+    .fourth-circle{
+        position: absolute;
+        border: 1px solid #4CA4FE;
+        background-image: url('../../../assets/Images/thermo.png');
+        background-size: cover;
+        border-radius: 50%;
+        height: 25px;
+        width: 25px;
+        margin: 188px 0 0 130px;
+    }
+}
+
+span{
+    margin-left: 35px;
+}
+p{
+    margin-left: 35px;
+}
+}
+

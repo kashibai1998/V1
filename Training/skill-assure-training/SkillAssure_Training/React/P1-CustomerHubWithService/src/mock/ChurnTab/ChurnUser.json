@@ -1,0 +1,120 @@
+[
+    {
+        "customerId": "7590-VHVEG",
+        "churn": "No",
+        "predChurnRob": "52%",
+        "gender": "Female",
+        "seniorCitizen": "No"
+    },
+    {
+        "customerId": "5575-GNVDE",
+        "churn": "Yes",
+        "predChurnRob": "91%",
+        "gender": "Male",
+        "seniorCitizen": "No"
+    },
+    {
+        "customerId": "9763-GRSKD",
+        "churn": "Yes",
+        "predChurnRob": "83%",
+        "gender": "Male",
+        "seniorCitizen": "No"
+    },
+    {
+        "customerId": "6380-ARCEH",
+        "churn": "No",
+        "predChurnRob": "55%",
+        "gender": "Male",
+        "seniorCitizen": "No"   
+     },
+    {
+        "customerId": "8917-FAEMR",
+        "churn": "Yes",
+        "predChurnRob": "83%",
+        "gender": "Female",
+        "seniorCitizen": "Yes"    },
+    {
+        "customerId": "7290-VYVEG",
+        "churn": "No",
+        "predChurnRob": "45%",
+        "gender": "Male",
+        "seniorCitizen": "No"   
+    },
+    {
+        "customerId": "5075-GNVDD",
+        "churn": "Yes",
+        "predChurnRob": "91%",
+        "gender": "Female",
+        "seniorCitizen": "Yes"   
+    },
+    {
+        "customerId": "9763-GRSKD",
+        "churn": "Yes",
+        "predChurnRob": "77%",
+        "gender": "Male",
+        "seniorCitizen": "No"   
+    },
+    {
+        "customerId": "6220-ARCEH",
+        "churn": "No",
+        "predChurnRob": "51%",
+        "gender": "Female",
+        "seniorCitizen": "No"   
+    },
+    {
+        "customerId": "8910-FAEMZ",
+        "churn": "Yes",
+        "predChurnRob": "95%",
+        "gender": "Female",
+        "seniorCitizen": "Yes"   
+    },
+    {
+        "customerId": "8922-HAEMR",
+        "churn": "Yes",
+        "predChurnRob": "87%",
+        "gender": "Female",
+        "seniorCitizen": "Yes"   
+    },
+    {
+        "customerId": "7299-JKVEG",
+        "churn": "No",
+        "predChurnRob": "43%",
+        "gender": "Male",
+        "seniorCitizen": "No"   
+    },
+    {
+        "customerId": "5325-GNFTY",
+        "churn": "Yes",
+        "predChurnRob": "88%",
+        "gender": "Female",
+        "seniorCitizen": "Yes"   
+    },
+    {
+        "customerId": "9763-GRSKD",
+        "churn": "Yes",
+        "predChurnRob": "85%",
+        "gender": "Male",
+        "seniorCitizen": "No"   
+    },
+    {
+        "customerId": "3220-ARCDE",
+        "churn": "No",
+        "predChurnRob": "54%",
+        "gender": "Female",
+        "seniorCitizen": "Yes"   
+    },
+    {
+        "customerId": "9763-GRSSQ",
+        "churn": "No",
+        "predChurnRob": "42%",
+        "gender": "Male",
+        "seniorCitizen": "No"   
+    },
+    {
+        "customerId": "3220-ARCPO",
+        "churn": "Yes",
+        "predChurnRob": "97%",
+        "gender": "Female",
+        "seniorCitizen": "Yes"   
+    }
+]

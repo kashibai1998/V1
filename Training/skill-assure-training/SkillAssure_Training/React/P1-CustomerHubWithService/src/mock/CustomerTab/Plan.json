@@ -1,0 +1,38 @@
+[
+    {
+        "id": "100001",
+        "planName": "Blue Large Plan",
+        "package":["Fibre Superfast 150Mbps","TV - Sports & Entertainment","Landline - Unlimited Calls","Mobile 1000 Minutes, Unlimited Text & 10 GB data"],
+        "discount": "£ 21 off the monthly bill",
+        "annualCost": "£ 499"
+    },
+    {
+        "id": "100002",
+        "planName": "Blue Large Plan",
+        "package":["Fibre Superfast 150Mbps","TV - Sports & Entertainment","Landline - Unlimited Calls","Mobile 1000 Minutes, Unlimited Text & 10 GB data"],
+        "discount": "£ 21 off the monthly bill",
+        "annualCost": "£ 499 "
+    },
+    {
+        "id": "100003",
+        "planName": "Blue XLarge Plan",
+
+        "package": ["Fibre Superfast 350Mbps", "TV - Sports+ & Entertainment", "Landline - Unlimited Calls", "Mobile 2000 Minutes ,Unlimited Text & 20 GB data"],
+        "discount": "£ 39 off the monthly bill",
+        "annualCost": "£ 599.99 "
+    },
+    {
+        "id": "100004",
+        "planName": "Blue Medium Plan",
+        "package": ["Fibre Fast - 78Mbps", "TV – Sports+", "Landline - Unlimited Calls", "Mobile 500 Minutes, Unlimited Text & 5 GB data "],
+        "discount": "£ 11 off the monthly bill",
+        "annualCost": "£ 369.0 "
+    },
+    {
+        "id": "100005",
+        "planName": "Blue Starter Plan",
+        "package": ["Fibre Basic - 38Mbps", "TV - Sports", "Landline - Unlimited Calls", "Mobile - 500 Minutes, Unlimited Text & 3 GB data"],
+        "discount": "£ 7 off the monthly bill",
+        "annualCost": "£ 329.0 "
+    }
+]

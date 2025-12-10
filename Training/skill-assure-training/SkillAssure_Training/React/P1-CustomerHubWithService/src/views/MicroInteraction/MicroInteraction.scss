@@ -1,0 +1,42 @@
+
+.micro-interaction{
+    .billing-color{
+        background-color: rgb(195, 214, 226);
+    }
+    .service-color{
+        background-color: rgb(160, 238, 234);
+
+    }
+    .sales-color{
+        background-color: #fce4fc;
+
+    }
+    
+    h3{
+        font-family: 'Noto Sans JP', sans-serif;
+        font-weight: 600;
+        font-size: 1rem;
+        font-stretch: expanded;
+    }
+    .red{
+        color: red;
+    }
+    .green{
+        color: green;
+    }
+    .highlight {
+        background: red !important;
+        color: #fff;
+        font-weight: bold;
+    }
+    .gray{
+        background: rgb(194, 194, 194) !important;
+        color: #fff;
+        font-weight: bold;
+    }
+    .green{
+        background: rgb(50, 211, 10) !important;
+        color: #fff;
+        font-weight: bold;
+    }
+}

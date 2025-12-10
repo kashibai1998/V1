@@ -1,0 +1,1449 @@
+[
+    {
+        "id": 100001,
+        "customerData": {
+            "offer": "Handset upgrade-offer iPhone 11 pro max and additional £50 per month on the BlueXL Plan",
+            "graph": [
+                {
+                    "timeline": "pastWeek",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "y": 4
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.4,
+                                "y": 6
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "7 August 2020",
+                            "time": "5:1pm",
+                            "datails": "Messaged Contact centre for account information "
+                        },
+                        {
+                            "date": "2 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry  "
+                        }
+                    ]
+                },
+                {
+                    "timeline": "pastmonth",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 3
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2,
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.2,
+                                "y": 7
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.4,
+                                "y": 6
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "7 August 2020",
+                            "time": "5:1pm",
+                            "datails": "Messaged Contact centre for account information"
+                        },
+                        {
+                            "date": "2 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry  "
+                        },
+                        {
+                            "date": "12 July 2020",
+                            "time": "6:10pm",
+                            "datails": "Fibre ports faulty at pcp"
+                        },
+                        {
+                            "date": "5 July 2020",
+                            "time": "6:10pm",
+                            "datails": "Raised an Online service ticket for slow broadband connectivity"
+                        }
+                    ]
+                },
+                {
+                    "timeline": "past 3months",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 3
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2,
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.2,
+                                "y": 7
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.4,
+                                "y": 6
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "7 August 2020",
+                            "time": "5:1pm",
+                            "datails": "Messaged Contact centre for account information "
+                        },
+                        {
+                            "date": "2 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry  "
+                        },
+                        {
+                            "date": "12 July 2020",
+                            "time": "6:10pm",
+                            "datails": "Fibre ports faulty at pcp"
+                        },
+                        {
+                            "date": "5 July 2020",
+                            "time": "6:10pm",
+                            "datails": "Raised an Online service ticket for slow broadband connectivity"
+                        },
+                        {
+                            "date": "10 June 2020",
+                            "time": "5:34pm",
+                            "datails": "Interacted with chatbot for router capabilities  "
+                        }
+                    ]
+                },
+                {
+                    "timeline": "past 6months",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 3
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2,
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.2,
+                                "y": 7
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.4,
+                                "y": 6
+                            },
+                            {
+                                "x": 2.2,
+                                "y": 2
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "7 August 2020",
+                            "time": "5:1pm",
+                            "datails": "Messaged Contact centre for Billing information "
+                        },
+                        {
+                            "date": "2 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry  "
+                        },
+                        {
+                            "date": "12 July 2020",
+                            "time": "6:10pm",
+                            "datails": "Fibre ports faulty at pcp"
+                        },
+                        {
+                            "date": "5 July 2020",
+                            "time": "6:10pm",
+                            "datails": "Raised an Online service ticket for slow broadband connectivity"
+                        },
+                        {
+                            "date": "10 June 2020",
+                            "time": "5:34pm",
+                            "datails": "Interacted with chatbot for router capabilities  "
+                        },
+                        {
+                            "date": "2 May 2020",
+                            "time": "5:10pm",
+                            "datails": "Paid bill online for 2020"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 100002,
+        "customerData": {
+            "offer": "Handset upgrade-offer Samsung Galaxy Note20 and additional £50 per month on the BlueXL Plan",
+            "graph": [
+                {
+                    "timeline": "pastWeek",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "y": 4
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.3,
+                                "y": 6
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "9 August 2020",
+                            "time": "5:1pm",
+                            "datails": "Messaged Contact centre for account Information"
+                        },
+                        {
+                            "date": "3 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Written mail for changing router through app"
+                        }
+                    ]
+                },
+                {
+                    "timeline": "pastmonth",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2,
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.3,
+                                "y": 6
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "9 August 2020",
+                            "time": "5:1pm",
+                            "datails": "Messaged Contact centre for account information"
+                        },
+                        {
+                            "date": "3 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Written mail for changing router through app"
+                        },
+                        {
+                            "date": "16 July 2020",
+                            "time": "11:10pm",
+                            "datails": "Paid Bill for last month"
+                        }
+                    ]
+                },
+                {
+                    "timeline": "past 3months",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2,
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.2,
+                                "y": 7
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.3,
+                                "y": 6
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "7 August 2020",
+                            "time": "5:1pm",
+                            "datails": "Messaged Contact centre for account Information"
+                        },
+                        {
+                            "date": "2 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry  "
+                        },
+                        {
+                            "date": "12 July 2020",
+                            "time": "6:10pm",
+                            "datails": "Fibre ports faulty at pcp"
+                        },
+                        {
+                            "date": "10 June 2020",
+                            "time": "5:34pm",
+                            "datails": "Interacted with chatbot for router capabilities  "
+                        }
+                    ]
+                },
+                {
+                    "timeline": "past 6months",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2,
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.2,
+                                "y": 7
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.3,
+                                "y": 6
+                            },
+                            {
+                                "x": 2.2,
+                                "y": 2
+                            },
+                            {
+                                "x": 2.2,
+                                "y": 4
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "7 August 2020",
+                            "time": "5:1pm",
+                            "datails": "Messaged Contact centre for billing information"
+                        },
+                        {
+                            "date": "2 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry  "
+                        },
+                        {
+                            "date": "12 July 2020",
+                            "time": "6:10pm",
+                            "datails": "Fibre ports faulty at pcp"
+                        },
+                        {
+                            "date": "7 July 2020",
+                            "time": "6:10pm",
+                            "datails": "Sync and dial tone changed"
+                        },
+                        {
+                            "date": "10 June 2020",
+                            "time": "5:34pm",
+                            "datails": "Interacted with chatbot for router capabilities  "
+                        },
+                        {
+                            "date": "2 April 2020",
+                            "time": "5:10pm",
+                            "datails": "Paid all previous bills"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 100003,
+        "customerData": {
+            "offer": "Handset upgrade-offer Apple iPad Pro 12.9-inch",
+            "graph": [
+                {
+                    "timeline": "pastWeek",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "y": 4
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.3,
+                                "y": 7
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "9 August 2020",
+                            "time": "5:1pm",
+                            "datails": "Raised a service ticket for slow broadband speed through chatbot"
+                        },
+                        {
+                            "date": "3 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry"
+                        }
+                    ]
+                },
+                {
+                    "timeline": "pastmonth",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2,
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.3,
+                                "y": 7
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "9 August 2020",
+                            "time": "5:1pm",
+                            "datails": "Raised a service ticket for slow broadband speed through chatbot"
+                        },
+                        {
+                            "date": "3 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry"
+                        },
+                        {
+                            "date": "16 July 2020",
+                            "time": "11:10pm",
+                            "datails": "Change in Current plan"
+                        }
+                    ]
+                },
+                {
+                    "timeline": "past 3months",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2,
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 7
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.3,
+                                "y": 7
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "9 August 2020",
+                            "time": "5:1pm",
+                            "datails": "Raised a service ticket for slow broadband speed through chatbot"
+                        },
+                        {
+                            "date": "3 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry"
+                        },
+                        {
+                            "date": "16 July 2020",
+                            "time": "11:10pm",
+                            "datails": "Change in Current plan"
+                        },
+                        {
+                            "date": "10 June 2020",
+                            "time": "5:34pm",
+                            "datails": "Interacted in email for router capabilities  "
+                        }
+                    ]
+                },
+                {
+                    "timeline": "past 6months",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 2
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 3
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2,
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 7
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.3,
+                                "y": 7
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "9 August 2020",
+                            "time": "5:1pm",
+                            "datails": "Raised a service ticket for slow broadband speed through chatbot"
+                        },
+                        {
+                            "date": "3 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry"
+                        },
+                        {
+                            "date": "16 July 2020",
+                            "time": "11:10pm",
+                            "datails": "Change in Current plan"
+                        },
+                        {
+                            "date": "10 June 2020",
+                            "time": "5:34pm",
+                            "datails": "Interacted in email for router capabilities  "
+                        },
+                        {
+                            "date": "2 April 2020",
+                            "time": "5:10pm",
+                            "datails": "Paid all previous bills online"
+                        },
+                        {
+                            "date": "28 May 2020",
+                            "time": "3:10pm",
+                            "datails": "Raised a service ticket for Network issue through app"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 100004,
+        "customerData": {
+            "offer": "Handset upgrade-offer Google Pixel 3 and additional £79 per month on the Blue L Plan",
+            "graph": [
+                {
+                    "timeline": "pastWeek",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "y": 4
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.6,
+                                "y": 7
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "11 August 2020",
+                            "time": "7:1pm",
+                            "datails": "Interacted with chatbot for router capabilities"
+                        },
+                        {
+                            "date": "7 August 2020",
+                            "time": "8:34pm",
+                            "datails": "Raised an Email for assigning ticket for no broadband connectivity"
+                        }
+                    ]
+                },
+                {
+                    "timeline": "pastmonth",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2,
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.6,
+                                "y": 7
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "11 August 2020",
+                            "time": "7:1pm",
+                            "datails": "Interacted with chatbot for router capabilities"
+                        },
+                        {
+                            "date": "7 August 2020",
+                            "time": "8:34pm",
+                            "datails": "Raised an Email for assigning ticket for no broadband connectivity"
+                        },
+                        {
+                            "date": "10 July 2020",
+                            "time": "11:10pm",
+                            "datails": "Fibre ports faulty at pcp"
+                        }
+                    ]
+                },
+                {
+                    "timeline": "past 3months",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2,
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 7
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.6,
+                                "y": 7
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "11 August 2020",
+                            "time": "7:1pm",
+                            "datails": "Interacted with chatbot for router capabilities"
+                        },
+                        {
+                            "date": "7 August 2020",
+                            "time": "8:34pm",
+                            "datails": "Raised an Email for assigning ticket for no broadband connectivity"
+                        },
+                        {
+                            "date": "10 July 2020",
+                            "time": "11:10pm",
+                            "datails": "Fibre ports faulty at pcp"
+                        },
+                        {
+                            "date": "5 June 2020",
+                            "time": "5:34pm",
+                            "datails": "Interacted with chatbot for router capabilities  "
+                        }
+                    ]
+                },
+                {
+                    "timeline": "past 6months",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            }
+                        ],
+                        "service": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2,
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 2.2,
+                                "y": 7
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.6,
+                                "y": 7
+                            },
+                            {
+                                "x": 2.2,
+                                "y": 2
+                            },
+                            {
+                                "x": 2.2,
+                                "y": 4
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "11 August 2020",
+                            "time": "7:1pm",
+                            "datails": "Interacted with chatbot for router capabilities"
+                        },
+                        {
+                            "date": "7 August 2020",
+                            "time": "8:34pm",
+                            "datails": "Raised an Online service ticket for no broadband connectivity"
+                        },
+                        {
+                            "date": "10 July 2020",
+                            "time": "11:10pm",
+                            "datails": "Paid bill online"
+                        },
+                        {
+                            "date": "5 June 2020",
+                            "time": "5:34pm",
+                            "datails": "Interacted with chatbot for router capabilities  "
+                        },
+                        {
+                            "date": "2 April 2020",
+                            "time": "5:10pm",
+                            "datails": "Paid all previous bills"
+                        },
+                        {
+                            "date": "28 May 2020",
+                            "time": "3:10pm",
+                            "datails": "Messaged Contact centre to enable International Roaming"
+                        }
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "id": 100005,
+        "customerData": {
+            "offer": "Handset upgrade-offer Oppo A5 2020 and additional £49 per month on the Blue Medium Plan",
+            "graph": [
+                {
+                    "timeline": "pastWeek",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            },
+                            {
+                                "x": 3
+                            }
+                        ],
+                        "service": [
+                            {
+                                "x": 4.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2.3
+                            },
+                            {
+                                "y": 4
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.6,
+                                "y": 6
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "10 August 2020",
+                            "time": "5:10pm",
+                            "datails": "Messaged Contact centre for account Information "
+                        },
+                        {
+                            "date": "4 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry  "
+                        }
+                    ]
+                },
+                {
+                    "timeline": "pastmonth",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            },
+                            {
+                                "x": 3,
+                                "y": 4
+                            }
+                        ],
+                        "service": [
+                            {
+                                "x": 4.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2.3
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 1.6,
+                                "y": 7
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.6,
+                                "y": 6
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "10 August 2020",
+                            "time": "5:10pm",
+                            "datails": "Messaged Contact centre for Billing related issue"
+                        },
+                        {
+                            "date": "4 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry  "
+                        },
+                        {
+                            "date": "28 July 2020",
+                            "time": "7:1pm",
+                            "datails": "Interacted with chatbot for router capabilities"
+                        },
+                        {
+                            "date": "17 July 2020",
+                            "time": "5:10pm",
+                            "datails": "Fibre ports faulty at pcp"
+                        }
+                    ]
+                },
+                {
+                    "timeline": "past 3months",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            },
+                            {
+                                "x": 3,
+                                "y": 4
+                            }
+                        ],
+                        "service": [
+                            {
+                                "x": 4.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2.3
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 1.6,
+                                "y": 7
+                            },
+                            {
+                                "x": 3,
+                                "y": 3
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.6,
+                                "y": 6
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "10 August 2020",
+                            "time": "5:10pm",
+                            "datails": "Messaged Contact centre to disable account "
+                        },
+                        {
+                            "date": "4 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry  "
+                        },
+                        {
+                            "date": "28 July 2020",
+                            "time": "7:1pm",
+                            "datails": "Interacted with chatbot for router capabilities"
+                        },
+                        {
+                            "date": "17 July 2020",
+                            "time": "5:10pm",
+                            "datails": "Fibre ports faulty at pcp"
+                        },
+                        {
+                            "date": "2 July 2020",
+                            "time": "7:1pm",
+                            "datails": "spoke to dcoe to clear fault"
+                        }
+                    ]
+                },
+                {
+                    "timeline": "past 6months",
+                    "scatteredChart": {
+                        "sales": [
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "y": 6
+                            },
+                            {
+                                "x": 3,
+                                "y": 4
+                            }
+                        ],
+                        "service": [
+                            {
+                                "x": 4.3,
+                                "y": 5
+                            },
+                            {
+                                "x": 2.3
+                            },
+                            {
+                                "y": 4
+                            },
+                            {
+                                "x": 1.6,
+                                "y": 7
+                            },
+                            {
+                                "x": 3,
+                                "y": 3
+                            },
+                            {
+                                "x": 3,
+                                "y": 2
+                            }
+                        ],
+                        "bills": [
+                            {
+                                "y": 2
+                            },
+                            {
+                                "y": 7
+                            },
+                            {
+                                "x": 1.6,
+                                "y": 6
+                            },
+                            {
+                                "x": 4.3,
+                                "y": 6
+                            }
+                        ]
+                    },
+                    "channelData": [
+                        {
+                            "date": "10 August 2020",
+                            "time": "5:10pm",
+                            "datails": "Messaged Contact centre for account Information"
+                        },
+                        {
+                            "date": "4 August 2020",
+                            "time": "5:34pm",
+                            "datails": "Riased an email enquiry  "
+                        },
+                        {
+                            "date": "28 July 2020",
+                            "time": "7:1pm",
+                            "datails": "Interacted with chatbot for router capabilities"
+                        },
+                        {
+                            "date": "17 July 2020",
+                            "time": "5:10pm",
+                            "datails": "Fibre ports faulty at pcp"
+                        },
+                        {
+                            "date": "2 July 2020",
+                            "time": "7:1pm",
+                            "datails": "spoke to dcoe to clear fault"
+                        },
+                        {
+                            "date": "8 June 2020",
+                            "time": "5:10pm",
+                            "datails": "Paid all previous bills"
+                        },
+                        {
+                            "date": "28 May 2020",
+                            "time": "3:10pm",
+                            "datails": "Messaged Contact centre to enable International Roaming"
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+]

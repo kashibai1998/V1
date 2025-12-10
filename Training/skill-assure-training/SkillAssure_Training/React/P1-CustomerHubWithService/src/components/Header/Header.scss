@@ -1,0 +1,32 @@
+.header-comp {
+    .ui.segment.header-segment{
+        border-radius: inherit;
+        background: #005f9b linear-gradient(180deg,#062d4b 0,#005e9a 100%);
+        min-height: 7rem;
+    }
+    .menu-item {
+        .ui.image.logo {
+            margin-left: 100px;
+            cursor: pointer;
+           // width: 40%;
+            width: auto !important;
+            height: 55%;
+            margin-top: 5%
+        }
+        .alarm-icon {
+            .comment {
+                margin: 0px;
+                border-top: 0px;
+                border-bottom: 0px;
+            }
+        }
+        .right-icons {
+            .dropdown-items {
+                .drop-menu {
+                    border-radius: 15px;
+                    // style={{ borderRadius: '15px' }}
+                }
+            }
+        }
+    }
+}

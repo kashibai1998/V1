@@ -1,0 +1,108 @@
+[
+    {
+        "chartData":{
+            "flowChartData":
+            {
+               "nodeDataArray": [
+                   { "key": 0,"head": "36063", "foot": "Browsing", "img": "websearch.png","color": "white"},
+                   { "key": 1,"head": "20867", "foot": "Abandoned", "img": "abandon.png","color": "white" },
+                   { "key": 2,"head": "15196", "foot": "Plan Selection", "img": "plan.png","color": "white" },
+                   { "key": 3,"head": "9531", "foot": "Address& Identification", "img": "address.png","color": "white"},
+                   { "key": 4,"head": "4033", "foot": "Accessories Selection", "img": "accessories.png","color": "white" },
+                   { "key": 5,"head": "1908", "foot": "Payment & Checkout ", "img": "checkout.png","color": "white" },
+                   { "key": 6,"head": "5665", "foot": "Abandoned", "img": "abandon.png","color": "white"},
+                   { "key": 7,"head": "5498", "foot": "Abandoned", "img": "abandon.png","color": "white"},
+                   { "key": 8,"head": "2125", "foot": "Abandoned", "img": "abandon.png","color": "white"}
+               ],
+               "linkDataArray": [
+                   { "from": 0, "to": 2 },
+                   { "from": 0, "to": 1 },
+                   { "from": 2, "to": 3 },
+                   { "from": 3, "to": 4 },
+                   {"from": 4, "to": 5},
+                   {"from": 2, "to": 6},
+                   {"from": 3, "to": 7},
+                   {"from": 4, "to": 8}
+               ]
+            }
+        }
+        
+    },
+    {
+        "chartData":{
+            "flowChartData":
+            {
+               "nodeDataArray": [
+                   { "key": 0,"head": "36580", "foot": "Browsing", "img": "websearch.png","color": "white"},
+                   { "key": 1,"head": "15321", "foot": "Abandoned", "img": "abandon.png","color": "white" },
+                   { "key": 2,"head": "21259", "foot": "Plan Section", "img": "plan.png","color": "white" },
+                   { "key": 3,"head": "9903", "foot": "Address& Identification", "img": "address.png","color": "white"},
+                   { "key": 4,"head": "4290", "foot": "Accessories Selection", "img": "accessories.png","color": "white" },
+                   { "key": 5,"head": "1901", "foot": "Payment & Checkout", "img": "checkout.png","color": "white" },
+                   { "key": 6,"head": "11356", "foot": "Abandoned", "img": "abandon.png","color": "white"},
+                   { "key": 7,"head": "5613", "foot": "Abandoned", "img": "abandon.png","color": "white"},
+                   { "key": 8,"head": "2389", "foot": "Abandoned", "img": "abandon.png","color": "white"}
+               ],
+               "linkDataArray": [
+                   { "from": 0, "to": 2 },
+                   { "from": 0, "to": 1 },
+                   { "from": 2, "to": 3 },
+                   { "from": 3, "to": 4 },
+                   {"from": 4, "to": 5},
+                   {"from": 2, "to": 6},
+                   {"from": 3, "to": 7},
+                   {"from": 4, "to": 8}
+               ]
+            }
+        }
+        
+    },
+    {
+        "chartData":{
+            "flowChartData":
+            {
+               "nodeDataArray": [
+                   { "key": 0,"head": "185612", "foot": "Total calls received", "img": "phonecall.png","color": "white"},
+                   { "key": 1,"head": "15767", "foot": "Switch to chatbot", "img": "chatbot.png","color": "white" },
+                   { "key": 2,"head": "30223", "foot": "Droped while in queue", "img": "calldrop.png","color": "white" },
+                   { "key": 3,"head": "139622", "foot": "Attended by agent", "img": "customercall.png","color": "white"},
+                   { "key": 4,"head": "114322", "foot": "Right first time", "img": "rightfirsttime.png","color": "white" },
+                   { "key": 5,"head": "36231", "foot": "Took agent feedback survey", "img": "customer-review.png","color": "white" },
+                   { "key": 6,"head": "21988", "foot": "positive response", "img": "engagement.png","color": "white"}
+               ],
+               "linkDataArray": [
+                   { "from": 0, "to": 3 },
+                   { "from": 0, "to": 1 },
+                   { "from": 0, "to": 2 },
+                   { "from": 3, "to": 4 },
+                   {"from": 4, "to": 5},
+                   {"from": 5, "to": 6}
+               ]
+            }
+        }
+        
+    },
+    {
+        "chartData":{
+            "flowChartData":
+            {
+               "nodeDataArray": [
+                   { "key": 0,"head": "7578", "foot": "Footfall", "img": "footfall.png","color": "white"},
+                   { "key": 1,"head": "3466", "foot": "New sale", "img": "sale.png","color": "white" },
+                   { "key": 2,"head": "1235", "foot": "Service", "img": "service.png","color": "white" },
+                   { "key": 3,"head": "2877", "foot": "Inquiry", "img": "inquiry.png","color": "white"},
+                   { "key": 4,"head": "1189", "foot": "Right first time", "img": "rightfirsttime.png","color": "white" },
+                   { "key": 5,"head": "2651", "foot": "Right first time", "img": "rightfirsttime.png","color": "white" }
+               ],
+               "linkDataArray": [
+                   { "from": 0, "to": 1 },
+                   { "from": 0, "to": 2 },
+                   { "from": 0, "to": 3 },
+                   { "from": 2, "to": 4 },
+                   {"from": 3, "to": 5}
+               ]
+            }
+        }
+        
+    }
+]
